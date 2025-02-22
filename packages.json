@@ -17,7 +17,7 @@
       "dailyIncome": 250,
       "minimumWithdrawal": 3000,
       "earningPerSurvey": "50 - 100",
-      "price": "250"
+      "price": "300"
     },
     {
       "planName": "Business Premium",
@@ -39,8 +39,8 @@
     }
   ],
   "mpesaPaymentDetails": {
-    "tillName": "FORFIXED HQ",
-    "tillNumber":  707045
+    "tillName": "JimJam Enterprise",
+    "tillNumber":  4968340
   },
   "moneyMaking": [
     
