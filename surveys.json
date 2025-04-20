@@ -8,19 +8,19 @@
             "surveyAmount": 70,
             "surveyQuestions": [
                 {
-                    "surveyQuestion": "Which technology platform introduced you to our survey service?",
+                    "surveyQuestion": "How did you hear about us?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Google",
-                        "X",
-                        "Reddit",
-                        "LinkedIn",
+                        "Youtube",
+                        "Twitter",
+                        "Instagram",
+                        "Facebook",
                         "Friend",
                         "Our Website"
                     ]
                 },
                 {
-                    "surveyQuestion": "We collaborate with tech companies to provide earning opportunities through surveys. Your responses help advance their innovations, so please provide thoughtful answers.",
+                    "surveyQuestion": "We partner with thousand of businesses and brands to help you earn. These brands rely on your answers to advance their work thats why its important to write great answers",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "I understand",
@@ -28,7 +28,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Our platform allows you to earn money from tech-focused surveys. Payments are processed upon survey submission.",
+                    "surveyQuestion": "Surveys allows you to earn money from every survey. You will receive your payment when you submit your survey.",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Looks Good",
@@ -36,7 +36,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Some tech surveys require specific expertise. You may be disqualified from certain surveys based on your experience.",
+                    "surveyQuestion": "Researchers on our platform sometimes look for people with specific experience. As a result you may be disqualified from certain surveys",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Looks Good",
@@ -44,7 +44,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "You will have access to one tech survey daily. Upgrade your account from your profile for more surveys. This survey is free, and you can take another one.",
+                    "surveyQuestion": "Every day, you will have access to one survey. You can upgrade you account from your profile if you need more surveys. This survey is free and you can take another one",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Looks Good",
@@ -52,12 +52,12 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Once you accumulate enough earnings from tech surveys, you can request a withdrawal for processing.",
+                    "surveyQuestion": "Once you collect enough earnings, you can submit withdrawal for us to process and pay you",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Have friends interested in tech? Earn Ksh 30 for every tech survey your friend completes.",
+                    "surveyQuestion": "Have friends? We will pay you Ksh 30 for every survey you friend completes",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Looks Good",
@@ -73,34 +73,34 @@
             "surveyAmount": 80,
             "surveyQuestions": [
                 {
-                    "surveyQuestion": "How often do you use KFC's online ordering platform?",
+                    "surveyQuestion": "How often do you visit KFC?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Daily",
                         "Weekly",
                         "Monthly",
                         "Rarely",
-                        "Never"
+                        "First Time"
                     ]
                 },
                 {
-                    "surveyQuestion": "Which KFC digital services have you used?",
+                    "surveyQuestion": "What items do you usually order at KFC?",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Mobile App",
-                        "Website Ordering",
-                        "Delivery Platforms",
-                        "Loyalty Program",
-                        "In-Store Kiosk"
+                        "Chicken",
+                        "Burgers",
+                        "Fries",
+                        "Drinks",
+                        "Desserts"
                     ]
                 },
                 {
-                    "surveyQuestion": "What do you like most about KFC's digital ordering experience?",
+                    "surveyQuestion": "What do you like most about KFC?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Rate your satisfaction with KFC's online ordering system on a scale of 1-5.",
+                    "surveyQuestion": "Rate your overall satisfaction with KFC on a scale of 1-5",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "1",
@@ -111,7 +111,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "How likely are you to recommend KFC's mobile app to a friend?",
+                    "surveyQuestion": "How likely are you to recommend KFC to a friend or family member?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "1",
@@ -127,7 +127,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "How would you rate the speed of KFC's online order processing?",
+                    "surveyQuestion": "How would you rate the speed of service at KFC?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Very Slow",
@@ -138,12 +138,12 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "What improvements would you suggest for KFC's digital services?",
+                    "surveyQuestion": "What improvements would you like to see at KFC?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Rate the ease of navigating KFC's mobile app on a scale of 1-5.",
+                    "surveyQuestion": "Rate the cleanliness of the KFC location you visited",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "1",
@@ -154,32 +154,32 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Which method do you prefer for ordering from KFC?",
+                    "surveyQuestion": "How do you usually place your order at KFC?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Mobile App",
-                        "Website",
-                        "Third-Party Delivery",
-                        "In-Store"
+                        "In-store",
+                        "Drive-thru",
+                        "Online",
+                        "Delivery"
                     ]
                 },
                 {
-                    "surveyQuestion": "What motivates you to use KFC's digital ordering services?",
+                    "surveyQuestion": "What factors influence your decision to visit KFC?",
                     "surveyType": 3,
                     "surveyAnswers": [
                         "Convenience",
-                        "Speed",
-                        "Promotions",
-                        "Customization Options"
+                        "Price",
+                        "Quality of Food",
+                        "Promotions"
                     ]
                 },
                 {
-                    "surveyQuestion": "Please share any additional feedback about KFC's digital platforms.",
+                    "surveyQuestion": "Please share any additional comments or feedback about your KFC experience",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Rate the responsiveness of KFC's customer support for online orders.",
+                    "surveyQuestion": "Rate the friendliness of the KFC staff",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "1",
@@ -190,7 +190,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "How satisfied are you with the variety of payment options on KFC's digital platforms?",
+                    "surveyQuestion": "How satisfied are you with the variety of menu items at KFC?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Very Dissatisfied",
@@ -209,33 +209,33 @@
             "surveyAmount": 40,
             "surveyQuestions": [
                 {
-                    "surveyQuestion": "How often do you use Naivas Supermarket's online shopping platform?",
+                    "surveyQuestion": "How often do you shop at Naivas Supermarket?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Daily",
                         "Weekly",
                         "Monthly",
                         "Rarely",
-                        "Never"
+                        "First Time"
                     ]
                 },
                 {
-                    "surveyQuestion": "Which Naivas digital services have you used?",
+                    "surveyQuestion": "What products do you usually purchase at Naivas Supermarket?",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Online Shopping",
-                        "Mobile App",
-                        "Loyalty Program",
-                        "Delivery Service"
+                        "Groceries",
+                        "Household items",
+                        "Electronics",
+                        "Clothing"
                     ]
                 },
                 {
-                    "surveyQuestion": "What do you like most about Naivas Supermarket's online platform?",
+                    "surveyQuestion": "What do you like most about Naivas Supermarket?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Rate your overall satisfaction with Naivas Supermarket's online platform on a scale of 1-5.",
+                    "surveyQuestion": "Rate your overall satisfaction with Naivas Supermarket on a scale of 1-5",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "1",
@@ -246,7 +246,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "How likely are you to recommend Naivas Supermarket's online platform to a friend?",
+                    "surveyQuestion": "How likely are you to recommend Naivas Supermarket to a friend or colleague?",
                     "surveyType": 3,
                     "surveyAnswers": [
                         "1",
@@ -262,31 +262,31 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Which payment methods do you use on Naivas Supermarket's online platform?",
+                    "surveyQuestion": "How do you usually pay for your purchases at Naivas Supermarket?",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Mobile Payment",
+                        "Cash",
                         "Credit/Debit Card",
-                        "Cash on Delivery"
+                        "Mobile Payment"
                     ]
                 },
                 {
-                    "surveyQuestion": "Which Naivas online services have you used?",
+                    "surveyQuestion": "Which of the following services have you used at Naivas Supermarket?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Home Delivery",
-                        "In-Store Pickup",
-                        "Customer Support",
-                        "Loyalty Program"
+                        "Home delivery",
+                        "In-store pickup",
+                        "Customer support",
+                        "Loyalty program"
                     ]
                 },
                 {
-                    "surveyQuestion": "What improvements would you like to see in Naivas Supermarket's online platform?",
+                    "surveyQuestion": "What improvements would you like to see at Naivas Supermarket?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Rate the quality of customer service on Naivas Supermarket's online platform on a scale of 1-5.",
+                    "surveyQuestion": "Rate the quality of customer service at Naivas Supermarket on a scale of 1-5",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "1",
@@ -297,10 +297,10 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "How did you discover Naivas Supermarket's online platform?",
+                    "surveyQuestion": "How did you hear about Naivas Supermarket?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Social Media",
+                        "Social media",
                         "Friends/Family",
                         "Advertisements"
                     ]
@@ -314,35 +314,33 @@
             "surveyAmount": 49,
             "surveyQuestions": [
                 {
-                    "surveyQuestion": "How often do you use food delivery apps?",
+                    "surveyQuestion": "How often do you eat?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Daily",
-                        "Weekly",
-                        "Monthly",
-                        "Rarely",
-                        "Never"
+                        "Once a day",
+                        "Twice a day",
+                        "Thrice a day"
                     ]
                 },
                 {
-                    "surveyQuestion": "Which food delivery apps do you use? (Select all that apply)",
+                    "surveyQuestion": "Which cuisines do you enjoy? (Select all that apply)",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Uber Eats",
-                        "Glovo",
-                        "Bolt Food",
-                        "Jumia Food",
-                        "Deliveroo",
-                        "Local Services"
+                        "African",
+                        "Italian",
+                        "Mexican",
+                        "Chinese",
+                        "Indian",
+                        "Japanese"
                     ]
                 },
                 {
-                    "surveyQuestion": "What is your favorite feature in a food delivery app?",
+                    "surveyQuestion": "What is your favorite comfort food?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Do you use a meal planning or nutrition tracking app?",
+                    "surveyQuestion": "Do you follow any specific diet? If yes, please specify.",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Yes",
@@ -350,25 +348,25 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Which nutrition tracking apps do you use? (Select all that apply)",
+                    "surveyQuestion": "Which of the following snacks do you enjoy? (Select all that apply)",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "MyFitnessPal",
-                        "Cronometer",
-                        "Lifesum",
-                        "Yazio",
-                        "Noom"
+                        "Chips",
+                        "Popcorn",
+                        "Fruit",
+                        "Nuts",
+                        "Chocolate"
                     ]
                 },
                 {
-                    "surveyQuestion": "Which features do you value in a meal delivery service? (Select all that apply)",
+                    "surveyQuestion": "Which beverages do you prefer? (Select all that apply)",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Speed",
-                        "Variety",
-                        "Healthy Options",
-                        "Price",
-                        "Customization"
+                        "Coffee",
+                        "Tea",
+                        "Soda",
+                        "Water",
+                        "Juice"
                     ]
                 }
             ]
@@ -392,22 +390,22 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Which technology services do you use in Nakuru County?",
+                    "surveyQuestion": "Which of the following services do you use in Nakuru County?",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Internet Services",
-                        "Mobile Banking",
-                        "E-Government Services",
-                        "Smart Transport Apps"
+                        "Healthcare",
+                        "Education",
+                        "Public Transport",
+                        "Recreational Facilities"
                     ]
                 },
                 {
-                    "surveyQuestion": "What tech improvements would you like to see in Nakuru County?",
+                    "surveyQuestion": "What do you think can be improved in Nakuru County?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Rate the quality of internet connectivity in Nakuru County on a scale of 1-5.",
+                    "surveyQuestion": "Rate the quality of healthcare services in Nakuru County on a scale of 1-5",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "1",
@@ -418,7 +416,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "How likely are you to recommend Nakuru County for tech startups?",
+                    "surveyQuestion": "How likely are you to recommend Nakuru County as a place to live?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "1",
@@ -434,7 +432,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "How often do you use mobile apps for services in Nakuru County?",
+                    "surveyQuestion": "How often do you visit recreational facilities in Nakuru County?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Daily",
@@ -445,23 +443,23 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Which digital payment methods do you use in Nakuru County?",
+                    "surveyQuestion": "What modes of transport do you use within Nakuru County?",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "M-Pesa",
-                        "Airtel Money",
-                        "Bank Cards",
-                        "PayPal",
-                        "Cash"
+                        "Bus",
+                        "Matatu",
+                        "Boda Boda",
+                        "Private Car",
+                        "Walking"
                     ]
                 },
                 {
-                    "surveyQuestion": "What is your favorite tech service in Nakuru County?",
+                    "surveyQuestion": "What is your favorite place in Nakuru County?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Rate the accessibility of public Wi-Fi in Nakuru County on a scale of 1-5.",
+                    "surveyQuestion": "Rate the cleanliness of public spaces in Nakuru County on a scale of 1-5",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "1",
@@ -472,7 +470,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "How likely are you to participate in tech-related community events in Nakuru County?",
+                    "surveyQuestion": "How likely are you to participate in community events in Nakuru County?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "1",
@@ -488,7 +486,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "How satisfied are you with the local government's adoption of technology?",
+                    "surveyQuestion": "How satisfied are you with the local government in Nakuru County?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Very Satisfied",
@@ -499,17 +497,17 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Which tech-related issues concern you most in Nakuru County?",
+                    "surveyQuestion": "Which of the following issues concern you the most in Nakuru County?",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Internet Access",
-                        "Cybersecurity",
-                        "Digital Literacy",
-                        "Cost of Tech Services"
+                        "Crime",
+                        "Unemployment",
+                        "Pollution",
+                        "Traffic"
                     ]
                 },
                 {
-                    "surveyQuestion": "Do you have any suggestions for improving tech infrastructure in Nakuru County?",
+                    "surveyQuestion": "Do you have any additional comments or suggestions for improving Nakuru County?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 }
@@ -522,7 +520,7 @@
             "surveyAmount": 53,
             "surveyQuestions": [
                 {
-                    "surveyQuestion": "How many hours do you use your smart TV per day?",
+                    "surveyQuestion": "How many hours do you watch TV per day?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Less than 1 hour",
@@ -532,54 +530,56 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Which streaming services do you use on your smart TV?",
+                    "surveyQuestion": " Which genres of TV shows do you enjoy watching?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Netflix",
-                        "YouTube",
-                        "Disney+",
-                        "Amazon Prime",
-                        "Local Streaming Apps",
-                        "Other"
+                        "Comedy",
+                        "Drama",
+                        "Action",
+                        "Reality TV",
+                        "Documentary",
+                        "Cooking Shows"
                     ]
                 },
                 {
-                    "surveyQuestion": "Do you prefer using apps directly on your smart TV or through external devices?",
+                    "surveyQuestion": "Do you prefer watching TV shows or movies?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Smart TV Apps",
-                        "External Devices",
-                        "Both Equally"
+                        "TV shows",
+                        "Movies",
+                        "Both equally"
                     ]
                 },
                 {
-                    "surveyQuestion": "Where do you primarily use your smart TV?",
+                    "surveyQuestion": "Where do you usually watch TV?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Living Room",
+                        "Living room",
                         "Bedroom",
                         "Kitchen",
+                        "Outdoors",
                         "Other"
                     ]
                 },
                 {
-                    "surveyQuestion": "Which smart TV features do you use most? (Select all that apply)",
+                    "surveyQuestion": "Which of the following snacks do you enjoy? (Select all that apply)",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Streaming Apps",
-                        "Voice Control",
-                        "Screen Mirroring",
-                        "Gaming",
-                        "Web Browsing"
+                        "Chips",
+                        "Popcorn",
+                        "Fruit",
+                        "Nuts",
+                        "Chocolate"
                     ]
                 },
                 {
-                    "surveyQuestion": "Do you use your smart TV for video calls or smart home integration?",
+                    "surveyQuestion": "Do you watch TV alone or with others?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Yes, regularly",
-                        "Occasionally",
-                        "Never"
+                        "Alone",
+                        "With family",
+                        "With friends",
+                        "With partner"
                     ]
                 }
             ]
@@ -591,7 +591,7 @@
             "surveyAmount": 44,
             "surveyQuestions": [
                 {
-                    "surveyQuestion": "How many hours do you spend on Facebook per day?",
+                    "surveyQuestion": "How many hours do you spend on social media per day?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Less than 1 hour",
@@ -601,21 +601,21 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Which Facebook features do you use regularly?",
+                    "surveyQuestion": "Which social media platforms do you use regularly?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "News Feed",
-                        "Messenger",
-                        "Marketplace",
-                        "Groups",
-                        "Watch",
-                        "Events",
-                        "Reels",
-                        "Gaming"
+                        "Facebook",
+                        "Instagram",
+                        "Twitter",
+                        "Snapchat",
+                        "TikTok",
+                        "LinkedIn",
+                        "Pinterest",
+                        "Reddit"
                     ]
                 },
                 {
-                    "surveyQuestion": "Do you think Facebook's algorithm improves your user experience?",
+                    "surveyQuestion": "Do you think social media has a positive impact on society?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Yes",
@@ -624,24 +624,24 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "What do you primarily use Facebook for?",
+                    "surveyQuestion": "What do you use social media for?",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Social Networking",
-                        "Business Promotion",
-                        "News",
+                        "Connecting with friends/family",
+                        "Sharing photos/videos",
+                        "Reading news",
                         "Entertainment",
-                        "Shopping",
-                        "Community Engagement"
+                        "Networking",
+                        "Promoting business"
                     ]
                 },
                 {
-                    "surveyQuestion": "What is your favorite feature on Facebook and why?",
+                    "surveyQuestion": "What is your favorite social media platform and why?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Have you ever encountered privacy issues on Facebook?",
+                    "surveyQuestion": "Have you ever been a victim of cyberbullying on social media?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Yes",
@@ -649,7 +649,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "How often do you post on Facebook?",
+                    "surveyQuestion": "How often do you post on social media?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Multiple times a day",
@@ -660,15 +660,15 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "What type of content do you engage with most on Facebook?",
+                    "surveyQuestion": "What type of content do you engage with the most on social media?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Videos",
                         "Photos",
-                        "Text Posts",
+                        "Text posts",
                         "Memes",
                         "Articles",
-                        "Live Streams"
+                        "Live streams"
                     ]
                 }
             ]
@@ -680,7 +680,7 @@
             "surveyAmount": 88,
             "surveyQuestions": [
                 {
-                    "surveyQuestion": "Which Safaricom Home Fibre plan do you use?",
+                    "surveyQuestion": "How did you hear about Safaricom Home Fibre?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "BRONZE 10mbps",
@@ -690,7 +690,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Rate your overall satisfaction with Safaricom Home Fibre on a scale of 1-5.",
+                    "surveyQuestion": "Rate your overall satisfaction with Safaricom Home Fibre on a scale of 1-5",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "1",
@@ -766,70 +766,69 @@
             "surveyAmount": 47,
             "surveyQuestions": [
                 {
-                    "surveyQuestion": "Which Coca-Cola digital campaigns have you engaged with? (Select all that apply)",
+                    "surveyQuestion": "Which of the following beverages do you enjoy? (Select all that apply)",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Social Media Ads",
-                        "Mobile App Promotions",
-                        "QR Code Campaigns",
-                        "Email Marketing",
-                        "Website Contests"
+                        "Tea",
+                        "Soda",
+                        "Juice",
+                        "Water",
+                        "Coffee"
                     ]
                 },
                 {
-                    "surveyQuestion": "Do you prefer interacting with Coca-Cola through digital or physical channels?",
+                    "surveyQuestion": "Do you prefer hot or cold beverages?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Digital",
-                        "Physical"
+                        "Hot",
+                        "Cold"
                     ]
                 },
                 {
-                    "surveyQuestion": "What is your favorite Coca-Cola digital campaign?",
+                    "surveyQuestion": "What is your go-to drink at a cafe?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "How do you engage with Coca-Cola on social media?",
+                    "surveyQuestion": "How do you like your tea?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Liking Posts",
-                        "Sharing Content",
-                        "Commenting",
-                        "Participating in Contests",
-                        "None"
+                        "Black",
+                        "Green",
+                        "Herbal",
+                        "With Milk",
+                        "Iced"
                     ]
                 },
                 {
-                    "surveyQuestion": "Which Coca-Cola mobile app features do you use? (Select all that apply)",
+                    "surveyQuestion": "Which of the following alcoholic beverages do you enjoy? (Select all that apply)",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Rewards Program",
-                        "Product Scanner",
-                        "Exclusive Offers",
-                        "Event Tickets",
-                        "None"
+                        "Beer",
+                        "Wine",
+                        "Cocktails",
+                        "Whiskey",
+                        "Vodka"
                     ]
                 },
                 {
-                    "surveyQuestion": "How do you prefer to receive Coca-Cola promotions?",
+                    "surveyQuestion": "How do you like your water?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Email",
-                        "SMS",
-                        "Social Media",
-                        "Mobile App"
+                        "Still",
+                        "Sparkling",
+                        "Flavored"
                     ]
                 },
                 {
-                    "surveyQuestion": "Which Coca-Cola products have you discovered through digital ads? (Select all that apply)",
+                    "surveyQuestion": "Which of the following soft drinks do you enjoy? (Select all that apply)",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Coca-Cola Zero",
-                        "Sprite",
-                        "Fanta",
-                        "Diet Coke",
-                        "Coca-Cola Energy"
+                        "Cola",
+                        "Lemonade",
+                        "Orange Soda",
+                        "Root Beer",
+                        "Ginger Ale"
                     ]
                 }
             ]
@@ -841,48 +840,48 @@
             "surveyAmount": 44,
             "surveyQuestions": [
                 {
-                    "surveyQuestion": "When do you plan to invest in smart home technology?",
+                    "surveyQuestion": "When would you like to buy your first home?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Now",
                         "In 6 months",
                         "In a year",
-                        "Over a year away"
+                        "Over a year away "
                     ]
                 },
                 {
-                    "surveyQuestion": "How confident are you in selecting smart home devices?",
+                    "surveyQuestion": "How confident are you in your ability to find and buy a home?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Not confident",
-                        "Somewhat confident",
-                        "Very confident"
+                        "I've got no idea ",
+                        "I'm pretty savvy, I'll work it out ",
+                        "Just watch me "
                     ]
                 },
                 {
-                    "surveyQuestion": "Where do you learn about smart home technology?",
+                    "surveyQuestion": "Where do you go to learn what you need to know before buying a home? ",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Tech Blogs",
-                        "YouTube",
-                        "Social Media",
-                        "Friends"
+                        "Parents",
+                        "Friends",
+                        "Books",
+                        "Social Media"
                     ]
                 },
                 {
-                    "surveyQuestion": "What is your favorite source of smart home tech information and why?",
+                    "surveyQuestion": "Do you have a favourite source of information? Please tell us a bit about why you find it so valuable.",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "What challenges do you face when considering smart home technology?",
+                    "surveyQuestion": "What do you think your challenges are about buying a home?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Cost",
-                        "Compatibility",
-                        "Installation",
-                        "Privacy Concerns",
-                        "Complexity"
+                        "Deciding where to buy ",
+                        "Agreeing with my partner ",
+                        "Dealing with agents ",
+                        "Negotiation ",
+                        "Affordability "
                     ]
                 }
             ]
@@ -894,38 +893,38 @@
             "surveyAmount": 43,
             "surveyQuestions": [
                 {
-                    "surveyQuestion": "How often do you use social media platforms?",
+                    "surveyQuestion": "How often do you use Facebook?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Daily",
-                        "Weekly",
+                        "Everyday",
+                        "Once a week",
                         "Rarely",
                         "Never"
                     ]
                 },
                 {
-                    "surveyQuestion": "How long have you been active on social media?",
+                    "surveyQuestion": "How long have you been using Facebook?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Less than a year",
+                        "Less tha a year",
                         "1-3 years",
                         "4-6 years",
-                        "More than 6 years"
+                        "More than 10 years"
                     ]
                 },
                 {
-                    "surveyQuestion": "Which social media platforms do you use regularly?",
+                    "surveyQuestion": "Which features of Facebook do you use regularly",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Facebook",
-                        "Instagram",
-                        "X",
-                        "TikTok",
-                        "LinkedIn"
+                        "Messenger",
+                        "watch",
+                        "Reels",
+                        "Pages",
+                        "Games"
                     ]
                 },
                 {
-                    "surveyQuestion": "How satisfied are you with your social media experience?",
+                    "surveyQuestion": "How satisfied are you with the overall Facebook experience?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Very satisfied",
@@ -936,35 +935,34 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "How often do you engage with social media ads?",
+                    "surveyQuestion": "How often do you interact with posts from friends or family on Facebook?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Multiple times a day",
                         "Once a day",
                         "A few times a week",
-                        "Rarely",
-                        "Never"
+                        "Once a week",
+                        "Rarely"
                     ]
                 },
                 {
-                    "surveyQuestion": "What types of content do you share on social media?",
+                    "surveyQuestion": "What types of content do you usually share on Facebook?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Photos",
                         "Videos",
-                        "Stories",
-                        "Posts",
-                        "Links"
+                        "Status",
+                        "Events"
                     ]
                 },
                 {
-                    "surveyQuestion": "How concerned are you about data privacy on social media?",
+                    "surveyQuestion": "How concerned are you about the privacy of your personal information on Facebook?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Very concerned",
-                        "Somewhat concerned",
+                        "Concerned",
                         "Neutral",
-                        "Not concerned"
+                        "Not concerned",
+                        "Not at all concerned"
                     ]
                 }
             ]
@@ -976,17 +974,17 @@
             "surveyAmount": 44,
             "surveyQuestions": [
                 {
-                    "surveyQuestion": "What time do you usually start using your smartphone in the morning?",
+                    "surveyQuestion": "What time do you usually wake up?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Before 6AM",
-                        "6AM-7AM",
-                        "7AM-8AM",
-                        "After 8AM"
+                        "5AM",
+                        "6AM",
+                        "7AM",
+                        "8AM"
                     ]
                 },
                 {
-                    "surveyQuestion": "Do you use fitness tracking apps in the morning?",
+                    "surveyQuestion": "Do you prefer to exercise in the morning?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Yes",
@@ -994,28 +992,29 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Which apps do you use first thing in the morning?",
+                    "surveyQuestion": "What do you typically have for breakfast?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Social Media",
-                        "News",
-                        "Email",
-                        "Messaging",
+                        "Cereal",
+                        "Toast",
+                        "Egg",
+                        "Fruit",
                         "Other"
                     ]
                 },
                 {
-                    "surveyQuestion": "How do you use technology to plan your day?",
+                    "surveyQuestion": "How do you usually commute to work/school?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Calendar Apps",
-                        "Task Managers",
-                        "Smart Assistants",
-                        "None"
+                        "Car",
+                        "Public transport",
+                        "Motorcycle",
+                        "Bicycle",
+                        "walking"
                     ]
                 },
                 {
-                    "surveyQuestion": "Do you use smart home devices to start your day?",
+                    "surveyQuestion": "Do you check your phone as soon as you wake up?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Yes",
@@ -1023,18 +1022,18 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Which tech-related activities do you engage in before starting your day? (Select all that apply)",
+                    "surveyQuestion": "Which activities do you usually engage in before starting your day? (Select all that apply)",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Checking Emails",
-                        "Social Media",
-                        "News Apps",
-                        "Smart Home Control",
-                        "Fitness Tracking"
+                        "Meditation",
+                        "Exercise",
+                        "Reading",
+                        "Checking emails/social media",
+                        "Prepare meals"
                     ]
                 },
                 {
-                    "surveyQuestion": "What is your favorite tech tool for starting your day?",
+                    "surveyQuestion": "What is your favorite part of starting your day?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 }
@@ -1047,72 +1046,86 @@
             "surveyAmount": 52,
             "surveyQuestions": [
                 {
-                    "surveyQuestion": "How often do you use smart kitchen appliances?",
+                    "surveyQuestion": "How often do you cook?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Daily",
-                        "Weekly",
-                        "Monthly",
+                        "Every day",
+                        "A few times a week",
+                        "Once a week",
                         "Rarely",
                         "Never"
                     ]
                 },
                 {
-                    "surveyQuestion": "Which smart kitchen appliances do you own?",
+                    "surveyQuestion": "What is your favorite cuisine?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Smart Oven",
-                        "Smart Fridge",
-                        "Smart Coffee Maker",
-                        "Smart Blender",
-                        "None",
+                        "Italian",
+                        "Mexican",
+                        "Chinese",
+                        "Indian",
+                        "Japanese",
+                        "Thai",
+                        "American",
+                        "Mediterranean",
                         "Other"
                     ]
                 },
                 {
-                    "surveyQuestion": "Do you use recipe apps or websites for cooking?",
+                    "surveyQuestion": "Do you follow any specific dietary restrictions?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Yes, regularly",
-                        "Occasionally",
-                        "Never"
+                        "Vegetarian",
+                        "Vegan",
+                        "Gluten-free",
+                        "Dairy-free",
+                        "Keto",
+                        "Paleo",
+                        "None"
                     ]
                 },
                 {
-                    "surveyQuestion": "How confident are you in using smart kitchen technology?",
+                    "surveyQuestion": "How confident are you in your cooking skills?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Very confident",
                         "Somewhat confident",
                         "Neutral",
-                        "Not confident"
+                        "Not very confident",
+                        "Not confident at all"
                     ]
                 },
                 {
-                    "surveyQuestion": "Which cooking apps or platforms do you use?",
+                    "surveyQuestion": "Which of the following cooking techniques are you familiar with?",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Yummly",
-                        "Tasty",
-                        "Epicurious",
-                        "Allrecipes",
-                        "YouTube",
-                        "Other"
+                        "Grilling",
+                        "Baking",
+                        "Roasting",
+                        "Sauteing",
+                        "Stir-frying",
+                        "Boiling",
+                        "Steaming",
+                        "Slow cooking",
+                        "Frying"
                     ]
                 },
                 {
-                    "surveyQuestion": "Which smart kitchen features do you value most?",
+                    "surveyQuestion": "Which of the following ingredients do you use frequently in your cooking?",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Remote Control",
-                        "Recipe Integration",
-                        "Voice Commands",
-                        "Inventory Tracking",
-                        "Energy Efficiency"
+                        "Salt",
+                        "Pepper",
+                        "Garlic",
+                        "Onion",
+                        "Olive oil",
+                        "Butter",
+                        "Herbs",
+                        "Spices"
                     ]
                 },
                 {
-                    "surveyQuestion": "What is your favorite smart kitchen recipe or feature?",
+                    "surveyQuestion": " What is your go-to quick and easy recipe?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 }
@@ -1125,7 +1138,7 @@
             "surveyAmount": 55,
             "surveyQuestions": [
                 {
-                    "surveyQuestion": "What is your age group?",
+                    "surveyQuestion": "How old are you",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Under 18",
@@ -1137,7 +1150,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Have you used mental health apps or online therapy services?",
+                    "surveyQuestion": "Have you ever been diagnosed with a mental health disorder?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Yes",
@@ -1146,24 +1159,27 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Which mental health apps or platforms have you used? (Select all that apply)",
+                    "surveyQuestion": "Which of the following mental health disorders have you been diagnosed with? (Select all that apply)",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Calm",
-                        "Headspace",
-                        "BetterHelp",
-                        "Talkspace",
-                        "Moodpath",
-                        "None"
+                        "Anxiety disorder",
+                        "Depression",
+                        "Bipolar disorder",
+                        "Schizophrenia",
+                        "Obsessive-compulsive disorder",
+                        "Post-traumatic stress disorder",
+                        "Eating disorder",
+                        "Substance abuse disorder",
+                        "None of the above"
                     ]
                 },
                 {
-                    "surveyQuestion": "What tech-based activities help improve your mental well-being?",
+                    "surveyQuestion": "What are some activities or hobbies that help you cope with stress or improve your mental well-being?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "On a scale of 1 to 10, how effective are mental health apps for you?",
+                    "surveyQuestion": "On a scale of 1 to 10, how would you rate your overall mental health?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 }
@@ -1176,24 +1192,24 @@
             "surveyAmount": 58,
             "surveyQuestions": [
                 {
-                    "surveyQuestion": "Which water purification technologies do you use?",
+                    "surveyQuestion": "What sources of water do you have access to?",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Water Filters",
-                        "UV Purifiers",
-                        "Reverse Osmosis",
-                        "Boiling",
-                        "None",
+                        "Tap water",
+                        "Bottled water",
+                        "Well water",
+                        "River water",
+                        "Rainwater harvesting",
                         "Other"
                     ]
                 },
                 {
-                    "surveyQuestion": "How often do you face issues with water purification systems?",
+                    "surveyQuestion": "How often do you experience water scarcity?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Are you satisfied with the performance of your water purification system?",
+                    "surveyQuestion": "Are you satisfied with the quality of your drinking water?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Very satisfied",
@@ -1204,24 +1220,25 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "What factors affect your access to water purification technology? (Select all that apply)",
+                    "surveyQuestion": "What factors affect your access to clean water? (Select all that apply)",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Cost",
-                        "Availability",
-                        "Maintenance",
-                        "Knowledge",
-                        "Infrastructure",
+                        "Lack of infrastructure",
+                        "Pollution",
+                        "Drought",
+                        "Conflict",
+                        "Poverty",
+                        "Government policies",
                         "Other"
                     ]
                 },
                 {
-                    "surveyQuestion": "What smart water conservation technologies do you use?",
+                    "surveyQuestion": "What measures do you take to conserve water?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Do you believe technology can solve water access issues?",
+                    "surveyQuestion": "Do you believe everyone should have access to clean water?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Yes",
@@ -1230,7 +1247,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Do you think governments should invest in water purification technology?",
+                    "surveyQuestion": "Do you think the government is doing enough to ensure access to clean water?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Yes",
@@ -1247,24 +1264,25 @@
             "surveyAmount": 53,
             "surveyQuestions": [
                 {
-                    "surveyQuestion": "Which tech-related women's rights issues are you passionate about?",
+                    "surveyQuestion": "Which of the following women's rights issues are you most passionate about?",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Equal pay in tech",
-                        "Women in STEM",
-                        "Online harassment",
-                        "Tech leadership diversity",
-                        "Access to tech education",
+                        "Equal pay",
+                        "Reproductive rights",
+                        "Gender-based violence",
+                        "Political representation",
+                        "Education",
+                        "Workplace discrimination",
                         "Other"
                     ]
                 },
                 {
-                    "surveyQuestion": "What inspired you to support women's rights in technology?",
+                    "surveyQuestion": "What inspired you to support women's rights?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Do you believe women should have equal opportunities in the tech industry?",
+                    "surveyQuestion": "Do you believe women should have equal opportunities as men?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Yes",
@@ -1273,24 +1291,24 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Which women's rights achievements in tech do you consider significant?",
+                    "surveyQuestion": "Which of the following women's rights achievements do you consider the most significant?",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Women in tech leadership",
-                        "STEM scholarships for women",
-                        "Anti-harassment policies",
-                        "Equal pay initiatives",
-                        "Tech diversity programs",
+                        "Right to vote",
+                        "Access to education",
+                        "Reproductive rights",
+                        "Equal pay legislation",
+                        "Legal protection against gender-based violence",
                         "Other"
                     ]
                 },
                 {
-                    "surveyQuestion": "What are the biggest challenges women face in the tech industry today?",
+                    "surveyQuestion": "In your opinion, what are the biggest challenges women face in society today?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Do you think there is still a gender pay gap in tech?",
+                    "surveyQuestion": "Do you think there is still a gender pay gap?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Yes",
@@ -1307,7 +1325,7 @@
             "surveyAmount": 58,
             "surveyQuestions": [
                 {
-                    "surveyQuestion": "Do you believe technology is critical for political stability?",
+                    "surveyQuestion": "Do you believe political stability is important for a country's development?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Yes",
@@ -1316,27 +1334,27 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "How would you rate your country's use of technology for governance?",
+                    "surveyQuestion": "How would you rate the political stability in your country?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Excellent",
-                        "Good",
-                        "Poor"
+                        "Very stable",
+                        "Somewhat stable",
+                        "Unstable"
                     ]
                 },
                 {
-                    "surveyQuestion": "Which technologies contribute to political stability? (Select all that apply)",
+                    "surveyQuestion": "Which factors do you think contribute to political stability? (Select all that apply)",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "E-Voting Systems",
-                        "Transparent Data Platforms",
-                        "Social Media Monitoring",
-                        "Cybersecurity",
-                        "Digital ID Systems"
+                        "Strong institutions",
+                        "Effective governance",
+                        "Economic prosperity",
+                        "Social cohesion",
+                        "Rule of law"
                     ]
                 },
                 {
-                    "surveyQuestion": "Do you think technology-driven governance leads to economic growth?",
+                    "surveyQuestion": "Do you think political stability leads to economic growth?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Yes",
@@ -1345,18 +1363,18 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Which tech issues negatively impact political stability? (Select all that apply)",
+                    "surveyQuestion": "Which of the following do you think can negatively impact political stability? (Select all that apply)",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Cyberattacks",
-                        "Misinformation",
-                        "Digital Divide",
-                        "Privacy Violations",
-                        "Surveillance"
+                        "Corruption",
+                        "Political polarization",
+                        "Social unrest",
+                        "Lack of transparency",
+                        "Weak institutions"
                     ]
                 },
                 {
-                    "surveyQuestion": "Do you believe technology is essential for attracting foreign investments?",
+                    "surveyQuestion": "Do you believe political stability is a prerequisite for foreign investments?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Yes",
@@ -1365,16 +1383,16 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "How would you rate the use of technology in governance in neighboring countries?",
+                    "surveyQuestion": "How would you rate the level of political stability in neighboring countries?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Excellent",
-                        "Good",
-                        "Poor"
+                        "Very stable",
+                        "Somewhat stable",
+                        "Unstable"
                     ]
                 },
                 {
-                    "surveyQuestion": "How confident are you in your government's use of technology for stability?",
+                    "surveyQuestion": "How confident are you in the ability of your government to maintain political stability?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Very confident",
@@ -1383,7 +1401,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "What tech measures can improve political stability?",
+                    "surveyQuestion": "In your opinion, what measures can be taken to improve political stability?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 }
@@ -1393,52 +1411,36 @@
             "surveyId": "O48EE156R1",
             "surveyCategory": "Fresha Milk",
             "surveyPaid": false,
-            "survey即刻
-                    "surveyAnswers": [
-                        "QR Code Promotions",
-                        "Mobile App",
-                        "Social Media Ads",
-                        "Email Marketing",
-                        "Website Promotions"
-                    ]
-                },
+            "surveyAmount": 49,
+            "surveyQuestions": [
                 {
-                    "surveyQuestion": "Which Fresha Milk digital campaigns have you engaged with? (Select all that apply)",
-                    "surveyType": 3,
-                    "surveyAnswers": [
-                        "QR Code Promotions",
-                        "Mobile App",
-                        "Social Media Ads",
-                        "Email Marketing",
-                        "Website Promotions"
-                    ]
-                },
-                {
-                    "surveyQuestion": "Do you prefer engaging with Fresha Milk through digital or traditional channels?",
+                    "surveyQuestion": "How often do you purchase Fresha Milk?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Digital",
-                        "Traditional"
+                        "Daily",
+                        "Weekly",
+                        "Monthly",
+                        "Rarely",
+                        "Never"
                     ]
                 },
                 {
-                    "surveyQuestion": "What is your favorite Fresha Milk digital campaign?",
+                    "surveyQuestion": "Which types of Fresha Milk products do you buy?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Whole Milk",
+                        "Skim Milk",
+                        "Soy Milk",
+                        "Almond Milk"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What do you like most about Fresha Milk?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "How do you interact with Fresha Milk on social media?",
-                    "surveyType": 1,
-                    "surveyAnswers": [
-                        "Liking Posts",
-                        "Commenting",
-                        "Sharing Content",
-                        "Participating in Contests",
-                        "None"
-                    ]
-                },
-                {
-                    "surveyQuestion": "Rate the quality of Fresha Milk's mobile app on a scale of 1-5.",
+                    "surveyQuestion": "Rate the quality of Fresha Milk on a scale of 1-5",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "1",
@@ -1449,33 +1451,48 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Where do you usually discover Fresha Milk promotions?",
+                    "surveyQuestion": "How likely are you to recommend Fresha Milk to a friend or colleague?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Social Media",
-                        "Mobile App",
-                        "Email",
-                        "Website",
-                        "In-Store"
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10"
                     ]
                 },
                 {
-                    "surveyQuestion": "What motivates you to engage with Fresha Milk's digital campaigns?",
+                    "surveyQuestion": "Where do you usually purchase Fresha Milk?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Supermarket",
+                        "Local Shop",
+                        "Convenience Store",
+                        "Online"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What factors influence your decision to buy Fresha Milk?",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Exclusive Offers",
-                        "Product Information",
-                        "Contests",
-                        "Loyalty Rewards"
+                        "Price",
+                        "Quality",
+                        "Brand Reputation",
+                        "Nutritional Value"
                     ]
                 },
                 {
-                    "surveyQuestion": "Do you have any suggestions for improving Fresha Milk's digital presence?",
+                    "surveyQuestion": "Do you have any suggestions for improving Fresha Milk?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Rate your overall satisfaction with Fresha Milk's digital platforms on a scale of 1-5.",
+                    "surveyQuestion": "Rate your overall satisfaction with Fresha Milk on a scale of 1-5",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "1",
@@ -1486,17 +1503,17 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Which Fresha Milk products have you discovered through digital campaigns?",
+                    "surveyQuestion": "Which of the following attributes are most important to you when choosing a milk brand?",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Organic Milk",
-                        "Lactose-Free Milk",
-                        "Flavored Milk",
-                        "Plant-Based Milk"
+                        "Organic",
+                        "Non-GMO",
+                        "Lactose-Free",
+                        "Fortified with Vitamins"
                     ]
                 },
                 {
-                    "surveyQuestion": "How likely are you to continue engaging with Fresha Milk's digital platforms?",
+                    "surveyQuestion": "How likely are you to continue purchasing Fresha Milk in the future?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "1",
@@ -1607,7 +1624,7 @@
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Have you used telehealth services?",
+                    "surveyQuestion": "Do you have health insurance?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Yes",
@@ -1615,23 +1632,25 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Which telehealth services have you used? (Select all that apply)",
+                    "surveyQuestion": "Which of the following healthcare services have you used in the past year? (Select all that apply)",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Video Consultations",
-                        "Online Prescriptions",
-                        "Mental Health Apps",
-                        "Remote Monitoring",
-                        "Chat-Based Support"
+                        "Primary care",
+                        "Specialist care",
+                        "Emergency care",
+                        "Hospitalization",
+                        "Mental health services",
+                        "Dental care",
+                        "Vision care"
                     ]
                 },
                 {
-                    "surveyQuestion": "What is the main reason you use telehealth services?",
+                    "surveyQuestion": "What is the main reason you seek healthcare services?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "How often do you use telehealth services?",
+                    "surveyQuestion": "How often do you visit a healthcare provider?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Less than once a year",
@@ -1642,19 +1661,21 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "What barriers have you faced in accessing telehealth services? (Select all that apply)",
+                    "surveyQuestion": "What barriers have you experienced in accessing healthcare? (Select all that apply)",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Internet Access",
                         "Cost",
-                        "Tech Literacy",
-                        "Privacy Concerns",
-                        "Limited Provider Options",
-                        "Device Compatibility"
+                        "Lack of insurance",
+                        "Long wait times",
+                        "Limited availability of providers",
+                        "Language barriers",
+                        "Transportation issues",
+                        "Lack of information",
+                        "Discrimination"
                     ]
                 },
                 {
-                    "surveyQuestion": "What improvements would you like to see in telehealth services?",
+                    "surveyQuestion": "What improvements would you like to see in healthcare access?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 }
@@ -1806,7 +1827,7 @@
             "surveyAmount": 57,
             "surveyQuestions": [
                 {
-                    "surveyQuestion": "How often do you use hotel booking apps or websites?",
+                    "surveyQuestion": "How often do you stay in hotels?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Less than once a year",
@@ -1816,23 +1837,23 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Which hotel booking platforms do you use? (Select all that apply)",
+                    "surveyQuestion": "What factors do you consider when choosing a hotel? (Select all that apply)",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Booking.com",
-                        "Expedia",
-                        "Agoda",
-                        "TripAdvisor",
-                        "Hotel Websites"
+                        "Price",
+                        "Location",
+                        "Facilities",
+                        "Reviews",
+                        "Brand reputation"
                     ]
                 },
                 {
-                    "surveyQuestion": "What is your favorite hotel booking platform?",
+                    "surveyQuestion": "What is your favorite hotel chain?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "How important is a hotel's mobile app to your booking experience?",
+                    "surveyQuestion": "How important is the hotel's cleanliness to you?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Extremely important",
@@ -1843,19 +1864,21 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Which digital features do you expect from a hotel? (Select all that apply)",
+                    "surveyQuestion": "Which amenities do you expect to find in a hotel room? (Select all that apply)",
                     "surveyType": 3,
                     "surveyAnswers": [
                         "Free Wi-Fi",
-                        "Mobile Check-In",
-                        "Smart Room Controls",
-                        "Digital Key",
-                        "Online Concierge",
-                        "Loyalty Program"
+                        "TV",
+                        "Mini fridge",
+                        "Coffee maker",
+                        "Hairdryer",
+                        "Iron and ironing board",
+                        "Safe",
+                        "Toiletries"
                     ]
                 },
                 {
-                    "surveyQuestion": "How likely are you to book a hotel with a strong digital presence?",
+                    "surveyQuestion": "How likely are you to book a hotel with a loyalty program?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Very likely",
@@ -1866,12 +1889,12 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "What is your preferred method for hotel check-in?",
+                    "surveyQuestion": "What is your preferred check-in/check-out time?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "What is your preferred way to access hotel services digitally?",
+                    "surveyQuestion": "What is your preferred type of accommodation when traveling?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 }
@@ -1884,7 +1907,7 @@
             "surveyAmount": 61,
             "surveyQuestions": [
                 {
-                    "surveyQuestion": "How would you rate the reliability of KPLC's online billing platform?",
+                    "surveyQuestion": "How would you rate the reliability of KPLC's electricity supply?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Very reliable",
@@ -1895,22 +1918,22 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Which KPLC digital services have you used?",
+                    "surveyQuestion": "Which of the following services have you used from KPLC?",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Online Billing",
-                        "Mobile App",
-                        "Customer Support Portal",
-                        "Outage Reporting"
+                        "Electricity supply",
+                        "Customer support",
+                        "Billing services",
+                        "Technical support"
                     ]
                 },
                 {
-                    "surveyQuestion": "What improvements would you like to see in KPLC's digital platforms?",
+                    "surveyQuestion": "What improvements would you like to see in KPLC's services?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Rate your overall satisfaction with KPLC's digital services on a scale of 1-5.",
+                    "surveyQuestion": "Rate your overall satisfaction with KPLC on a scale of 1-5.",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "1",
@@ -1921,7 +1944,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "How likely are you to recommend KPLC's digital services to a friend?",
+                    "surveyQuestion": "How likely are you to recommend KPLC to a friend or colleague?",
                     "surveyType": 3,
                     "surveyAnswers": [
                         "1",
@@ -1937,33 +1960,33 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "How often do you use KPLC's mobile app for services?",
+                    "surveyQuestion": "How often do you experience power outages?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Daily",
-                        "Weekly",
-                        "Monthly",
+                        "Never",
                         "Rarely",
-                        "Never"
+                        "Sometimes",
+                        "Often",
+                        "Very often"
                     ]
                 },
                 {
-                    "surveyQuestion": "What digital payment methods do you use for KPLC bills?",
+                    "surveyQuestion": "What methods do you use to pay your KPLC bills?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "M-Pesa",
-                        "Airtel Money",
-                        "Bank Cards",
-                        "Online Banking"
+                        "Mobile money",
+                        "Bank transfer",
+                        "In-person at KPLC office",
+                        "Online payment"
                     ]
                 },
                 {
-                    "surveyQuestion": "Please describe any issues you have faced with KPLC's digital services.",
+                    "surveyQuestion": "Please describe any issues you have faced with KPLC's billing services.",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Rate the ease of accessing KPLC's online customer support on a scale of 1-5.",
+                    "surveyQuestion": "Rate the ease of contacting KPLC's customer support on a scale of 1-5.",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "1",
@@ -1974,7 +1997,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "How satisfied are you with KPLC's digital issue resolution?",
+                    "surveyQuestion": "How satisfied are you with the resolution of your issues by KPLC's customer support?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Very satisfied",
@@ -1985,13 +2008,13 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Which digital channels do you prefer for contacting KPLC?",
+                    "surveyQuestion": "Which of the following communication channels do you prefer for contacting KPLC?",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Mobile App",
+                        "Phone",
                         "Email",
-                        "Website",
-                        "Social Media"
+                        "In-person",
+                        "Social media"
                     ]
                 }
             ]
@@ -2003,24 +2026,24 @@
             "surveyAmount": 57,
             "surveyQuestions": [
                 {
-                    "surveyQuestion": "How often do you shop online?",
+                    "surveyQuestion": "How often do you go shopping?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Daily",
-                        "Weekly",
-                        "Monthly",
+                        "Once a week",
+                        "Twice a month",
+                        "Once a month",
                         "Rarely"
                     ]
                 },
                 {
-                    "surveyQuestion": "Which online shopping platforms do you use?",
+                    "surveyQuestion": "Which of the following stores do you frequently shop at?",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Jumia",
-                        "Kilimall",
-                        "Amazon",
-                        "eBay",
-                        "Local Marketplaces"
+                        "Supermarket",
+                        "Department store",
+                        "Clothing store",
+                        "Electronics store",
+                        "Online store"
                     ]
                 },
                 {
@@ -2029,7 +2052,7 @@
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "How much do you spend on online shopping per month?",
+                    "surveyQuestion": "How much do you usually spend on shopping per month?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Less than $50",
@@ -2039,43 +2062,43 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Which payment methods do you prefer for online shopping?",
+                    "surveyQuestion": "Which payment methods do you prefer when shopping online?",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Mobile Money",
-                        "Credit/Debit Card",
+                        "Credit card",
+                        "M-PESA",
                         "PayPal",
-                        "Bank Transfer",
-                        "Cash on Delivery"
+                        "Bank transfer",
+                        "Cash on delivery"
                     ]
                 },
                 {
-                    "surveyQuestion": "What is your favorite e-commerce app?",
+                    "surveyQuestion": "What is your favorite clothing brand?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Do you prefer shopping online alone or with others' input?",
+                    "surveyQuestion": "Do you prefer shopping alone or with others?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Alone",
-                        "With Friends",
-                        "With Family"
+                        "With friends",
+                        "With family"
                     ]
                 },
                 {
-                    "surveyQuestion": "Which factors influence your online purchase decisions?",
+                    "surveyQuestion": "Which factors influence your decision to purchase a product?",
                     "surveyType": 3,
                     "surveyAnswers": [
                         "Price",
-                        "Product Reviews",
-                        "Shipping Speed",
-                        "Website Usability",
-                        "Discounts"
+                        "Quality",
+                        "Brand reputation",
+                        "Product reviews",
+                        "Promotions"
                     ]
                 },
                 {
-                    "surveyQuestion": "How often do you use mobile apps for shopping?",
+                    "surveyQuestion": "How often do you buy products online?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Frequently",
@@ -2085,7 +2108,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "What is your favorite online marketplace for tech products?",
+                    "surveyQuestion": "What is your favorite online marketplace?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 }
@@ -2098,83 +2121,86 @@
             "surveyAmount": 60,
             "surveyQuestions": [
                 {
-                    "surveyQuestion": "Which car brands offer the best in-car technology?",
+                    "surveyQuestion": "What is your favorite car brand?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Tesla",
+                        "Toyota",
+                        "Honda",
                         "BMW",
                         "Mercedes-Benz",
                         "Audi",
-                        "Toyota",
-                        "Honda",
-                        "Volvo",
+                        "VW",
+                        "Subaru",
                         "Nissan"
                     ]
                 },
                 {
-                    "surveyQuestion": "Which in-car tech features do you prioritize?",
+                    "surveyQuestion": "Which car body type do you prefer?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Infotainment System",
-                        "Driver Assistance",
-                        "Navigation",
-                        "Connectivity",
-                        "Autonomous Driving",
-                        "Voice Control",
-                        "Heads-Up Display",
-                        "Smart Parking",
-                        "Remote Control"
+                        "Sedan",
+                        "SUV",
+                        "Hatchback",
+                        "Convertible",
+                        "Coupe",
+                        "Wagon",
+                        "Minivan",
+                        "Pickup Truck",
+                        "Sports Car"
                     ]
                 },
                 {
-                    "surveyQuestion": "What is your preferred car connectivity type?",
+                    "surveyQuestion": "What is your preferred fuel type?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Apple CarPlay",
-                        "Android Auto",
-                        "Built-In System",
-                        "None"
+                        "Gasoline",
+                        "Diesel",
+                        "Electric",
+                        "Hybrid"
                     ]
                 },
                 {
-                    "surveyQuestion": "Which advanced driver assistance systems do you value? (Select all that apply)",
+                    "surveyQuestion": "Which car features are important to you? (Select all that apply)",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Adaptive Cruise Control",
-                        "Lane Keep Assist",
-                        "Blind Spot Monitoring",
-                        "Automatic Emergency Braking",
-                        "Traffic Sign Recognition",
-                        "Parking Assist",
-                        "Night Vision",
-                        "Cross-Traffic Alert",
-                        "Driver Monitoring"
+                        "Safety",
+                        "Fuel Efficiency",
+                        "Performance",
+                        "Comfort",
+                        "Technology",
+                        "Reliability",
+                        "Price",
+                        "Style",
+                        "Off-Road Capability",
+                        "Cargo Space"
                     ]
                 },
                 {
-                    "surveyQuestion": "How often do you use your car's infotainment system?",
+                    "surveyQuestion": "How often do you use your car?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Daily",
-                        "Weekly",
-                        "Monthly",
+                        "Several times a week",
+                        "Once a week",
+                        "Several times a month",
                         "Rarely",
                         "Never"
                     ]
                 },
                 {
-                    "surveyQuestion": "Do you prefer touchscreens or physical buttons in cars?",
+                    "surveyQuestion": "Do you prefer manual or automatic transmission?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Touchscreens",
-                        "Physical Buttons"
+                        "Manual",
+                        "Automatic"
                     ]
                 },
                 {
-                    "surveyQuestion": "What is your budget for a car with advanced tech features?",
+                    "surveyQuestion": "What is your budget for a car?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Under $20,000",
+                        "Under $10,000",
+                        "$10,000 - $20,000",
                         "$20,000 - $30,000",
                         "$30,000 - $40,000",
                         "$40,000 - $50,000",
@@ -2182,22 +2208,25 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Which in-car display features do you prefer?",
+                    "surveyQuestion": "What is your preferred car color?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Large Touchscreen",
-                        "Digital Dashboard",
-                        "Augmented Reality",
-                        "Minimalist Display",
-                        "Customizable Interface"
+                        "Black",
+                        "White",
+                        "Silver",
+                        "Gray",
+                        "Blue",
+                        "Red",
+                        "Green",
+                        "Yellow"
                     ]
                 },
                 {
-                    "surveyQuestion": "Do you prefer cars with over-the-air software updates?",
+                    "surveyQuestion": "What is your preferred car color?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Yes",
-                        "No"
+                        "New",
+                        "Used"
                     ]
                 }
             ]
@@ -2209,7 +2238,7 @@
             "surveyAmount": 56,
             "surveyQuestions": [
                 {
-                    "surveyQuestion": "How many hours do you use your smart TV daily?",
+                    "surveyQuestion": "How many hours do you watch TV per day?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Less than 1 hour",
@@ -2219,62 +2248,63 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Which smart TV platforms do you use? (Select all that apply)",
+                    "surveyQuestion": "Which genres of TV shows do you enjoy? (Select all that apply)",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Roku",
-                        "Amazon Fire TV",
-                        "Android TV",
-                        "Apple TV",
-                        "Samsung Tizen",
-                        "LG webOS"
+                        "Comedy",
+                        "Drama",
+                        "Action",
+                        "Reality TV",
+                        "Documentary",
+                        "Sports",
+                        "News"
                     ]
                 },
                 {
-                    "surveyQuestion": "What is your favorite smart TV app?",
+                    "surveyQuestion": "What is your favorite TV show?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Do you prefer built-in smart TV apps or external streaming devices?",
+                    "surveyQuestion": "Do you prefer watching TV shows or movies?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Built-In Apps",
-                        "External Devices",
-                        "Both Equally"
+                        "TV shows",
+                        "Movies",
+                        "Both equally"
                     ]
                 },
                 {
-                    "surveyQuestion": "Which streaming services do you access on your smart TV? (Select all that apply)",
+                    "surveyQuestion": "Which streaming platforms do you use? (Select all that apply)",
                     "surveyType": 3,
                     "surveyAnswers": [
                         "Netflix",
-                        "YouTube",
+                        "Amazon Prime Video",
+                        "Hulu",
                         "Disney+",
-                        "HBO Max",
-                        "Showmax"
+                        "YouTube"
                     ]
                 },
                 {
-                    "surveyQuestion": "What is your favorite smart TV feature?",
+                    "surveyQuestion": "What is your favorite TV channel?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Do you use your smart TV for gaming or video calls?",
+                    "surveyQuestion": "Do you watch TV shows live or prefer to stream them?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Yes, regularly",
-                        "Occasionally",
-                        "Never"
+                        "Watch live",
+                        "Stream"
                     ]
                 },
                 {
-                    "surveyQuestion": "Do you control your smart TV with voice assistants?",
+                    "surveyQuestion": "Do you prefer watching TV alone or with others?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Yes",
-                        "No"
+                        "Alone",
+                        "With Friends",
+                        "With Family"
                     ]
                 }
             ]
@@ -2286,66 +2316,70 @@
             "surveyAmount": 54,
             "surveyQuestions": [
                 {
-                    "surveyQuestion": "How often do you purchase smart furniture?",
+                    "surveyQuestion": "How often do you buy furniture?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Once a year",
+                        "Twice a year",
                         "Every few years",
                         "Rarely",
                         "Never"
                     ]
                 },
                 {
-                    "surveyQuestion": "Which types of smart furniture are you interested in?",
+                    "surveyQuestion": "Which room(s) do you need furniture for?",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Smart Beds",
-                        "Smart Tables",
-                        "Smart Lighting",
-                        "Smart Storage",
-                        "Smart Chairs",
+                        "Living room",
+                        "Bedroom",
+                        "Dining room",
+                        "Home office",
+                        "Outdoor",
                         "Other"
                     ]
                 },
                 {
-                    "surveyQuestion": "What is your favorite smart furniture feature?",
+                    "surveyQuestion": "What is your favorite furniture style?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Where do you buy smart furniture?",
+                    "surveyQuestion": "Where do you usually buy furniture?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Online Stores",
-                        "Specialty Retail",
+                        "Physical store",
+                        "Online store",
                         "Both"
                     ]
                 },
                 {
-                    "surveyQuestion": "Which factors influence your smart furniture purchase? (Select all that apply)",
+                    "surveyQuestion": "Which factors influence your furniture purchase decision? (Select all that apply)",
                     "surveyType": 3,
                     "surveyAnswers": [
                         "Price",
-                        "Compatibility",
+                        "Quality",
                         "Design",
-                        "Functionality",
-                        "Reviews",
-                        "Brand"
+                        "Brand reputation",
+                        "Customer reviews",
+                        "Recommendations",
+                        "Convenience",
+                        "Availability"
                     ]
                 },
                 {
-                    "surveyQuestion": "Which smart furniture integrations do you prefer? (Select all that apply)",
+                    "surveyQuestion": "Which materials do you prefer for furniture? (Select all that apply)",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Voice Control",
-                        "App Control",
-                        "Smart Home Hub",
-                        "Sensors",
-                        "Charging Ports"
+                        "Wood",
+                        "Metal",
+                        "Plastic",
+                        "Glass",
+                        "Fabric",
+                        "Leather"
                     ]
                 },
                 {
-                    "surveyQuestion": "How important is connectivity in smart furniture?",
+                    "surveyQuestion": "How do you prioritize comfort when choosing furniture?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Very important",
@@ -2354,14 +2388,15 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Which smart furniture features are most valuable? (Select all that apply)",
+                    "surveyQuestion": "Which furniture features are important to you? (Select all that apply)",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Automation",
+                        "Storage",
+                        "Durability",
                         "Adjustability",
-                        "Energy Efficiency",
-                        "Health Monitoring",
-                        "Space Optimization"
+                        "Versatility",
+                        "Aesthetics",
+                        "Space-saving"
                     ]
                 }
             ]
@@ -2373,93 +2408,94 @@
             "surveyAmount": 55,
             "surveyQuestions": [
                 {
-                    "surveyQuestion": "Which smart home devices do you use?",
+                    "surveyQuestion": "What is your favorite room in a house?",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Smart Lights",
-                        "Smart Thermostats",
-                        "Smart Locks",
-                        "Smart Speakers",
-                        "Smart Security",
+                        "Living room",
+                        "Bedroom",
+                        "Kitchen",
+                        "Bathroom",
+                        "Home office",
                         "Other"
                     ]
                 },
                 {
-                    "surveyQuestion": "What is your favorite smart home platform?",
+                    "surveyQuestion": "What is your favorite color for home decor?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Do you prefer automated or manual smart home controls?",
+                    "surveyQuestion": "Do you prefer modern or traditional home design?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Automated",
-                        "Manual",
+                        "Modern",
+                        "Traditional",
                         "Both",
                         "Not sure"
                     ]
                 },
                 {
-                    "surveyQuestion": "Which smart lighting systems do you use?",
+                    "surveyQuestion": "Which of the following materials do you like for flooring?",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Philips Hue",
-                        "LIFX",
-                        "Nanoleaf",
-                        "Wyze",
-                        "Generic Brands"
+                        "Hardwood",
+                        "Laminate",
+                        "Tile",
+                        "Carpet",
+                        "Vinyl",
+                        "Concrete"
                     ]
                 },
                 {
-                    "surveyQuestion": "Which smart home ecosystems do you prefer?",
+                    "surveyQuestion": "Which of the following colors do you like for walls?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Amazon Alexa",
-                        "Google Home",
-                        "Apple HomeKit",
-                        "Samsung SmartThings",
-                        "None"
+                        "White",
+                        "Beige",
+                        "Gray",
+                        "Blue",
+                        "Green"
                     ]
                 },
                 {
-                    "surveyQuestion": "Do you prefer wired or wireless smart home devices?",
+                    "surveyQuestion": "Do you prefer natural or artificial lighting in your home?",
                     "surveyType": 1,
                     "surveyAnswers": [
-                        "Wired",
-                        "Wireless",
+                        "Natural",
+                        "Artificial",
                         "Both",
                         "Not sure"
                     ]
                 },
                 {
-                    "surveyQuestion": "Which smart home design styles do you prefer?",
+                    "surveyQuestion": "Which of the following furniture styles do you like?",
                     "surveyType": 3,
+                    "surveyAnswers": [
+                        "Modern",
+                        "Traditional",
+                        "Mid-century",
+                        "Industrial",
+                        "Scandinavian"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which of the following storage solutions do you find most useful?",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Shelves",
+                        "Cabinets",
+                        "Drawers",
+                        "Baskets",
+                        "Hooks"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Do you prefer a minimalist or maximalist home design?",
+                    "surveyType": 1,
                     "surveyAnswers": [
                         "Minimalist",
-                        "Modern",
-                        "Industrial",
-                        "Futuristic",
-                        "Traditional"
-                    ]
-                },
-                {
-                    "surveyQuestion": "Which smart storage solutions do you use?",
-                    "surveyType": 3,
-                    "surveyAnswers": [
-                        "Smart Shelves",
-                        "Smart Closets",
-                        "Smart Cabinets",
-                        "Automated Drawers",
-                        "None"
-                    ]
-                },
-                {
-                    "surveyQuestion": "Do you prefer a fully smart or hybrid home design?",
-                    "surveyType": 1,
-                    "surveyAnswers": [
-                        "Fully Smart",
-                        "Hybrid",
-                        "Traditional",
+                        "Maximalist",
+                        "Somewhere in between",
                         "Not sure"
                     ]
                 }
@@ -2472,7 +2508,7 @@
             "surveyAmount": 47,
             "surveyQuestions": [
                 {
-                    "surveyQuestion": "How many years of experience do you have with precision agriculture?",
+                    "surveyQuestion": "How many years of farming experience do you have?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Less than 1 year",
@@ -2482,27 +2518,27 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Which precision agriculture technologies do you use? (Select all that apply)",
+                    "surveyQuestion": "Which crops do you cultivate? (Select all that apply)",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "GPS Guidance",
-                        "Drones",
-                        "Soil Sensors",
-                        "Satellite Imagery",
-                        "Automated Irrigation",
-                        "Yield Monitors",
-                        "Variable Rate Tech",
-                        "Smart Tractors",
-                        "Crop Monitoring Apps"
+                        "Maize",
+                        "Wheat",
+                        "Rice",
+                        "Soybeans",
+                        "Potatoes",
+                        "Tomatoes",
+                        "Cotton",
+                        "Tea",
+                        "Coffee"
                     ]
                 },
                 {
-                    "surveyQuestion": "What challenges do you face with precision agriculture tech?",
+                    "surveyQuestion": "What challenges do you face in your farming practices?",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Do you use IoT devices in your farming practices?",
+                    "surveyQuestion": "Do you use organic farming methods?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Yes",
@@ -2511,24 +2547,24 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Which farm management software do you use? (Select all that apply)",
+                    "surveyQuestion": "Which livestock do you raise? (Select all that apply)",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "FarmLogs",
-                        "Climate FieldView",
-                        "Granular",
-                        "Agworld",
-                        "Cropio",
-                        "None"
+                        "Cattle",
+                        "Pigs",
+                        "Sheep",
+                        "Goats",
+                        "Poultry",
+                        "Fish"
                     ]
                 },
                 {
-                    "surveyQuestion": "What is the size of your farm using smart agriculture tech (in acres)?",
+                    "surveyQuestion": "What is the size of your farm in acres?",
                     "surveyType": 3,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Do you use automated irrigation systems?",
+                    "surveyQuestion": "Do you use irrigation systems on your farm?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Yes",
@@ -2536,15 +2572,15 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Which smart farming equipment do you own? (Select all that apply)",
+                    "surveyQuestion": "Which farming equipment do you own? (Select all that apply)",
                     "surveyType": 3,
                     "surveyAnswers": [
-                        "Smart Tractor",
-                        "Drone",
-                        "Automated Planter",
-                        "Soil Sensor",
-                        "Smart Sprayer",
-                        "Harvest Monitor"
+                        "Tractor",
+                        "Combine Harvester",
+                        "Plow",
+                        "Seeder",
+                        "Sprayer",
+                        "Cultivator"
                     ]
                 }
             ]
