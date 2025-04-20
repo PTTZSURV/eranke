@@ -8,7 +8,7 @@
             "surveyAmount": 70,
             "surveyQuestions": [
                 {
-                    "surveyQuestion": "How did you hear about us?",
+                    "surveyQuestion": "How did you hear about surveyiss?",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Youtube",
@@ -28,7 +28,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Surveys allows you to earn money from every survey. You will receive your payment when you submit your survey.",
+                    "surveyQuestion": "Surveyiss allows you to earn money from every survey. You will receive your payment when you submit your survey.",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Looks Good",
@@ -36,7 +36,7 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Researchers on our platform sometimes look for people with specific experience. As a result you may be disqualified from certain surveys",
+                    "surveyQuestion": "Researchers on our platform sometimes look for people with specific experiences. As a result you may be disqualified from certain surveys",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Looks Good",
@@ -52,12 +52,12 @@
                     ]
                 },
                 {
-                    "surveyQuestion": "Once you collect enough earnings, you can submit withdrawal for us to process and pay you",
+                    "surveyQuestion": "Once you collect enough earnings, you can submit withdrawal request for us to process and pay you",
                     "surveyType": 2,
                     "surveyAnswers": []
                 },
                 {
-                    "surveyQuestion": "Have friends? We will pay you Ksh 30 for every survey you friend completes",
+                    "surveyQuestion": "Have friends? Invite then and we will pay you Ksh 30 for every survey you friend completes",
                     "surveyType": 1,
                     "surveyAnswers": [
                         "Looks Good",
