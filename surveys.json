@@ -5,7 +5,7 @@
             "surveyId": "1",
             "surveyCategory": "Welcome to Surveys",
             "surveyPaid": false,
-            "surveyAmount": 70,
+            "surveyAmount": 100,
             "surveyQuestions": [
                 {
                     "surveyQuestion": "How did you hear about surveyiss?",
@@ -70,7 +70,7 @@
             "surveyId": "DU6UAI7GDK",
             "surveyCategory": "KFC",
             "surveyPaid": true,
-            "surveyAmount": 80,
+            "surveyAmount": 55,
             "surveyQuestions": [
                 {
                     "surveyQuestion": "How often do you visit KFC?",
@@ -311,7 +311,7 @@
             "surveyId": "DU6LAI3GJK",
             "surveyCategory": "Diet & Food",
             "surveyPaid": true,
-            "surveyAmount": 49,
+            "surveyAmount": 44,
             "surveyQuestions": [
                 {
                     "surveyQuestion": "How often do you eat?",
@@ -375,7 +375,7 @@
             "surveyId": "YU6LCI7GJR",
             "surveyCategory": "Nakuru County",
             "surveyPaid": true,
-            "surveyAmount": 61,
+            "surveyAmount": 100,
             "surveyQuestions": [
                 {
                     "surveyQuestion": "What is your age group?",
@@ -517,7 +517,7 @@
             "surveyId": "RTCU8QFH2U",
             "surveyCategory": "Smart/Electronic TVs",
             "surveyPaid": true,
-            "surveyAmount": 53,
+            "surveyAmount": 46,
             "surveyQuestions": [
                 {
                     "surveyQuestion": "How many hours do you watch TV per day?",
@@ -676,8 +676,8 @@
         {
             "surveyId": "W48EP156T8",
             "surveyCategory": "Safaricom Home Fibre",
-            "surveyPaid": true,
-            "surveyAmount": 88,
+            "surveyPaid": false,
+            "surveyAmount": 300,
             "surveyQuestions": [
                 {
                     "surveyQuestion": "How did you hear about Safaricom Home Fibre?",
@@ -762,8 +762,8 @@
         {
             "surveyId": "OEAGIFC92H",
             "surveyCategory": "Coca Cola",
-            "surveyPaid": false,
-            "surveyAmount": 47,
+            "surveyPaid": true,
+            "surveyAmount": 100,
             "surveyQuestions": [
                 {
                     "surveyQuestion": "Which of the following beverages do you enjoy? (Select all that apply)",
@@ -889,7 +889,7 @@
         {
             "surveyId": "ADL05KU9QX",
             "surveyCategory": "Social Media",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 43,
             "surveyQuestions": [
                 {
@@ -1410,7 +1410,7 @@
         {
             "surveyId": "O48EE156R1",
             "surveyCategory": "Fresha Milk",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 49,
             "surveyQuestions": [
                 {
