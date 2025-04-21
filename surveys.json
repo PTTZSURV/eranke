@@ -69,8 +69,8 @@
         {
             "surveyId": "DU6UAI7GDK",
             "surveyCategory": "KFC",
-            "surveyPaid": true,
-            "surveyAmount": 55,
+            "surveyPaid": false,
+            "surveyAmount": 300,
             "surveyQuestions": [
                 {
                     "surveyQuestion": "How often do you visit KFC?",
@@ -205,8 +205,8 @@
         {
             "surveyId": "XU6LAI3GJT",
             "surveyCategory": "Naivas",
-            "surveyPaid": true,
-            "surveyAmount": 40,
+            "surveyPaid": false,
+            "surveyAmount": 44,
             "surveyQuestions": [
                 {
                     "surveyQuestion": "How often do you shop at Naivas Supermarket?",
