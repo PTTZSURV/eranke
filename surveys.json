@@ -310,7 +310,7 @@
         {
             "surveyId": "DU6LAI3GJK",
             "surveyCategory": "Diet & Food",
-            "surveyPaid": true,
+            "surveyPaid": false,
             "surveyAmount": 44,
             "surveyQuestions": [
                 {
