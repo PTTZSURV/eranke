@@ -374,7 +374,7 @@
         {
             "surveyId": "YU6LCI7GJR",
             "surveyCategory": "Nakuru County",
-            "surveyPaid": true,
+            
             "surveyAmount": 100,
             "surveyQuestions": [
                 {
@@ -516,7 +516,7 @@
         {
             "surveyId": "RTCU8QFH2U",
             "surveyCategory": "Smart/Electronic TVs",
-            "surveyPaid": true,
+            "surveyPaid": false,
             "surveyAmount": 46,
             "surveyQuestions": [
                 {
@@ -587,7 +587,7 @@
         {
             "surveyId": "T88EP046T3",
             "surveyCategory": "Facebook",
-            "surveyPaid": true,
+            "surveyPaid": false,
             "surveyAmount": 44,
             "surveyQuestions": [
                 {
@@ -762,7 +762,7 @@
         {
             "surveyId": "OEAGIFC92H",
             "surveyCategory": "Coca Cola",
-            "surveyPaid": true,
+            "surveyPaid": false,
             "surveyAmount": 100,
             "surveyQuestions": [
                 {
@@ -836,7 +836,7 @@
         {
             "surveyId": "T472SNCM16",
             "surveyCategory": "Optiven",
-            "surveyPaid": true,
+            "surveyPaid": false,
             "surveyAmount": 44,
             "surveyQuestions": [
                 {
@@ -889,7 +889,7 @@
         {
             "surveyId": "ADL05KU9QX",
             "surveyCategory": "Social Media",
-            "surveyPaid": true,
+            "surveyPaid": false,
             "surveyAmount": 43,
             "surveyQuestions": [
                 {
@@ -970,7 +970,7 @@
         {
             "surveyId": "9J68HYA1O4",
             "surveyCategory": "Starting your day",
-            "surveyPaid": true,
+            "surveyPaid": false,
             "surveyAmount": 44,
             "surveyQuestions": [
                 {
@@ -1042,7 +1042,7 @@
         {
             "surveyId": "IO9CA1TH4M",
             "surveyCategory": "Cooking",
-            "surveyPaid": true,
+            "surveyPaid": false,
             "surveyAmount": 52,
             "surveyQuestions": [
                 {
@@ -1134,7 +1134,7 @@
         {
             "surveyId": "F27LDO510A",
             "surveyCategory": "Mental health",
-            "surveyPaid": true,
+            "surveyPaid": false,
             "surveyAmount": 55,
             "surveyQuestions": [
                 {
@@ -1188,7 +1188,7 @@
         {
             "surveyId": "R7VXJYT0HN",
             "surveyCategory": "Access to clean water",
-            "surveyPaid": true,
+            "surveyPaid": false,
             "surveyAmount": 58,
             "surveyQuestions": [
                 {
@@ -1260,7 +1260,7 @@
         {
             "surveyId": "VMLSA9BQ84",
             "surveyCategory": "Women Rights",
-            "surveyPaid": true,
+            "surveyPaid": false,
             "surveyAmount": 53,
             "surveyQuestions": [
                 {
@@ -1321,7 +1321,7 @@
         {
             "surveyId": "4WUM6Z72QP",
             "surveyCategory": "Political Stability",
-            "surveyPaid": true,
+            "surveyPaid": false,
             "surveyAmount": 58,
             "surveyQuestions": [
                 {
@@ -1410,7 +1410,7 @@
         {
             "surveyId": "O48EE156R1",
             "surveyCategory": "Fresha Milk",
-            "surveyPaid": true,
+            "surveyPaid": false,
             "surveyAmount": 49,
             "surveyQuestions": [
                 {
@@ -1533,7 +1533,7 @@
         {
             "surveyId": "R9V5Q840JW",
             "surveyCategory": "Laptop Purchasing",
-            "surveyPaid": true,
+            "surveyPaid": false,
             "surveyAmount": 52,
             "surveyQuestions": [
                 {
@@ -1615,7 +1615,7 @@
         {
             "surveyId": "8ULTHSYN47",
             "surveyCategory": "Healthcare access",
-            "surveyPaid": true,
+            "surveyPaid": false,
             "surveyAmount": 56,
             "surveyQuestions": [
                 {
@@ -1823,7 +1823,7 @@
         {
             "surveyId": "cvdfr45",
             "surveyCategory": "Hotel Industry",
-            "surveyPaid": true,
+            "surveyPaid": false,
             "surveyAmount": 57,
             "surveyQuestions": [
                 {
@@ -1903,7 +1903,7 @@
         {
             "surveyId": "NM467SJLMCX",
             "surveyCategory": "KPLC(Kenya Power)",
-            "surveyPaid": true,
+            "surveyPaid": false,
             "surveyAmount": 61,
             "surveyQuestions": [
                 {
@@ -2022,7 +2022,7 @@
         {
             "surveyId": "vgdc21bh3m",
             "surveyCategory": "Shopping",
-            "surveyPaid": true,
+            "surveyPaid": false,
             "surveyAmount": 57,
             "surveyQuestions": [
                 {
@@ -2117,7 +2117,7 @@
         {
             "surveyId": "ex1tdrvi9c",
             "surveyCategory": "Cars",
-            "surveyPaid": true,
+            "surveyPaid": false,
             "surveyAmount": 60,
             "surveyQuestions": [
                 {
@@ -2234,7 +2234,7 @@
         {
             "surveyId": "fq2maza2qa",
             "surveyCategory": "Television",
-            "surveyPaid": true,
+            "surveyPaid": false,
             "surveyAmount": 56,
             "surveyQuestions": [
                 {
@@ -2312,7 +2312,7 @@
         {
             "surveyId": "aaoxj3x5qm",
             "surveyCategory": "Furniture",
-            "surveyPaid": true,
+            "surveyPaid": false,
             "surveyAmount": 54,
             "surveyQuestions": [
                 {
@@ -2404,7 +2404,7 @@
         {
             "surveyId": "4bpmr9t9a2",
             "surveyCategory": "Home Design",
-            "surveyPaid": true,
+            "surveyPaid": false,
             "surveyAmount": 55,
             "surveyQuestions": [
                 {
@@ -2504,7 +2504,7 @@
         {
             "surveyId": "jem5c0zrad",
             "surveyCategory": "Hotel Industry",
-            "surveyPaid": true,
+            "surveyPaid": false,
             "surveyAmount": 47,
             "surveyQuestions": [
                 {
