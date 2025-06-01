@@ -1,5 +1,5 @@
 {
-  "visibility": true,
+  "visibility": false,
   "surveyPlans": [
     {
       "planName": "Free Account",
@@ -17,7 +17,7 @@
       "dailyIncome": 250,
       "minimumWithdrawal": 3000,
       "earningPerSurvey": "50 - 100",
-      "price": "300"
+      "price": "0"
     },
     {
       "planName": "Business Premium",
@@ -26,7 +26,7 @@
       "dailyIncome": 500,
       "minimumWithdrawal": 2500,
       "earningPerSurvey": "50 - 100",
-      "price": "600"
+      "price": "0"
     },
     {
       "planName": "Business Expert",
@@ -35,12 +35,12 @@
       "dailyIncome": 1500,
       "minimumWithdrawal": 2000,
       "earningPerSurvey": "50 - 100",
-      "price": "1000"
+      "price": "0"
     }
   ],
   "mpesaPaymentDetails": {
-    "tillName": "TIPSCENTRALEA",
-    "tillNumber":  937226
+    "tillName": "TIPSCENTR",
+    "tillNumber":  
   },
   "moneyMaking": [
     
