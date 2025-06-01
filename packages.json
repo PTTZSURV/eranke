@@ -11,7 +11,7 @@
       "price": "0"
     },
     {
-      "planName": "Business Basic",
+      "planName": "Free Basic",
       "dailySurvey": 5,
       "monthlyIncome": 8000,
       "dailyIncome": 250,
@@ -20,7 +20,7 @@
       "price": "0"
     },
     {
-      "planName": "Business Premium",
+      "planName": "Free Premium",
       "dailySurvey": 10,
       "monthlyIncome": 15000,
       "dailyIncome": 500,
@@ -29,7 +29,7 @@
       "price": "0"
     },
     {
-      "planName": "Business Expert",
+      "planName": "Free Expert",
       "dailySurvey": 20,
       "monthlyIncome": 30000,
       "dailyIncome": 1500,
