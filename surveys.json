@@ -5,7 +5,7 @@
             "surveyId": "1",
             "surveyCategory": "Welcome to Surveys",
             "surveyPaid": false,
-            "surveyAmount": 100,
+            "surveyAmount": 40,
             "surveyQuestions": [
                 {
                     "surveyQuestion": "How did you hear about surveyiss?",
@@ -70,7 +70,7 @@
             "surveyId": "DU6UAI7GDK",
             "surveyCategory": "KFC",
             "surveyPaid": false,
-            "surveyAmount": 300,
+            "surveyAmount": 40,
             "surveyQuestions": [
                 {
                     "surveyQuestion": "How often do you visit KFC?",
