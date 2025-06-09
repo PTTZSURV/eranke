@@ -516,7 +516,7 @@
         {
             "surveyId": "RTCU8QFH2U",
             "surveyCategory": "Smart/Electronic TVs",
-            "surveyPaid": true,
+            "surveyPaid": false,
             "surveyAmount": 46,
             "surveyQuestions": [
                 {
@@ -587,7 +587,7 @@
         {
             "surveyId": "T88EP046T3",
             "surveyCategory": "Facebook",
-            "surveyPaid": true,
+            "surveyPaid": false,
             "surveyAmount": 44,
             "surveyQuestions": [
                 {
