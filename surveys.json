@@ -4,7 +4,7 @@
         {
             "surveyId": "1",
             "surveyCategory": "Welcome to Surveys",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 40,
             "surveyQuestions": [
                 {
@@ -69,7 +69,7 @@
         {
             "surveyId": "DU6UAI7GDK",
             "surveyCategory": "KFC",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 40,
             "surveyQuestions": [
                 {
@@ -205,7 +205,7 @@
         {
             "surveyId": "XU6LAI3GJT",
             "surveyCategory": "Naivas",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 44,
             "surveyQuestions": [
                 {
@@ -310,7 +310,7 @@
         {
             "surveyId": "DU6LAI3GJK",
             "surveyCategory": "Diet & Food",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 44,
             "surveyQuestions": [
                 {
@@ -516,7 +516,7 @@
         {
             "surveyId": "RTCU8QFH2U",
             "surveyCategory": "Smart/Electronic TVs",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 46,
             "surveyQuestions": [
                 {
@@ -587,7 +587,7 @@
         {
             "surveyId": "T88EP046T3",
             "surveyCategory": "Facebook",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 44,
             "surveyQuestions": [
                 {
@@ -676,7 +676,7 @@
         {
             "surveyId": "W48EP156T8",
             "surveyCategory": "Safaricom Home Fibre",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 300,
             "surveyQuestions": [
                 {
@@ -762,7 +762,7 @@
         {
             "surveyId": "OEAGIFC92H",
             "surveyCategory": "Coca Cola",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 100,
             "surveyQuestions": [
                 {
@@ -836,7 +836,7 @@
         {
             "surveyId": "T472SNCM16",
             "surveyCategory": "Optiven",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 44,
             "surveyQuestions": [
                 {
@@ -889,7 +889,7 @@
         {
             "surveyId": "ADL05KU9QX",
             "surveyCategory": "Social Media",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 43,
             "surveyQuestions": [
                 {
@@ -970,7 +970,7 @@
         {
             "surveyId": "9J68HYA1O4",
             "surveyCategory": "Starting your day",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 44,
             "surveyQuestions": [
                 {
@@ -1042,7 +1042,7 @@
         {
             "surveyId": "IO9CA1TH4M",
             "surveyCategory": "Cooking",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 52,
             "surveyQuestions": [
                 {
@@ -1134,7 +1134,7 @@
         {
             "surveyId": "F27LDO510A",
             "surveyCategory": "Mental health",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 55,
             "surveyQuestions": [
                 {
@@ -1188,7 +1188,7 @@
         {
             "surveyId": "R7VXJYT0HN",
             "surveyCategory": "Access to clean water",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 58,
             "surveyQuestions": [
                 {
@@ -1260,7 +1260,7 @@
         {
             "surveyId": "VMLSA9BQ84",
             "surveyCategory": "Women Rights",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 53,
             "surveyQuestions": [
                 {
@@ -1321,7 +1321,7 @@
         {
             "surveyId": "4WUM6Z72QP",
             "surveyCategory": "Political Stability",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 58,
             "surveyQuestions": [
                 {
@@ -1410,7 +1410,7 @@
         {
             "surveyId": "O48EE156R1",
             "surveyCategory": "Fresha Milk",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 49,
             "surveyQuestions": [
                 {
@@ -1533,7 +1533,7 @@
         {
             "surveyId": "R9V5Q840JW",
             "surveyCategory": "Laptop Purchasing",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 52,
             "surveyQuestions": [
                 {
@@ -1615,7 +1615,7 @@
         {
             "surveyId": "8ULTHSYN47",
             "surveyCategory": "Healthcare access",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 56,
             "surveyQuestions": [
                 {
@@ -1684,7 +1684,7 @@
         {
             "surveyId": "9ULKHSYZ42",
             "surveyCategory": "Robotics",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 48,
             "surveyQuestions": [
                 {
@@ -1823,7 +1823,7 @@
         {
             "surveyId": "cvdfr45",
             "surveyCategory": "Hotel Industry",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 57,
             "surveyQuestions": [
                 {
@@ -1903,7 +1903,7 @@
         {
             "surveyId": "NM467SJLMCX",
             "surveyCategory": "KPLC(Kenya Power)",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 61,
             "surveyQuestions": [
                 {
@@ -2022,7 +2022,7 @@
         {
             "surveyId": "vgdc21bh3m",
             "surveyCategory": "Shopping",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 57,
             "surveyQuestions": [
                 {
@@ -2117,7 +2117,7 @@
         {
             "surveyId": "ex1tdrvi9c",
             "surveyCategory": "Cars",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 60,
             "surveyQuestions": [
                 {
@@ -2234,7 +2234,7 @@
         {
             "surveyId": "fq2maza2qa",
             "surveyCategory": "Television",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 56,
             "surveyQuestions": [
                 {
@@ -2312,7 +2312,7 @@
         {
             "surveyId": "aaoxj3x5qm",
             "surveyCategory": "Furniture",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 54,
             "surveyQuestions": [
                 {
@@ -2404,7 +2404,7 @@
         {
             "surveyId": "4bpmr9t9a2",
             "surveyCategory": "Home Design",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 55,
             "surveyQuestions": [
                 {
@@ -2504,7 +2504,7 @@
         {
             "surveyId": "jem5c0zrad",
             "surveyCategory": "Hotel Industry",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 47,
             "surveyQuestions": [
                 {
