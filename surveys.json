@@ -5,7 +5,7 @@
             "surveyId": "1",
             "surveyCategory": "Welcome to Surveyiss",
             "surveyPaid": false,
-            "surveyAmount": 1500,
+            "surveyAmount": 120,
             "surveyQuestions": [
                 {
                     "surveyQuestion": "How did you hear about surveyiss?",
@@ -69,7 +69,7 @@
         {
             "surveyId": "DU6LAI3GJK",
             "surveyCategory": "Diet & Food",
-            "surveyPaid": true,
+            "surveyPaid": false 110,
             "surveyAmount": 44,
             "surveyQuestions": [
                 {
@@ -133,8 +133,8 @@
         {
             "surveyId": "RTCU8QFH2U",
             "surveyCategory": "Smart/Electronic TVs",
-            "surveyPaid": true,
-            "surveyAmount": 46,
+            "surveyPaid": false,
+            "surveyAmount": 76,
             "surveyQuestions": [
                 {
                     "surveyQuestion": "How many hours do you watch TV per day?",
@@ -440,8 +440,8 @@
         {
             "surveyId": "4WUM6Z72QP",
             "surveyCategory": "Political Stability",
-            "surveyPaid": true,
-            "surveyAmount": 58,
+            "surveyPaid": false,
+            "surveyAmount": 88,
             "surveyQuestions": [
                 {
                     "surveyQuestion": "Do you believe political stability is important for a country's development?",
