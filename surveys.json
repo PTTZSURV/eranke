@@ -69,7 +69,7 @@
         {
             "surveyId": "DU6LAI3GJK",
             "surveyCategory": "Diet & Food",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 44,
             "surveyQuestions": [
                 {
@@ -133,7 +133,7 @@
         {
             "surveyId": "RTCU8QFH2U",
             "surveyCategory": "Smart/Electronic TVs",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 46,
             "surveyQuestions": [
                 {
@@ -204,7 +204,7 @@
         {
             "surveyId": "9J68HYA1O4",
             "surveyCategory": "Starting your day",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 44,
             "surveyQuestions": [
                 {
@@ -276,7 +276,7 @@
         {
             "surveyId": "IO9CA1TH4M",
             "surveyCategory": "Cooking",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 52,
             "surveyQuestions": [
                 {
@@ -368,7 +368,7 @@
         {
             "surveyId": "R7VXJYT0HN",
             "surveyCategory": "Access to clean water",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 58,
             "surveyQuestions": [
                 {
@@ -440,7 +440,7 @@
         {
             "surveyId": "4WUM6Z72QP",
             "surveyCategory": "Political Stability",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 58,
             "surveyQuestions": [
                 {
@@ -529,7 +529,7 @@
         {
             "surveyId": "R9V5Q840JW",
             "surveyCategory": "Laptop Purchasing",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 52,
             "surveyQuestions": [
                 {
@@ -587,7 +587,7 @@
         {
             "surveyId": "8ULTHSYN47",
             "surveyCategory": "Healthcare access",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 56,
             "surveyQuestions": [
                 {
@@ -656,7 +656,7 @@
         {
             "surveyId": "9ULKHSYZ42",
             "surveyCategory": "Robotics",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 48,
             "surveyQuestions": [
                 {
@@ -795,7 +795,7 @@
         {
             "surveyId": "cvdfr45",
             "surveyCategory": "Hotel Industry",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 57,
             "surveyQuestions": [
                 {
@@ -875,7 +875,7 @@
         {
             "surveyId": "vgdc21bh3m",
             "surveyCategory": "Shopping",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 57,
             "surveyQuestions": [
                 {
@@ -970,7 +970,7 @@
         {
             "surveyId": "ex1tdrvi9c",
             "surveyCategory": "Cars",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 60,
             "surveyQuestions": [
                 {
@@ -1087,7 +1087,7 @@
         {
             "surveyId": "aaoxj3x5qm",
             "surveyCategory": "Furniture",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 54,
             "surveyQuestions": [
                 {
@@ -1179,7 +1179,7 @@
         {
             "surveyId": "4bpmr9t9a2",
             "surveyCategory": "Home Design",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 55,
             "surveyQuestions": [
                 {
@@ -1279,7 +1279,7 @@
         {
             "surveyId": "jem5c0zrad",
             "surveyCategory": "Hotel Industry",
-            "surveyPaid": false,
+            "surveyPaid": true,
             "surveyAmount": 47,
             "surveyQuestions": [
                 {
