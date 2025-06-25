@@ -1278,7 +1278,7 @@
         },
         {
             "surveyId": "jem5c0zrad",
-            "surveyCategory": "Hotel Industry",
+            "surveyCategory": "Farming",
             "surveyPaid": true,
             "surveyAmount": 47,
             "surveyQuestions": [
@@ -1359,7 +1359,306 @@
                     ]
                 }
             ]
+        },
+        {
+            "surveyId": "K7N2P8VQ3X",
+            "surveyCategory": "Fitness and Exercise",
+            "surveyPaid": true,
+            "surveyAmount": 50,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "How often do you exercise?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Daily",
+                        "3-5 times a week",
+                        "1-2 times a week",
+                        "Rarely",
+                        "Never"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What type of exercise do you prefer? (Select all that apply)",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Cardio",
+                        "Strength training",
+                        "Yoga",
+                        "Pilates",
+                        "HIIT",
+                        "Cycling",
+                        "Swimming"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Where do you usually exercise?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Gym",
+                        "Home",
+                        "Outdoors",
+                        "Fitness studio"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What motivates you to exercise?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Do you use fitness apps or wearables to track your progress?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Yes",
+                        "No"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which fitness goals are you currently working towards? (Select all that apply)",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Weight loss",
+                        "Muscle gain",
+                        "Endurance",
+                        "Flexibility",
+                        "Overall health"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How long is your typical workout session?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Less than 30 minutes",
+                        "30-60 minutes",
+                        "1-2 hours",
+                        "More than 2 hours"
+                    ]
+                }
+            ]
+        },
+        {
+            "surveyId": "M3T9W4XR8Y",
+            "surveyCategory": "Travel Preferences",
+            "surveyPaid": true,
+            "surveyAmount": 53,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "How often do you travel for leisure?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Multiple times a year",
+                        "Once a year",
+                        "Every few years",
+                        "Rarely",
+                        "Never"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What type of travel do you prefer? (Select all that apply)",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Adventure",
+                        "Cultural",
+                        "Beach",
+                        "City",
+                        "Nature",
+                        "Luxury"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What is your favorite travel destination?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Do you prefer solo or group travel?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Solo",
+                        "With friends",
+                        "With family",
+                        "Organized group"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which factors influence your choice of travel destination? (Select all that apply)",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Cost",
+                        "Safety",
+                        "Culture",
+                        "Weather",
+                        "Accessibility",
+                        "Activities available"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What is your preferred mode of transportation when traveling?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Plane",
+                        "Train",
+                        "Car",
+                        "Bus",
+                        "Cruise"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How do you usually plan your trips?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Travel agency",
+                        "Online platforms",
+                        "Self-planned",
+                        "Spontaneous"
+                    ]
+                }
+            ]
+        },
+        {
+            "surveyId": "P8Y2N6ZQ1V",
+            "surveyCategory": "Pet Ownership",
+            "surveyPaid": true,
+            "surveyAmount": 49,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "Do you own a pet?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Yes",
+                        "No"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What type of pet(s) do you own? (Select all that apply)",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Dog",
+                        "Cat",
+                        "Bird",
+                        "Fish",
+                        "Reptile",
+                        "Small mammal",
+                        "Other"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How often do you purchase pet supplies?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Weekly",
+                        "Monthly",
+                        "Every few months",
+                        "Rarely"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What is your favorite pet brand for supplies?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Which pet care services do you use? (Select all that apply)",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Veterinary care",
+                        "Grooming",
+                        "Pet sitting",
+                        "Training",
+                        "Boarding"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How much do you typically spend on pet care per month?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Less than $20",
+                        "$20-$50",
+                        "$50-$100",
+                        "More than $100"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What challenges do you face as a pet owner?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                }
+            ]
+        },
+        {
+            "surveyId": "H4R7T2XW9B",
+            "surveyCategory": "Online Learning",
+            "surveyPaid": true,
+            "surveyAmount": 51,
+            "surveyQuestions": [
+                {
+                    "surveyQuestion": "Have you ever taken an online course?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Yes",
+                        "No"
+                    ]
+                },
+                {
+                    "surveyQuestion": "Which platforms have you used for online learning? (Select all that apply)",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Coursera",
+                        "Udemy",
+                        "edX",
+                        "Khan Academy",
+                        "LinkedIn Learning",
+                        "Other"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What is your primary reason for taking online courses?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Career advancement",
+                        "Personal interest",
+                        "Skill development",
+                        "Academic requirement"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What type of courses do you prefer?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Self-paced",
+                        "Instructor-led",
+                        "Hybrid"
+                    ]
+                },
+                {
+                    "surveyQuestion": "What challenges have you faced with online learning?",
+                    "surveyType": 2,
+                    "surveyAnswers": []
+                },
+                {
+                    "surveyQuestion": "Which subjects are you most interested in learning about? (Select all that apply)",
+                    "surveyType": 3,
+                    "surveyAnswers": [
+                        "Technology",
+                        "Business",
+                        "Arts",
+                        "Science",
+                        "Health",
+                        "Language"
+                    ]
+                },
+                {
+                    "surveyQuestion": "How satisfied are you with your online learning experience?",
+                    "surveyType": 1,
+                    "surveyAnswers": [
+                        "Very satisfied",
+                        "Satisfied",
+                        "Neutral",
+                        "Dissatisfied",
+                        "Very dissatisfied"
+                    ]
+                }
+            ]
         }
     ]
 }
-
