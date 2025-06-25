@@ -3,9 +3,9 @@
     "surveys": [
       {
         "surveyId": "1",
-        "surveyCategory": "Surveyiz",
+        "surveyCategory": "Surveyiss",
         "surveyPaid": false,
-        "surveyAmount": 1000,
+        "surveyAmount": 110,
         "surveyQuestions": [
           {
             "surveyQuestion": "How did you hear about us?",
