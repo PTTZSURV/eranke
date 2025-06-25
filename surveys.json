@@ -167,7 +167,7 @@
       {
         "surveyId": "HUSUAJ3GDK",
         "surveyCategory": "INFOTRACK",
-        "surveyPaid": true,
+        "surveyPaid": false,
         "surveyAmount": 59,
         "surveyQuestions": [
           {
@@ -306,7 +306,7 @@
       {
         "surveyId": "DA6UAI6GDR",
         "surveyCategory": "Nation Media",
-        "surveyPaid": true,
+        "surveyPaid": false,
         "surveyAmount": 38,
         "surveyQuestions": [
           {
@@ -420,7 +420,7 @@
       {
           "surveyId": "AB12CD34EF",
           "surveyCategory": "TECH GADGETS",
-          "surveyPaid": true,
+          "surveyPaid": false,
           "surveyAmount": 70,
           "surveyQuestions": [
               {
@@ -505,7 +505,7 @@
       {
           "surveyId": "GH56IJ78KL",
           "surveyCategory": "HOME APPLIANCES",
-          "surveyPaid": true,
+          "surveyPaid": false,
           "surveyAmount": 75,
           "surveyQuestions": [
               {
