@@ -5,7 +5,7 @@
         "surveyId": "1",
         "surveyCategory": "Surveyiss",
         "surveyPaid": false,
-        "surveyAmount": 110,
+        "surveyAmount": 67,
         "surveyQuestions": [
           {
             "surveyQuestion": "How did you hear about us?",
@@ -70,7 +70,7 @@
         "surveyId": "DU6UZI9PDQ",
         "surveyCategory": "AIRTEL",
         "surveyPaid": true,
-        "surveyAmount": 49,
+        "surveyAmount": 490,
         "surveyQuestions": [
           {
             "surveyQuestion": "How long have you been using Airtel services?",
@@ -421,7 +421,7 @@
           "surveyId": "AB12CD34EF",
           "surveyCategory": "TECH GADGETS",
           "surveyPaid": false,
-          "surveyAmount": 70,
+          "surveyAmount": 77,
           "surveyQuestions": [
               {
                   "surveyQuestion": "How often do you purchase new tech gadgets?",
@@ -602,7 +602,7 @@
           "surveyId": "MN90OP12QR",
           "surveyCategory": "ONLINE EDUCATION",
           "surveyPaid": true,
-          "surveyAmount": 80,
+          "surveyAmount": 210,
           "surveyQuestions": [
               {
                   "surveyQuestion": "How often do you take online courses?",
@@ -756,7 +756,7 @@
           "surveyId": "YZ78AB90CD",
           "surveyCategory": "FITNESS TRACKERS",
           "surveyPaid": true,
-          "surveyAmount": 85,
+          "surveyAmount": 160,
           "surveyQuestions": [
               {
                   "surveyQuestion": "How often do you use your fitness tracker?",
@@ -931,7 +931,7 @@
           "surveyId": "KL12MN34OP",
           "surveyCategory": "TRAVEL EXPERIENCE",
           "surveyPaid": true,
-          "surveyAmount": 72,
+          "surveyAmount": 140,
           "surveyQuestions": [
               {
                   "surveyQuestion": "How often do you travel for leisure?",
@@ -1015,7 +1015,7 @@
           "surveyId": "QR56ST78UV",
           "surveyCategory": "PERSONAL FINANCE",
           "surveyPaid": true,
-          "surveyAmount": 50,
+          "surveyAmount": 240,
           "surveyQuestions": [
               {
                   "surveyQuestion": "How often do you review your personal finances?",
@@ -1086,7 +1086,7 @@
           "surveyId": "WX34YZ56AB",
           "surveyCategory": "FITNESS AND WELLNESS",
           "surveyPaid": true,
-          "surveyAmount": 60,
+          "surveyAmount": 160,
           "surveyQuestions": [
               {
                   "surveyQuestion": "How often do you exercise?",
@@ -1162,7 +1162,7 @@
         "surveyId": "DU6UAI7GDK",
         "surveyCategory": "KFC",
         "surveyPaid": true,
-        "surveyAmount": 80,
+        "surveyAmount": 188,
         "surveyQuestions": [
           {
             "surveyQuestion": "How often do you visit KFC?",
@@ -1298,7 +1298,7 @@
         "surveyId": "XU6LAI3GJT",
         "surveyCategory": "Naivas",
         "surveyPaid": true,
-        "surveyAmount": 40,
+        "surveyAmount": 112,
         "surveyQuestions": [
           {
             "surveyQuestion": "How often do you shop at Naivas Supermarket?",
@@ -1403,7 +1403,7 @@
         "surveyId": "DU6LAI3GJK",
         "surveyCategory": "Diet & Food",
         "surveyPaid": true,
-        "surveyAmount": 49,
+        "surveyAmount": 192,
         "surveyQuestions": [
           {
             "surveyQuestion": "How often do you eat?",
@@ -1467,7 +1467,7 @@
         "surveyId": "YU6LCI7GJR",
         "surveyCategory": "Nakuru County",
         "surveyPaid": true,
-        "surveyAmount": 61,
+        "surveyAmount": 108,
         "surveyQuestions": [
           {
             "surveyQuestion": "What is your age group?",
@@ -1756,7 +1756,7 @@
           "surveyId": "IJ78KL90MN",
           "surveyCategory": "STREAMING SERVICES",
           "surveyPaid": true,
-          "surveyAmount": 70,
+          "surveyAmount": 170,
           "surveyQuestions": [
               {
                   "surveyQuestion": "How often do you use streaming services?",
@@ -1852,7 +1852,7 @@
           "surveyId": "OP12QR34ST",
           "surveyCategory": "HOME APPLIANCES",
           "surveyPaid": true,
-          "surveyAmount": 50,
+          "surveyAmount": 130,
           "surveyQuestions": [
               {
                   "surveyQuestion": "How often do you purchase new home appliances?",
@@ -1928,7 +1928,7 @@
           "surveyId": "UV56WX78YZ",
           "surveyCategory": "GAMING HABITS",
           "surveyPaid": true,
-          "surveyAmount": 75,
+          "surveyAmount": 175,
           "surveyQuestions": [
               {
                   "surveyQuestion": "How often do you play video games?",
@@ -2034,7 +2034,7 @@
         "surveyId": "T88EP046T3",
         "surveyCategory": "Facebook",
         "surveyPaid": true,
-        "surveyAmount": 44,
+        "surveyAmount": 125,
         "surveyQuestions": [
           {
             "surveyQuestion": "How many hours do you spend on social media per day?",
@@ -2123,7 +2123,7 @@
         "surveyId": "W48EP156T8",
         "surveyCategory": "Safaricom Home",
         "surveyPaid": true,
-        "surveyAmount": 88,
+        "surveyAmount": 188,
         "surveyQuestions": [
           {
             "surveyQuestion": "How did you hear about Safaricom Home Fibre?",
@@ -2209,7 +2209,7 @@
         "surveyId": "OEAGIFC92H",
         "surveyCategory": "Coca Cola",
         "surveyPaid": true,
-        "surveyAmount": 47,
+        "surveyAmount": 112,
         "surveyQuestions": [
           {
             "surveyQuestion": "Which of the following beverages do you enjoy? (Select all that apply)",
@@ -2336,7 +2336,7 @@
         "surveyId": "ADL05KU9QX",
         "surveyCategory": "Social Media",
         "surveyPaid": true,
-        "surveyAmount": 43,
+        "surveyAmount": 143,
         "surveyQuestions": [
           {
             "surveyQuestion": "How often do you use Facebook?",
@@ -2417,7 +2417,7 @@
         "surveyId": "9J68HYA1O4",
         "surveyCategory": "Starting your day",
         "surveyPaid": true,
-        "surveyAmount": 44,
+        "surveyAmount": 137,
         "surveyQuestions": [
           {
             "surveyQuestion": "What time do you usually wake up?",
@@ -2489,7 +2489,7 @@
         "surveyId": "IO9CA1TH4M",
         "surveyCategory": "Cooking",
         "surveyPaid": true,
-        "surveyAmount": 52,
+        "surveyAmount": 152,
         "surveyQuestions": [
           {
             "surveyQuestion": "How often do you cook?",
@@ -2647,7 +2647,7 @@
           "surveyId": "UV34WX56YZ",
           "surveyCategory": "TECH GADGETS",
           "surveyPaid": true,
-          "surveyAmount": 90,
+          "surveyAmount": 148,
           "surveyQuestions": [
               {
                   "surveyQuestion": "How often do you purchase new tech gadgets?",
@@ -2733,7 +2733,7 @@
           "surveyId": "CD12EF34GH",
           "surveyCategory": "PETS",
           "surveyPaid": true,
-          "surveyAmount": 35,
+          "surveyAmount": 135,
           "surveyQuestions": [
               {
                   "surveyQuestion": "Do you own any pets?",
@@ -2796,7 +2796,7 @@
           "surveyId": "IJ45KL67MN",
           "surveyCategory": "HEALTH & WELLNESS",
           "surveyPaid": true,
-          "surveyAmount": 80,
+          "surveyAmount": 165,
           "surveyQuestions": [
               {
                   "surveyQuestion": "How often do you engage in physical exercise?",
@@ -2882,7 +2882,7 @@
           "surveyId": "UV78WX90YZ",
           "surveyCategory": "EDUCATIONAL RESOURCES",
           "surveyPaid": true,
-          "surveyAmount": 65,
+          "surveyAmount": 265,
           "surveyQuestions": [
               {
                   "surveyQuestion": "How often do you use online educational resources?",
@@ -2948,7 +2948,7 @@
         "surveyId": "F27LDO510A",
         "surveyCategory": "Mental health",
         "surveyPaid": true,
-        "surveyAmount": 55,
+        "surveyAmount": 135,
         "surveyQuestions": [
           {
             "surveyQuestion": "How old are you",
