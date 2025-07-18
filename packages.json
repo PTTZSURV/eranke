@@ -3,7 +3,7 @@
   "surveyPlans": [
     {
       "planName": "Free Account",
-      "dailySurvey": 5,
+      "dailySurvey": 15,
       "monthlyIncome": 0,
       "dailyIncome": 0,
       "minimumWithdrawal": 4500,
@@ -12,30 +12,30 @@
     },
     {
       "planName": "Business Basic",
-      "dailySurvey": 10,
+      "dailySurvey": 20,
       "monthlyIncome": 8000,
       "dailyIncome": 250,
       "minimumWithdrawal": 3000,
       "earningPerSurvey": "50 - 100",
-      "price": "300"
+      "price": "200"
     },
     {
       "planName": "Business Premium",
-      "dailySurvey": 15,
+      "dailySurvey": 30,
       "monthlyIncome": 15000,
       "dailyIncome": 500,
       "minimumWithdrawal": 2500,
       "earningPerSurvey": "50 - 100",
-      "price": "600"
+      "price": "400"
     },
     {
       "planName": "Business Expert",
-      "dailySurvey": 20,
+      "dailySurvey": 35,
       "monthlyIncome": 30000,
       "dailyIncome": 1500,
       "minimumWithdrawal": 2000,
       "earningPerSurvey": "50 - 100",
-      "price": "1000"
+      "price": "800"
     }
   ],
   "mpesaPaymentDetails": {
