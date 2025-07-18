@@ -4,7 +4,7 @@
       {
         "surveyId": "1",
         "surveyCategory": "Surveyiss",
-        "surveyPaid": true,
+        "surveyPaid": false,
         "surveyAmount": 93,
         "surveyQuestions": [
           {
@@ -1086,7 +1086,7 @@
           "surveyId": "WX34YZ56AB",
           "surveyCategory": "FITNESS AND WELLNESS",
           "surveyPaid": false,
-          "surveyAmount": 60,
+          "surveyAmount": 81,
           "surveyQuestions": [
               {
                   "surveyQuestion": "How often do you exercise?",
@@ -1298,7 +1298,7 @@
         "surveyId": "XU6LAI3GJT",
         "surveyCategory": "Naivas",
         "surveyPaid": false,
-        "surveyAmount": 40,
+        "surveyAmount": 54,
         "surveyQuestions": [
           {
             "surveyQuestion": "How often do you shop at Naivas Supermarket?",
@@ -1852,7 +1852,7 @@
           "surveyId": "OP12QR34ST",
           "surveyCategory": "HOME APPLIANCES",
           "surveyPaid": false,
-          "surveyAmount": 50,
+          "surveyAmount": 91,
           "surveyQuestions": [
               {
                   "surveyQuestion": "How often do you purchase new home appliances?",
@@ -2034,7 +2034,7 @@
         "surveyId": "T88EP046T3",
         "surveyCategory": "Facebook",
         "surveyPaid": false,
-        "surveyAmount": 44,
+        "surveyAmount": 80,
         "surveyQuestions": [
           {
             "surveyQuestion": "How many hours do you spend on social media per day?",
@@ -2209,7 +2209,7 @@
         "surveyId": "OEAGIFC92H",
         "surveyCategory": "Coca Cola",
         "surveyPaid": false,
-        "surveyAmount": 47,
+        "surveyAmount": 67,
         "surveyQuestions": [
           {
             "surveyQuestion": "Which of the following beverages do you enjoy? (Select all that apply)",
