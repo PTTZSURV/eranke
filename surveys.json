@@ -4,7 +4,7 @@
       {
         "surveyId": "1",
         "surveyCategory": "Surveyiss",
-        "surveyPaid": false,
+        "surveyPaid": true,
         "surveyAmount": 93,
         "surveyQuestions": [
           {
@@ -69,7 +69,7 @@
       {
         "surveyId": "DU6UZI9PDQ",
         "surveyCategory": "AIRTEL",
-        "surveyPaid": false,
+        "surveyPaid": true,
         "surveyAmount": 49,
         "surveyQuestions": [
           {
@@ -306,7 +306,7 @@
       {
         "surveyId": "DA6UAI6GDR",
         "surveyCategory": "Nation Media",
-        "surveyPaid": false,
+        "surveyPaid": true,
         "surveyAmount": 38,
         "surveyQuestions": [
           {
@@ -686,7 +686,7 @@
       {
           "surveyId": "ST34UV56WX",
           "surveyCategory": "FOOD DELIVERY",
-          "surveyPaid": false,
+          "surveyPaid": true,
           "surveyAmount": 55,
           "surveyQuestions": [
               {
@@ -1014,7 +1014,7 @@
       {
           "surveyId": "QR56ST78UV",
           "surveyCategory": "PERSONAL FINANCE",
-          "surveyPaid": false,
+          "surveyPaid": true,
           "surveyAmount": 50,
           "surveyQuestions": [
               {
@@ -1402,7 +1402,7 @@
       {
         "surveyId": "DU6LAI3GJK",
         "surveyCategory": "Diet & Food",
-        "surveyPaid": false,
+        "surveyPaid": true,
         "surveyAmount": 49,
         "surveyQuestions": [
           {
@@ -1679,7 +1679,7 @@
         {
           "surveyId": "CD23EF45GH",
           "surveyCategory": "MOBILE APPS",
-          "surveyPaid": false,
+          "surveyPaid": true,
           "surveyAmount": 55,
           "surveyQuestions": [
               {
@@ -2282,7 +2282,7 @@
       {
         "surveyId": "T472SNCM16",
         "surveyCategory": "Optiven",
-        "surveyPaid": false,
+        "surveyPaid": true,
         "surveyAmount": 44,
         "surveyQuestions": [
           {
@@ -2335,7 +2335,7 @@
       {
         "surveyId": "ADL05KU9QX",
         "surveyCategory": "Social Media",
-        "surveyPaid": false,
+        "surveyPaid": true,
         "surveyAmount": 43,
         "surveyQuestions": [
           {
@@ -2416,7 +2416,7 @@
       {
         "surveyId": "9J68HYA1O4",
         "surveyCategory": "Starting your day",
-        "surveyPaid": false,
+        "surveyPaid": true,
         "surveyAmount": 44,
         "surveyQuestions": [
           {
@@ -2580,7 +2580,7 @@
       {
           "surveyId": "OP90QR12ST",
           "surveyCategory": "CLOTHING BRANDS",
-          "surveyPaid": false,
+          "surveyPaid": true,
           "surveyAmount": 40,
           "surveyQuestions": [
               {
@@ -2732,7 +2732,7 @@
       {
           "surveyId": "CD12EF34GH",
           "surveyCategory": "PETS",
-          "surveyPaid": false,
+          "surveyPaid": true,
           "surveyAmount": 35,
           "surveyQuestions": [
               {
@@ -2881,7 +2881,7 @@
       {
           "surveyId": "UV78WX90YZ",
           "surveyCategory": "EDUCATIONAL RESOURCES",
-          "surveyPaid": false,
+          "surveyPaid": true,
           "surveyAmount": 65,
           "surveyQuestions": [
               {
@@ -3223,7 +3223,7 @@
       {
         "surveyId": "O48EE156R1",
         "surveyCategory": "Fresha Milk",
-        "surveyPaid": false,
+        "surveyPaid": true,
         "surveyAmount": 49,
         "surveyQuestions": [
           {
@@ -3497,7 +3497,7 @@
       {
         "surveyId": "9ULKHSYZ42",
         "surveyCategory": "Robotics",
-        "surveyPaid": false,
+        "surveyPaid": true,
         "surveyAmount": 48,
         "surveyQuestions": [
           {
@@ -4317,7 +4317,7 @@
       {
         "surveyId": "jem5c0zrad",
         "surveyCategory": "Hotel Industry",
-        "surveyPaid": false,
+        "surveyPaid": true,
         "surveyAmount": 47,
         "surveyQuestions": [
           {
@@ -4475,7 +4475,7 @@
       {
         "surveyId": "K4M8N2B6F0",
         "surveyCategory": "Remote Work",
-        "surveyPaid": false,
+        "surveyPaid": true,
         "surveyAmount": 45,
         "surveyQuestions": [
           {
@@ -4798,7 +4798,7 @@
       {
         "surveyId": "P9T3U7V1W5",
         "surveyCategory": "Virtual Reality",
-        "surveyPaid": false,
+        "surveyPaid": true,
         "surveyAmount": 55,
         "surveyQuestions": [
           {
@@ -4923,7 +4923,7 @@
       {
         "surveyId": "R5V9W3X7Y1",
         "surveyCategory": "Cybersecurity Awareness",
-        "surveyPaid": false,
+        "surveyPaid": true,
         "surveyAmount": 48,
         "surveyQuestions": [
           {
