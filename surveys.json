@@ -4397,6 +4397,653 @@
             ]
           }
         ]
+      },
+      {
+        "surveyId": "P9Z3Q7V5T1",
+        "surveyCategory": "Electric Vehicles",
+        "surveyPaid": true,
+        "surveyAmount": 65,
+        "surveyQuestions": [
+          {
+            "surveyQuestion": "Do you own an electric vehicle?",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Yes",
+              "No"
+            ]
+          },
+          {
+            "surveyQuestion": "What is your primary reason for considering an electric vehicle?",
+            "surveyType": 3,
+            "surveyAnswers": [
+              "Environmental concerns",
+              "Cost savings",
+              "Performance",
+              "Government incentives"
+            ]
+          },
+          {
+            "surveyQuestion": "What concerns do you have about electric vehicles?",
+            "surveyType": 2,
+            "surveyAnswers": []
+          },
+          {
+            "surveyQuestion": "How far do you typically drive per day?",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Less than 50 km",
+              "50-100 km",
+              "100-200 km",
+              "More than 200 km"
+            ]
+          },
+          {
+            "surveyQuestion": "Which electric vehicle brands are you familiar with?",
+            "surveyType": 3,
+            "surveyAnswers": [
+              "Tesla",
+              "Nissan",
+              "BMW",
+              "Chevrolet",
+              "Hyundai"
+            ]
+          },
+          {
+            "surveyQuestion": "How likely are you to purchase an electric vehicle in the next 5 years?",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Very likely",
+              "Likely",
+              "Neutral",
+              "Unlikely",
+              "Very unlikely"
+            ]
+          },
+          {
+            "surveyQuestion": "What features are most important in an electric vehicle?",
+            "surveyType": 3,
+            "surveyAnswers": [
+              "Battery range",
+              "Charging speed",
+              "Price",
+              "Safety features",
+              "Technology integration"
+            ]
+          }
+        ]
+      },
+      {
+        "surveyId": "K4M8N2B6F0",
+        "surveyCategory": "Remote Work",
+        "surveyPaid": false,
+        "surveyAmount": 45,
+        "surveyQuestions": [
+          {
+            "surveyQuestion": "Do you currently work remotely?",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Yes, full-time",
+              "Yes, part-time",
+              "No"
+            ]
+          },
+          {
+            "surveyQuestion": "What tools do you use for remote collaboration?",
+            "surveyType": 3,
+            "surveyAnswers": [
+              "Zoom",
+              "Slack",
+              "Microsoft Teams",
+              "Google Workspace",
+              "Email"
+            ]
+          },
+          {
+            "surveyQuestion": "What are the biggest challenges of remote work for you?",
+            "surveyType": 2,
+            "surveyAnswers": []
+          },
+          {
+            "surveyQuestion": "How has remote work affected your productivity?",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Increased",
+              "Decreased",
+              "No change"
+            ]
+          },
+          {
+            "surveyQuestion": "What improvements would you suggest for remote work setups?",
+            "surveyType": 2,
+            "surveyAnswers": []
+          },
+          {
+            "surveyQuestion": "How often do you experience work-life balance issues due to remote work?",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Often",
+              "Sometimes",
+              "Rarely",
+              "Never"
+            ]
+          }
+        ]
+      },
+      {
+        "surveyId": "L7P1R5S9U3",
+        "surveyCategory": "Sustainable Fashion",
+        "surveyPaid": true,
+        "surveyAmount": 62,
+        "surveyQuestions": [
+          {
+            "surveyQuestion": "How important is sustainability in your clothing choices?",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Very important",
+              "Important",
+              "Neutral",
+              "Not important"
+            ]
+          },
+          {
+            "surveyQuestion": "Which sustainable materials do you prefer in clothing?",
+            "surveyType": 3,
+            "surveyAnswers": [
+              "Organic cotton",
+              "Recycled polyester",
+              "Bamboo",
+              "Hemp",
+              "Tencel"
+            ]
+          },
+          {
+            "surveyQuestion": "What motivates you to buy sustainable fashion?",
+            "surveyType": 2,
+            "surveyAnswers": []
+          },
+          {
+            "surveyQuestion": "How often do you purchase sustainable clothing?",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Always",
+              "Often",
+              "Sometimes",
+              "Rarely",
+              "Never"
+            ]
+          },
+          {
+            "surveyQuestion": "Which brands do you associate with sustainable fashion?",
+            "surveyType": 3,
+            "surveyAnswers": [
+              "Patagonia",
+              "Everlane",
+              "Reformation",
+              "Stella McCartney"
+            ]
+          },
+          {
+            "surveyQuestion": "What barriers prevent you from buying more sustainable fashion?",
+            "surveyType": 2,
+            "surveyAnswers": []
+          },
+          {
+            "surveyQuestion": "How likely are you to recommend sustainable fashion to others?",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Very likely",
+              "Likely",
+              "Neutral",
+              "Unlikely",
+              "Very unlikely"
+            ]
+          }
+        ]
+      },
+      {
+        "surveyId": "M0Q4T8V2W6",
+        "surveyCategory": "Mental Wellness Apps",
+        "surveyPaid": false,
+        "surveyAmount": 50,
+        "surveyQuestions": [
+          {
+            "surveyQuestion": "Do you use any mental wellness apps?",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Yes",
+              "No"
+            ]
+          },
+          {
+            "surveyQuestion": "Which mental wellness apps do you use?",
+            "surveyType": 3,
+            "surveyAnswers": [
+              "Headspace",
+              "Calm",
+              "Insight Timer",
+              "Moodpath"
+            ]
+          },
+          {
+            "surveyQuestion": "How has using these apps affected your mental health?",
+            "surveyType": 2,
+            "surveyAnswers": []
+          },
+          {
+            "surveyQuestion": "What features do you find most useful in mental wellness apps?",
+            "surveyType": 3,
+            "surveyAnswers": [
+              "Meditation guides",
+              "Mood tracking",
+              "Breathing exercises",
+              "Sleep stories"
+            ]
+          },
+          {
+            "surveyQuestion": "How often do you use mental wellness apps?",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Daily",
+              "Weekly",
+              "Monthly",
+              "Rarely"
+            ]
+          },
+          {
+            "surveyQuestion": "What improvements would you suggest for these apps?",
+            "surveyType": 2,
+            "surveyAnswers": []
+          }
+        ]
+      },
+      {
+        "surveyId": "N3R7S1U5V9",
+        "surveyCategory": "E-commerce Trends",
+        "surveyPaid": true,
+        "surveyAmount": 70,
+        "surveyQuestions": [
+          {
+            "surveyQuestion": "How often do you shop on e-commerce platforms?",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Daily",
+              "Weekly",
+              "Monthly",
+              "Rarely"
+            ]
+          },
+          {
+            "surveyQuestion": "Which e-commerce platforms do you use most?",
+            "surveyType": 3,
+            "surveyAnswers": [
+              "Amazon",
+              "Jumia",
+              "Alibaba",
+              "eBay"
+            ]
+          },
+          {
+            "surveyQuestion": "What trends have you noticed in e-commerce recently?",
+            "surveyType": 2,
+            "surveyAnswers": []
+          },
+          {
+            "surveyQuestion": "How important is fast delivery to you?",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Very important",
+              "Important",
+              "Neutral",
+              "Not important"
+            ]
+          },
+          {
+            "surveyQuestion": "Do you prefer mobile apps or websites for shopping?",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Mobile apps",
+              "Websites",
+              "Both equally"
+            ]
+          },
+          {
+            "surveyQuestion": "What factors influence your choice of e-commerce platform?",
+            "surveyType": 3,
+            "surveyAnswers": [
+              "Product variety",
+              "Prices",
+              "User reviews",
+              "Customer service"
+            ]
+          },
+          {
+            "surveyQuestion": "How likely are you to try new e-commerce trends like AR shopping?",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Very likely",
+              "Likely",
+              "Neutral",
+              "Unlikely",
+              "Very unlikely"
+            ]
+          },
+          {
+            "surveyQuestion": "What improvements would you like in e-commerce?",
+            "surveyType": 2,
+            "surveyAnswers": []
+          }
+        ]
+      },
+      {
+        "surveyId": "O6S0T4U8V2",
+        "surveyCategory": "Renewable Energy",
+        "surveyPaid": true,
+        "surveyAmount": 68,
+        "surveyQuestions": [
+          {
+            "surveyQuestion": "Do you use any renewable energy sources at home?",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Yes",
+              "No"
+            ]
+          },
+          {
+            "surveyQuestion": "Which renewable energy sources are you interested in?",
+            "surveyType": 3,
+            "surveyAnswers": [
+              "Solar",
+              "Wind",
+              "Hydro",
+              "Geothermal"
+            ]
+          },
+          {
+            "surveyQuestion": "What benefits do you see in renewable energy?",
+            "surveyType": 2,
+            "surveyAnswers": []
+          },
+          {
+            "surveyQuestion": "How aware are you of government incentives for renewable energy?",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Very aware",
+              "Somewhat aware",
+              "Not aware"
+            ]
+          },
+          {
+            "surveyQuestion": "What barriers prevent you from adopting renewable energy?",
+            "surveyType": 3,
+            "surveyAnswers": [
+              "High initial cost",
+              "Lack of information",
+              "Availability",
+              "Technical issues"
+            ]
+          },
+          {
+            "surveyQuestion": "How likely are you to switch to renewable energy in the next year?",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Very likely",
+              "Likely",
+              "Neutral",
+              "Unlikely",
+              "Very unlikely"
+            ]
+          }
+        ]
+      },
+      {
+        "surveyId": "P9T3U7V1W5",
+        "surveyCategory": "Virtual Reality",
+        "surveyPaid": false,
+        "surveyAmount": 55,
+        "surveyQuestions": [
+          {
+            "surveyQuestion": "Have you tried virtual reality?",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Yes",
+              "No"
+            ]
+          },
+          {
+            "surveyQuestion": "What VR applications interest you most?",
+            "surveyType": 3,
+            "surveyAnswers": [
+              "Gaming",
+              "Education",
+              "Training",
+              "Entertainment"
+            ]
+          },
+          {
+            "surveyQuestion": "What do you like about VR experiences?",
+            "surveyType": 2,
+            "surveyAnswers": []
+          },
+          {
+            "surveyQuestion": "What concerns do you have about VR?",
+            "surveyType": 3,
+            "surveyAnswers": [
+              "Motion sickness",
+              "Cost",
+              "Privacy",
+              "Health effects"
+            ]
+          },
+          {
+            "surveyQuestion": "How often do you use VR?",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Daily",
+              "Weekly",
+              "Monthly",
+              "Rarely",
+              "Never"
+            ]
+          },
+          {
+            "surveyQuestion": "What improvements would you like in VR technology?",
+            "surveyType": 2,
+            "surveyAnswers": []
+          }
+        ]
+      },
+      {
+        "surveyId": "Q2U6V0W4X8",
+        "surveyCategory": "Plant-Based Diets",
+        "surveyPaid": true,
+        "surveyAmount": 60,
+        "surveyQuestions": [
+          {
+            "surveyQuestion": "Do you follow a plant-based diet?",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Yes, fully",
+              "Yes, partially",
+              "No"
+            ]
+          },
+          {
+            "surveyQuestion": "What plant-based foods do you enjoy most?",
+            "surveyType": 3,
+            "surveyAnswers": [
+              "Fruits",
+              "Vegetables",
+              "Grains",
+              "Legumes",
+              "Nuts and seeds"
+            ]
+          },
+          {
+            "surveyQuestion": "What motivated you to try plant-based eating?",
+            "surveyType": 2,
+            "surveyAnswers": []
+          },
+          {
+            "surveyQuestion": "How has a plant-based diet affected your health?",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Improved",
+              "No change",
+              "Worsened"
+            ]
+          },
+          {
+            "surveyQuestion": "What challenges do you face with plant-based diets?",
+            "surveyType": 2,
+            "surveyAnswers": []
+          },
+          {
+            "surveyQuestion": "How likely are you to continue a plant-based diet?",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Very likely",
+              "Likely",
+              "Neutral",
+              "Unlikely",
+              "Very unlikely"
+            ]
+          },
+          {
+            "surveyQuestion": "Which plant-based alternatives do you prefer?",
+            "surveyType": 3,
+            "surveyAnswers": [
+              "Plant milk",
+              "Meat substitutes",
+              "Cheese alternatives",
+              "Egg replacements"
+            ]
+          }
+        ]
+      },
+      {
+        "surveyId": "R5V9W3X7Y1",
+        "surveyCategory": "Cybersecurity Awareness",
+        "surveyPaid": false,
+        "surveyAmount": 48,
+        "surveyQuestions": [
+          {
+            "surveyQuestion": "How aware are you of cybersecurity threats?",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Very aware",
+              "Somewhat aware",
+              "Not aware"
+            ]
+          },
+          {
+            "surveyQuestion": "What cybersecurity practices do you follow?",
+            "surveyType": 3,
+            "surveyAnswers": [
+              "Use strong passwords",
+              "Enable two-factor authentication",
+              "Regular software updates",
+              "Avoid phishing emails"
+            ]
+          },
+          {
+            "surveyQuestion": "Have you ever been a victim of cybercrime?",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Yes",
+              "No"
+            ]
+          },
+          {
+            "surveyQuestion": "What concerns you most about cybersecurity?",
+            "surveyType": 2,
+            "surveyAnswers": []
+          },
+          {
+            "surveyQuestion": "How often do you change your passwords?",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Monthly",
+              "Quarterly",
+              "Annually",
+              "Rarely"
+            ]
+          },
+          {
+            "surveyQuestion": "What resources do you use to learn about cybersecurity?",
+            "surveyType": 3,
+            "surveyAnswers": [
+              "Online articles",
+              "Courses",
+              "News",
+              "Friends/family"
+            ]
+          }
+        ]
+      },
+      {
+        "surveyId": "S8W2X6Y0Z4",
+        "surveyCategory": "Art and Culture",
+        "surveyPaid": true,
+        "surveyAmount": 58,
+        "surveyQuestions": [
+          {
+            "surveyQuestion": "How often do you visit art galleries or museums?",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Weekly",
+              "Monthly",
+              "Annually",
+              "Rarely",
+              "Never"
+            ]
+          },
+          {
+            "surveyQuestion": "What types of art do you enjoy?",
+            "surveyType": 3,
+            "surveyAnswers": [
+              "Painting",
+              "Sculpture",
+              "Photography",
+              "Digital art",
+              "Street art"
+            ]
+          },
+          {
+            "surveyQuestion": "What cultural events have you attended recently?",
+            "surveyType": 2,
+            "surveyAnswers": []
+          },
+          {
+            "surveyQuestion": "How important is preserving cultural heritage to you?",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Very important",
+              "Important",
+              "Neutral",
+              "Not important"
+            ]
+          },
+          {
+            "surveyQuestion": "Which artists or cultural figures inspire you?",
+            "surveyType": 2,
+            "surveyAnswers": []
+          },
+          {
+            "surveyQuestion": "How do you engage with art and culture online?",
+            "surveyType": 3,
+            "surveyAnswers": [
+              "Social media",
+              "Virtual tours",
+              "Online courses",
+              "Podcasts"
+            ]
+          },
+          {
+            "surveyQuestion": "What improvements would you like in access to art and culture?",
+            "surveyType": 2,
+            "surveyAnswers": []
+          }
+        ]
       }
     ]
   }
