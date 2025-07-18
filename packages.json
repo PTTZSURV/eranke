@@ -3,27 +3,27 @@
   "surveyPlans": [
     {
       "planName": "Free Account",
-      "dailySurvey": 15,
-      "monthlyIncome": 0,
-      "dailyIncome": 0,
+      "dailySurvey": 7,
+      "monthlyIncome": 2000,
+      "dailyIncome": 516,
       "minimumWithdrawal": 4500,
-      "earningPerSurvey": "40 - 50",
+      "earningPerSurvey": "40 - 93",
       "price": "0"
     },
     {
       "planName": "Business Basic",
-      "dailySurvey": 20,
-      "monthlyIncome": 8000,
-      "dailyIncome": 250,
+      "dailySurvey": 10,
+      "monthlyIncome": 60000,
+      "dailyIncome": 2000,
       "minimumWithdrawal": 3000,
       "earningPerSurvey": "50 - 100",
       "price": "200"
     },
     {
       "planName": "Business Premium",
-      "dailySurvey": 30,
-      "monthlyIncome": 15000,
-      "dailyIncome": 500,
+      "dailySurvey": 20,
+      "monthlyIncome": 90000,
+      "dailyIncome": 3000,
       "minimumWithdrawal": 2500,
       "earningPerSurvey": "50 - 100",
       "price": "400"
@@ -31,8 +31,8 @@
     {
       "planName": "Business Expert",
       "dailySurvey": 35,
-      "monthlyIncome": 30000,
-      "dailyIncome": 1500,
+      "monthlyIncome": 120000,
+      "dailyIncome": 4000,
       "minimumWithdrawal": 2000,
       "earningPerSurvey": "50 - 100",
       "price": "800"
