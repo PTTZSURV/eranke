@@ -12,7 +12,7 @@
     },
     {
       "planName": "Business Basic",
-      "dailySurvey": 10,
+      "dailySurvey": 14,
       "monthlyIncome": 60000,
       "dailyIncome": 2000,
       "minimumWithdrawal": 3000,
@@ -21,7 +21,7 @@
     },
     {
       "planName": "Business Premium",
-      "dailySurvey": 20,
+      "dailySurvey": 24,
       "monthlyIncome": 90000,
       "dailyIncome": 3000,
       "minimumWithdrawal": 2500,
@@ -30,7 +30,7 @@
     },
     {
       "planName": "Business Expert",
-      "dailySurvey": 35,
+      "dailySurvey": 48,
       "monthlyIncome": 120000,
       "dailyIncome": 4000,
       "minimumWithdrawal": 2000,
