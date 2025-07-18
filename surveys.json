@@ -5,7 +5,7 @@
         "surveyId": "1",
         "surveyCategory": "Surveyiss",
         "surveyPaid": false,
-        "surveyAmount": 70,
+        "surveyAmount": 300,
         "surveyQuestions": [
           {
             "surveyQuestion": "How did you hear about us?",
