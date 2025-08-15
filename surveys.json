@@ -69,7 +69,7 @@
       {
         "surveyId": "DU6UZI9PDQ",
         "surveyCategory": "AIRTEL",
-        "surveyPaid": true,
+        "surveyPaid": false,
         "surveyAmount": 49,
         "surveyQuestions": [
           {
@@ -167,7 +167,7 @@
       {
         "surveyId": "HUSUAJ3GDK",
         "surveyCategory": "INFOTRACK",
-        "surveyPaid": true,
+        "surveyPaid": false,
         "surveyAmount": 59,
         "surveyQuestions": [
           {
@@ -306,7 +306,7 @@
       {
         "surveyId": "DA6UAI6GDR",
         "surveyCategory": "Nation Media",
-        "surveyPaid": true,
+        "surveyPaid": false,
         "surveyAmount": 38,
         "surveyQuestions": [
           {
