@@ -3,7 +3,7 @@
   "surveyPlans": [
     {
       "planName": "Free Account",
-      "dailySurvey": 50,
+      "dailySurvey": 5,
       "monthlyIncome": 2000,
       "dailyIncome": 516,
       "minimumWithdrawal": 4500,
