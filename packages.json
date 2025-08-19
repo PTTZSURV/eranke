@@ -9,38 +9,11 @@
       "minimumWithdrawal": 4500,
       "earningPerSurvey": "40 - 93",
       "price": "0"
-    },
-    {
-      "planName": "Business Basic",
-      "dailySurvey": 14,
-      "monthlyIncome": 60000,
-      "dailyIncome": 2000,
-      "minimumWithdrawal": 3000,
-      "earningPerSurvey": "50 - 100",
-      "price": "200"
-    },
-    {
-      "planName": "Business Premium",
-      "dailySurvey": 24,
-      "monthlyIncome": 90000,
-      "dailyIncome": 3000,
-      "minimumWithdrawal": 2500,
-      "earningPerSurvey": "50 - 100",
-      "price": "400"
-    },
-    {
-      "planName": "Business Expert",
-      "dailySurvey": 48,
-      "monthlyIncome": 120000,
-      "dailyIncome": 4000,
-      "minimumWithdrawal": 2000,
-      "earningPerSurvey": "50 - 100",
-      "price": "800"
     }
   ],
   "mpesaPaymentDetails": {
-    "tillName": "FORFIXED HQ",
-    "tillNumber":  707045
+    "tillName": "free",
+    "tillNumber":  00000
   },
   "moneyMaking": [
     
