@@ -69,7 +69,7 @@
       {
         "surveyId": "DU6UZI9PDQ",
         "surveyCategory": "AIRTEL",
-        "surveyPaid": true,
+        "surveyPaid": false,
         "surveyAmount": 49,
         "surveyQuestions": [
           {
@@ -167,7 +167,7 @@
       {
         "surveyId": "HUSUAJ3GDK",
         "surveyCategory": "INFOTRACK",
-        "surveyPaid": true,
+        "surveyPaid": false,
         "surveyAmount": 59,
         "surveyQuestions": [
           {
@@ -420,7 +420,7 @@
       {
           "surveyId": "AB12CD34EF",
           "surveyCategory": "TECH GADGETS",
-          "surveyPaid": true,
+          "surveyPaid": false,
           "surveyAmount": 70,
           "surveyQuestions": [
               {
@@ -601,7 +601,7 @@
       {
           "surveyId": "MN90OP12QR",
           "surveyCategory": "ONLINE EDUCATION",
-          "surveyPaid": true,
+          "surveyPaid": false,
           "surveyAmount": 80,
           "surveyQuestions": [
               {
@@ -755,7 +755,7 @@
       {
           "surveyId": "YZ78AB90CD",
           "surveyCategory": "FITNESS TRACKERS",
-          "surveyPaid": true,
+          "surveyPaid": false,
           "surveyAmount": 85,
           "surveyQuestions": [
               {
@@ -1014,7 +1014,7 @@
       {
           "surveyId": "QR56ST78UV",
           "surveyCategory": "PERSONAL FINANCE",
-          "surveyPaid": true,
+          "surveyPaid": false,
           "surveyAmount": 50,
           "surveyQuestions": [
               {
