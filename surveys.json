@@ -1,2640 +1,3679 @@
+
 {
-  "surveyTag": "Tech Surveys for You Today",
-  "surveys": [
-    {
-      "surveyId": "1",
-      "surveyCategory": "Tech Platforms",
-      "surveyPaid": false,
-      "surveyAmount": 270,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "Which platform do you primarily use to discover new tech tools or services?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Video Streaming Platforms",
-            "Social Media Platforms",
-            "Online Forums",
-            "Tech Blogs",
-            "Colleagues",
-            "Company Websites"
-          ]
-        },
-        {
-          "surveyQuestion": "Tech companies rely on user feedback to improve their products. How important is it for you to provide detailed feedback on tech platforms?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "I understand, it’s very important",
-            "I understand, it’s somewhat important"
-          ]
-        },
-        {
-          "surveyQuestion": "This platform allows you to earn rewards for testing new tech features. You’ll receive payment upon submitting your feedback. How does this sound?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Sounds Great",
-            "I understand"
-          ]
-        },
-        {
-          "surveyQuestion": "Some tech surveys may require specific expertise (e.g., programming, UI/UX). You may be disqualified if you don’t meet the criteria. Is this clear?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Understood",
-            "I understand"
-          ]
-        },
-        {
-          "surveyQuestion": "You’ll have access to one tech survey daily. You can upgrade your account for more surveys. This survey is free, and you can take another one. How does this sound?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Looks Good",
-            "I understand"
-          ]
-        },
-        {
-          "surveyQuestion": "Once you accumulate enough rewards from tech surveys, you can request a payout. How does this process sound to you?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        },
-        {
-          "surveyQuestion": "Do you have friends interested in tech? We’ll reward you for every tech survey your friends complete. How does this sound?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Sounds Great",
-            "I understand"
-          ]
-        }
-      ]
-    },
-    {
-      "surveyId": "DU6UZI9PDQ",
-      "surveyCategory": "Telecom Services",
-      "surveyPaid": true,
-      "surveyAmount": 49,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "How long have you been using telecom digital services (e.g., mobile apps, digital payment systems)?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Less than a year",
-            "1-3 years",
-            "3-5 years",
-            "More than 5 years"
-          ]
-        },
-        {
-          "surveyQuestion": "Which telecom digital services do you currently use?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Mobile App",
-            "Digital Payment System",
-            "Online Customer Portal"
-          ]
-        },
-        {
-          "surveyQuestion": "What do you like most about telecom digital platforms or services?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        },
-        {
-          "surveyQuestion": "Rate your overall satisfaction with telecom digital services on a scale of 1-5",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5"
-          ]
-        },
-        {
-          "surveyQuestion": "How likely are you to recommend telecom digital services to a friend or colleague?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5",
-            "6",
-            "7",
-            "8",
-            "9",
-            "10"
-          ]
-        },
-        {
-          "surveyQuestion": "How often do you experience issues with telecom mobile apps or online services?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Never",
-            "Rarely",
-            "Sometimes",
-            "Often"
-          ]
-        },
-        {
-          "surveyQuestion": "What improvements would you like to see in telecom digital platforms?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        },
-        {
-          "surveyQuestion": "Please describe any recent issues you faced with telecom digital services.",
-          "surveyType": 2,
-          "surveyAnswers": []
-        },
-        {
-          "surveyQuestion": "How do you usually interact with telecom customer support for digital services?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Phone",
-            "Email",
-            "Live Chat"
-          ]
-        },
-        {
-          "surveyQuestion": "What factors influence your decision to use telecom digital payment or service systems?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Ease of Use",
-            "Security",
-            "Speed",
-            "Features"
-          ]
-        }
-      ]
-    },
-    {
-      "surveyId": "HUSUAJ3GDK",
-      "surveyCategory": "Data Analytics Tools",
-      "surveyPaid": true,
-      "surveyAmount": 59,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "How often do you use data analytics or tracking tools?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Daily",
-            "Weekly",
-            "Monthly",
-            "Rarely",
-            "Never"
-          ]
-        },
-        {
-          "surveyQuestion": "Which data analytics features do you use most frequently?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Real-time Analytics",
-            "Custom Reports",
-            "Data Visualization"
-          ]
-        },
-        {
-          "surveyQuestion": "What improvements would you like to see in data analytics platforms?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        },
-        {
-          "surveyQuestion": "Rate your overall satisfaction with data analytics tools on a scale of 1-5",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5"
-          ]
-        },
-        {
-          "surveyQuestion": "How likely are you to recommend data analytics tools to a colleague or business partner?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5",
-            "6",
-            "7",
-            "8",
-            "9",
-            "10"
-          ]
-        },
-        {
-          "surveyQuestion": "Rate the user interface of data analytics platforms",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Poor",
-            "Average",
-            "Excellent"
-          ]
-        },
-        {
-          "surveyQuestion": "How did you first discover data analytics tools?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Online Search",
-            "Social Media",
-            "Colleague Recommendation",
-            "Advertisement"
-          ]
-        },
-        {
-          "surveyQuestion": "Which data analytics features do you find most valuable for your work?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Data Accuracy",
-            "Custom Dashboards",
-            "Ease of Integration"
-          ]
-        },
-        {
-          "surveyQuestion": "Describe a challenge you faced while using a data analytics platform.",
-          "surveyType": 2,
-          "surveyAnswers": []
-        },
-        {
-          "surveyQuestion": "Rate the ease of use of data analytics tools on a scale of 1-5",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5"
-          ]
-        },
-        {
-          "surveyQuestion": "What is your primary use case for data analytics tools?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Business Intelligence",
-            "Market Research",
-            "Personal Projects"
-          ]
-        },
-        {
-          "surveyQuestion": "Which devices do you use to access data analytics platforms?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Desktop",
-            "Laptop",
-            "Tablet",
-            "Smartphone"
-          ]
-        },
-        {
-          "surveyQuestion": "What additional features would you like data analytics platforms to offer?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        },
-        {
-          "surveyQuestion": "How likely are you to continue using data analytics tools in the future?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5"
-          ]
-        }
-      ]
-    },
-    {
-      "surveyId": "DA6UAI6GDR",
-      "surveyCategory": "Digital News",
-      "surveyPaid": true,
-      "surveyAmount": 38,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "How often do you use digital news platforms (e.g., websites, mobile apps)?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Daily",
-            "Weekly",
-            "Monthly",
-            "Rarely",
-            "Never"
-          ]
-        },
-        {
-          "surveyQuestion": "Which digital news platforms do you use?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "News Websites",
-            "Mobile News Apps",
-            "Social Media News Feeds",
-            "Email Newsletters"
-          ]
-        },
-        {
-          "surveyQuestion": "What improvements would you like to see in digital news content delivery?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        },
-        {
-          "surveyQuestion": "Rate your satisfaction with digital news platforms on a scale of 1-5",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5"
-          ]
-        },
-        {
-          "surveyQuestion": "How likely are you to recommend digital news platforms to others?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5",
-            "6",
-            "7",
-            "8",
-            "9",
-            "10"
-          ]
-        },
-        {
-          "surveyQuestion": "Rate the usability of digital news platforms",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Poor",
-            "Average",
-            "Good",
-            "Very Good",
-            "Excellent"
-          ]
-        },
-        {
-          "surveyQuestion": "What is your primary source for accessing news digitally?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Mobile App",
-            "Website",
-            "Social Media",
-            "Email Newsletters"
-          ]
-        },
-        {
-          "surveyQuestion": "What types of digital content do you prefer on news platforms?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Breaking News",
-            "In-depth Articles",
-            "Videos",
-            "Podcasts",
-            "Interactive Graphics"
-          ]
-        },
-        {
-          "surveyQuestion": "What sets your favorite digital news platform apart from others?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        },
-        {
-          "surveyQuestion": "Rate the accessibility of digital news platforms on a scale of 1-5",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5"
-          ]
-        },
-        {
-          "surveyQuestion": "How did you first discover digital news platforms?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        }
-      ]
-    },
-    {
-      "surveyId": "AB12CD34EF",
-      "surveyCategory": "Tech Gadgets",
-      "surveyPaid": true,
-      "surveyAmount": 70,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "How often do you upgrade your tech gadgets (e.g., smartphones, wearables)?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Monthly",
-            "Every 6 months",
-            "Annually",
-            "Rarely"
-          ]
-        },
-        {
-          "surveyQuestion": "Which tech gadgets do you currently use?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Smartphone",
-            "Tablet",
-            "Laptop",
-            "Smartwatch"
-          ]
-        },
-        {
-          "surveyQuestion": "How satisfied are you with the performance of your current tech gadgets?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Satisfied",
-            "Satisfied",
-            "Neutral",
-            "Dissatisfied",
-            "Very Dissatisfied"
-          ]
-        },
-        {
-          "surveyQuestion": "Which types of tech gadgets do you prefer?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Smartphones",
-            "Tablets",
-            "Laptops",
-            "Wearables"
-          ]
-        },
-        {
-          "surveyQuestion": "What factors influence your decision to purchase tech gadgets?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Price",
-            "Performance",
-            "Features",
-            "User Reviews"
-          ]
-        },
-        {
-          "surveyQuestion": "How likely are you to recommend your favorite tech gadget to others?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Likely",
-            "Likely",
-            "Neutral",
-            "Unlikely",
-            "Very Unlikely"
-          ]
-        },
-        {
-          "surveyQuestion": "What features do you prioritize in tech gadgets (e.g., battery life, performance)?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        },
-        {
-          "surveyQuestion": "How do you discover new tech gadgets?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Tech Blogs",
-            "Social Media",
-            "Friends/Colleagues",
-            "Advertisements"
-          ]
-        }
-      ]
-    },
-    {
-      "surveyId": "GH56IJ78KL",
-      "surveyCategory": "Smart Home Devices",
-      "surveyPaid": true,
-      "surveyAmount": 75,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "How often do you upgrade your smart home devices (e.g., smart thermostats, smart appliances)?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Every year",
-            "Every 2-3 years",
-            "Every 4-5 years",
-            "More than 5 years"
-          ]
-        },
-        {
-          "surveyQuestion": "Which smart home devices do you use most frequently?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Smart Thermostat",
-            "Smart Lighting",
-            "Smart Security System",
-            "Smart Speaker"
-          ]
-        },
-        {
-          "surveyQuestion": "How satisfied are you with the connectivity of your smart home devices?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Satisfied",
-            "Satisfied",
-            "Neutral",
-            "Dissatisfied",
-            "Very Dissatisfied"
-          ]
-        },
-        {
-          "surveyQuestion": "Which types of smart home devices do you prefer?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Smart Thermostats",
-            "Smart Lighting",
-            "Smart Appliances",
-            "Smart Security"
-          ]
-        },
-        {
-          "surveyQuestion": "What factors influence your decision to purchase smart home devices?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Price",
-            "Compatibility",
-            "Energy Efficiency",
-            "Smart Features"
-          ]
-        },
-        {
-          "surveyQuestion": "How important is IoT integration in your smart home devices?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Important",
-            "Important",
-            "Neutral",
-            "Unimportant",
-            "Very Unimportant"
-          ]
-        },
-        {
-          "surveyQuestion": "How likely are you to recommend your favorite smart home device to others?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Likely",
-            "Likely",
-            "Neutral",
-            "Unlikely",
-            "Very Unlikely"
-          ]
-        },
-        {
-          "surveyQuestion": "What improvements would you like to see in smart home devices?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        },
-        {
-          "surveyQuestion": "How do you usually learn about new smart home devices?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Tech Reviews",
-            "Social Media",
-            "Friends/Family",
-            "Advertisements"
-          ]
-        }
-      ]
-    },
-    {
-      "surveyId": "MN90OP12QR",
-      "surveyCategory": "Online Learning",
-      "surveyPaid": true,
-      "surveyAmount": 80,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "How often do you enroll in online tech courses?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Monthly",
-            "Every 6 months",
-            "Annually",
-            "Rarely"
-          ]
-        },
-        {
-          "surveyQuestion": "Which platforms do you use for learning tech skills online?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Online Course Platforms",
-            "Video Tutorials",
-            "Professional Networking Sites",
-            "Educational Websites"
-          ]
-        },
-        {
-          "surveyQuestion": "How satisfied are you with the quality of online tech courses?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Satisfied",
-            "Satisfied",
-            "Neutral",
-            "Dissatisfied",
-            "Very Dissatisfied"
-          ]
-        },
-        {
-          "surveyQuestion": "What motivates you to take online tech courses?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Career Advancement",
-            "Skill Development",
-            "Personal Interest",
-            "Certification"
-          ]
-        },
-        {
-          "surveyQuestion": "How do you prefer to pay for online tech courses?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Per Course",
-            "Subscription",
-            "Employer-Sponsored",
-            "Free"
-          ]
-        },
-        {
-          "surveyQuestion": "How likely are you to recommend online tech learning platforms to others?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Likely",
-            "Likely",
-            "Neutral",
-            "Unlikely",
-            "Very Unlikely"
-          ]
-        },
-        {
-          "surveyQuestion": "What improvements would you like to see in online tech learning platforms?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        },
-        {
-          "surveyQuestion": "How do you discover new online tech courses?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Online Reviews",
-            "Social Media",
-            "Colleagues",
-            "Advertisements"
-          ]
-        }
-      ]
-    },
-    {
-      "surveyId": "ST34UV56WX",
-      "surveyCategory": "Food Delivery Services",
-      "surveyPaid": true,
-      "surveyAmount": 55,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "How often do you use food delivery apps?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Daily",
-            "Weekly",
-            "Monthly",
-            "Rarely",
-            "Never"
-          ]
-        },
-        {
-          "surveyQuestion": "Which types of food delivery platforms do you use?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Food Delivery Apps",
-            "Restaurant Websites",
-            "Third-Party Aggregators",
-            "Other"
-          ]
-        },
-        {
-          "surveyQuestion": "How satisfied are you with the user experience of food delivery apps?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Satisfied",
-            "Satisfied",
-            "Neutral",
-            "Dissatisfied",
-            "Very Dissatisfied"
-          ]
-        },
-        {
-          "surveyQuestion": "What factors influence your choice of food delivery platform?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "App Usability",
-            "Delivery Speed",
-            "Restaurant Options",
-            "Customer Support"
-          ]
-        },
-        {
-          "surveyQuestion": "Have you ever faced issues with food delivery apps?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Yes",
-            "No"
-          ]
-        },
-        {
-          "surveyQuestion": "How would you rate the customer support of your preferred food delivery platform?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Excellent",
-            "Good",
-            "Average",
-            "Poor",
-            "Very Poor"
-          ]
-        }
-      ]
-    },
-    {
-      "surveyId": "YZ78AB90CD",
-      "surveyCategory": "Fitness Tracking",
-      "surveyPaid": true,
-      "surveyAmount": 85,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "How often do you use a fitness tracker or app?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Daily",
-            "Weekly",
-            "Monthly",
-            "Rarely",
-            "Never"
-          ]
-        },
-        {
-          "surveyQuestion": "Which types of fitness tracking tools do you use?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Wearable Trackers",
-            "Mobile Apps",
-            "Smartwatches",
-            "Other"
-          ]
-        },
-        {
-          "surveyQuestion": "How satisfied are you with the accuracy of your fitness tracker?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Satisfied",
-            "Satisfied",
-            "Neutral",
-            "Dissatisfied",
-            "Very Dissatisfied"
-          ]
-        },
-        {
-          "surveyQuestion": "What fitness tracking features do you value most?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        },
-        {
-          "surveyQuestion": "How likely are you to recommend your fitness tracking tool to others?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Likely",
-            "Likely",
-            "Neutral",
-            "Unlikely",
-            "Very Unlikely"
-          ]
-        },
-        {
-          "surveyQuestion": "What motivates you to use a fitness tracker?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Health Monitoring",
-            "Fitness Goals",
-            "Data Insights",
-            "Gamification"
-          ]
-        },
-        {
-          "surveyQuestion": "How do you prefer to sync your fitness tracker data?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Daily",
-            "Weekly",
-            "Monthly",
-            "Manually"
-          ]
-        },
-        {
-          "surveyQuestion": "How do you learn about new fitness trackers or apps?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Tech Reviews",
-            "Social Media",
-            "Friends/Colleagues",
-            "Advertisements"
-          ]
-        }
-      ]
-    },
-    {
-      "surveyId": "EF34GH56IJ",
-      "surveyCategory": "E-Commerce",
-      "surveyPaid": true,
-      "surveyAmount": 68,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "How often do you shop online using e-commerce platforms?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Daily",
-            "Weekly",
-            "Monthly",
-            "Rarely",
-            "Never"
-          ]
-        },
-        {
-          "surveyQuestion": "Which types of e-commerce platforms do you use most frequently?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Global Marketplaces",
-            "Local Retail Websites",
-            "Specialty Stores",
-            "Other"
-          ]
-        },
-        {
-          "surveyQuestion": "How satisfied are you with the user experience of e-commerce platforms?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Satisfied",
-            "Satisfied",
-            "Neutral",
-            "Dissatisfied",
-            "Very Dissatisfied"
-          ]
-        },
-        {
-          "surveyQuestion": "What factors influence your choice of e-commerce platform?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Price",
-            "Product Reviews",
-            "Delivery Speed",
-            "Return Policy"
-          ]
-        },
-        {
-          "surveyQuestion": "Which payment methods do you prefer for online shopping?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Credit Card",
-            "Mobile Payment",
-            "Digital Wallets",
-            "Other"
-          ]
-        },
-        {
-          "surveyQuestion": "How likely are you to recommend your favorite e-commerce platform to others?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Likely",
-            "Likely",
-            "Neutral",
-            "Unlikely",
-            "Very Unlikely"
-          ]
-        },
-        {
-          "surveyQuestion": "Have you ever faced issues with e-commerce platforms (e.g., payment failures, delivery delays)?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Yes",
-            "No"
-          ]
-        },
-        {
-          "surveyQuestion": "How do you discover new products on e-commerce platforms?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Product Reviews",
-            "Social Media",
-            "Recommendations",
-            "Advertisements"
-          ]
-        }
-      ]
-    },
-    {
-      "surveyId": "KL12MN34OP",
-      "surveyCategory": "Travel Booking Services",
-      "surveyPaid": true,
-      "surveyAmount": 72,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "How often do you use travel booking apps or websites?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Monthly",
-            "Every 6 months",
-            "Annually",
-            "Rarely"
-          ]
-        },
-        {
-          "surveyQuestion": "Which types of travel booking platforms do you prefer?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Hotel Booking Sites",
-            "Flight Aggregators",
-            "Vacation Rental Platforms",
-            "Other"
-          ]
-        },
-        {
-          "surveyQuestion": "How satisfied are you with the user experience of travel booking platforms?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Satisfied",
-            "Satisfied",
-            "Neutral",
-            "Dissatisfied",
-            "Very Dissatisfied"
-          ]
-        },
-        {
-          "surveyQuestion": "What factors influence your choice of travel booking platform?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Price",
-            "User Reviews",
-            "Ease of Use",
-            "Availability"
-          ]
-        },
-        {
-          "surveyQuestion": "How do you typically book travel arrangements online?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Travel Apps",
-            "Websites",
-            "Third-Party Aggregators",
-            "Other"
-          ]
-        },
-        {
-          "surveyQuestion": "How likely are you to recommend your favorite travel booking platform to others?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Likely",
-            "Likely",
-            "Neutral",
-            "Unlikely",
-            "Very Unlikely"
-          ]
-        },
-        {
-          "surveyQuestion": "What improvements would you like to see in travel booking platforms?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        },
-        {
-          "surveyQuestion": "How do you discover new travel booking platforms?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Tech Blogs",
-            "Social Media",
-            "Friends/Colleagues",
-            "Advertisements"
-          ]
-        }
-      ]
-    },
-    {
-      "surveyId": "QR56ST78UV",
-      "surveyCategory": "Personal Finance Tools",
-      "surveyPaid": true,
-      "surveyAmount": 50,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "How often do you use personal finance apps to manage your budget?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Daily",
-            "Weekly",
-            "Monthly",
-            "Rarely",
-            "Never"
-          ]
-        },
-        {
-          "surveyQuestion": "Which types of personal finance tools do you use?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Budgeting Apps",
-            "Investment Trackers",
-            "Mobile Payment Systems",
-            "Other"
-          ]
-        },
-        {
-          "surveyQuestion": "How satisfied are you with the features of personal finance apps?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Satisfied",
-            "Satisfied",
-            "Neutral",
-            "Dissatisfied",
-            "Very Dissatisfied"
-          ]
-        },
-        {
-          "surveyQuestion": "What financial goals do you track using personal finance apps?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Savings",
-            "Investments",
-            "Debt Repayment",
-            "Budgeting"
-          ]
-        },
-        {
-          "surveyQuestion": "How do you learn about new personal finance apps?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Online Reviews",
-            "Social Media",
-            "Financial Advisors",
-            "Friends/Colleagues"
-          ]
-        },
-        {
-          "surveyQuestion": "How likely are you to recommend personal finance apps to others?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Likely",
-            "Likely",
-            "Neutral",
-            "Unlikely",
-            "Very Unlikely"
-          ]
-        }
-      ]
-    },
-    {
-      "surveyId": "WX34YZ56AB",
-      "surveyCategory": "Fitness and Wellness Apps",
-      "surveyPaid": true,
-      "surveyAmount": 81,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "How often do you use fitness or wellness apps to track your health?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Daily",
-            "Weekly",
-            "Monthly",
-            "Rarely",
-            "Never"
-          ]
-        },
-        {
-          "surveyQuestion": "Which types of fitness or wellness apps do you use?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Workout Apps",
-            "Nutrition Trackers",
-            "Meditation Apps",
-            "Other"
-          ]
-        },
-        {
-          "surveyQuestion": "How satisfied are you with the features of your fitness or wellness apps?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Satisfied",
-            "Satisfied",
-            "Neutral",
-            "Dissatisfied",
-            "Very Dissatisfied"
-          ]
-        },
-        {
-          "surveyQuestion": "What motivates you to use fitness or wellness apps?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Health Goals",
-            "Weight Management",
-            "Mental Wellness",
-            "Other"
-          ]
-        },
-        {
-          "surveyQuestion": "How do you track your fitness or wellness progress digitally?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Fitness Tracker",
-            "Mobile App",
-            "Spreadsheet",
-            "Don’t Track"
-          ]
-        },
-        {
-          "surveyQuestion": "How likely are you to recommend your favorite fitness app to others?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Likely",
-            "Likely",
-            "Neutral",
-            "Unlikely",
-            "Very Unlikely"
-          ]
-        },
-        {
-          "surveyQuestion": "What improvements would you like to see in fitness or wellness apps?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        }
-      ]
-    },
-    {
-      "surveyId": "DU6UAI7GDK",
-      "surveyCategory": "Fast Food Ordering",
-      "surveyPaid": true,
-      "surveyAmount": 80,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "How often do you use digital platforms for fast food ordering (app, website)?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Daily",
-            "Weekly",
-            "Monthly",
-            "Rarely",
-            "First Time"
-          ]
-        },
-        {
-          "surveyQuestion": "Which digital ordering options do you use for fast food?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Mobile App",
-            "Website",
-            "Third-Party Delivery Platforms",
-            "In-Store Kiosk"
-          ]
-        },
-        {
-          "surveyQuestion": "What do you like most about fast food digital ordering experiences?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        },
-        {
-          "surveyQuestion": "Rate your overall satisfaction with fast food digital platforms on a scale of 1-5",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5"
-          ]
-        },
-        {
-          "surveyQuestion": "How likely are you to recommend fast food digital ordering platforms to others?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5",
-            "6",
-            "7",
-            "8",
-            "9",
-            "10"
-          ]
-        },
-        {
-          "surveyQuestion": "How would you rate the speed of fast food digital ordering processes?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Slow",
-            "Slow",
-            "Average",
-            "Fast",
-            "Very Fast"
-          ]
-        },
-        {
-          "surveyQuestion": "What improvements would you like to see in fast food digital platforms?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        },
-        {
-          "surveyQuestion": "Rate the usability of fast food digital ordering platforms on a scale of 1-5",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5"
-          ]
-        },
-        {
-          "surveyQuestion": "How do you usually place your fast food order digitally?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Mobile App",
-            "Website",
-            "Third-Party Delivery",
-            "In-Store Kiosk"
-          ]
-        },
-        {
-          "surveyQuestion": "What factors influence your decision to use fast food digital ordering platforms?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Convenience",
-            "Speed",
-            "Promotions",
-            "Ease of Use"
-          ]
-        },
-        {
-          "surveyQuestion": "Please share any feedback about fast food digital ordering experiences",
-          "surveyType": 2,
-          "surveyAnswers": []
-        },
-        {
-          "surveyQuestion": "Rate the responsiveness of fast food digital customer support",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5"
-          ]
-        },
-        {
-          "surveyQuestion": "How satisfied are you with the variety of options on fast food digital platforms?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Dissatisfied",
-            "Dissatisfied",
-            "Neutral",
-            "Satisfied",
-            "Very Satisfied"
-          ]
-        }
-      ]
-    },
-    {
-      "surveyId": "XU6LAI3GJT",
-      "surveyCategory": "Online Retail",
-      "surveyPaid": true,
-      "surveyAmount": 54,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "How often do you use online retail platforms?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Daily",
-            "Weekly",
-            "Monthly",
-            "Rarely",
-            "First Time"
-          ]
-        },
-        {
-          "surveyQuestion": "Which products do you purchase through online retail platforms?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Groceries",
-            "Electronics",
-            "Household Items",
-            "Clothing"
-          ]
-        },
-        {
-          "surveyQuestion": "What do you like most about online retail shopping experiences?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        },
-        {
-          "surveyQuestion": "Rate your overall satisfaction with online retail platforms on a scale of 1-5",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5"
-          ]
-        },
-        {
-          "surveyQuestion": "How likely are you to recommend online retail platforms to others?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5",
-            "6",
-            "7",
-            "8",
-            "9",
-            "10"
-          ]
-        },
-        {
-          "surveyQuestion": "How do you usually pay for purchases on online retail platforms?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Cash on Delivery",
-            "Mobile Payment",
-            "Credit/Debit Card"
-          ]
-        },
-        {
-          "surveyQuestion": "Which digital services have you used on online retail platforms?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Home Delivery",
-            "In-Store Pickup",
-            "Customer Support",
-            "Loyalty Program"
-          ]
-        },
-        {
-          "surveyQuestion": "What improvements would you like to see in online retail platforms?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        },
-        {
-          "surveyQuestion": "Rate the quality of online retail customer service on a scale of 1-5",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5"
-          ]
-        },
-        {
-          "surveyQuestion": "How did you first discover online retail platforms?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Social Media",
-            "Friends/Colleagues",
-            "Advertisements"
-          ]
-        }
-      ]
-    },
-    {
-      "surveyId": "DU6LAI3GJK",
-      "surveyCategory": "Nutrition Tracking",
-      "surveyPaid": true,
-      "surveyAmount": 49,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "How often do you use nutrition tracking apps to monitor your diet?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Daily",
-            "Weekly",
-            "Monthly"
-          ]
-        },
-        {
-          "surveyQuestion": "Which types of nutrition tracking apps do you use?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Calorie Trackers",
-            "Meal Planners",
-            "Nutrition Guides",
-            "Health Apps"
-          ]
-        },
-        {
-          "surveyQuestion": "What is your favorite feature in nutrition tracking apps?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        },
-        {
-          "surveyQuestion": "Do you use a nutrition app to follow a specific diet plan?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Yes",
-            "No"
-          ]
-        },
-        {
-          "surveyQuestion": "Which features of nutrition tracking apps do you use most?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Calorie Counting",
-            "Macronutrient Tracking",
-            "Meal Planning",
-            "Barcode Scanning",
-            "Recipe Suggestions"
-          ]
-        },
-        {
-          "surveyQuestion": "Which devices do you use to access nutrition tracking apps?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Smartphone",
-            "Tablet",
-            "Laptop",
-            "Smartwatch",
-            "Desktop"
-          ]
-        }
-      ]
-    },
-    {
-      "surveyId": "YU6LCI7GJR",
-      "surveyCategory": "Community Digital Services",
-      "surveyPaid": true,
-      "surveyAmount": 61,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "What is your age group for using community digital services?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Under 18",
-            "18-25",
-            "26-35",
-            "36-45",
-            "46-60",
-            "Above 60"
-          ]
-        },
-        {
-          "surveyQuestion": "Which community digital services do you use?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "E-Government Services",
-            "Online Education Platforms",
-            "Public Transport Apps",
-            "Digital Payment Systems"
-          ]
-        },
-        {
-          "surveyQuestion": "What improvements would you like to see in community digital infrastructure?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        },
-        {
-          "surveyQuestion": "Rate the quality of community digital government services on a scale of 1-5",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5"
-          ]
-        },
-        {
-          "surveyQuestion": "How likely are you to recommend community digital services to others?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5",
-            "6",
-            "7",
-            "8",
-            "9",
-            "10"
-          ]
-        },
-        {
-          "surveyQuestion": "How often do you use digital transport apps in your community?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Daily",
-            "Weekly",
-            "Monthly",
-            "Rarely",
-            "Never"
-          ]
-        },
-        {
-          "surveyQuestion": "Which digital transport services do you use in your community?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Ride-Hailing Apps",
-            "Public Transport Apps",
-            "E-Ticketing",
-            "Car-Sharing Apps",
-            "None"
-          ]
-        },
-        {
-          "surveyQuestion": "What is your favorite community digital service?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        },
-        {
-          "surveyQuestion": "Rate the accessibility of community digital services on a scale of 1-5",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5"
-          ]
-        },
-        {
-          "surveyQuestion": "How likely are you to use community digital platforms?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5",
-            "6",
-            "7",
-            "8",
-            "9",
-            "10"
-          ]
-        },
-        {
-          "surveyQuestion": "How satisfied are you with community digital government services?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Satisfied",
-            "Satisfied",
-            "Neutral",
-            "Dissatisfied",
-            "Very Dissatisfied"
-          ]
-        },
-        {
-          "surveyQuestion": "Which digital issues concern you most in your community?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Cybersecurity",
-            "Digital Access",
-            "Service Reliability",
-            "Data Privacy"
-          ]
-        },
-        {
-          "surveyQuestion": "Do you have suggestions for improving community digital services?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        }
-      ]
-    },
-    {
-      "surveyId": "RTCU8QFH2U",
-      "surveyCategory": "Smart TVs",
-      "surveyPaid": true,
-      "surveyAmount": 53,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "How many hours do you use your smart TV for streaming or apps daily?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Less than 1 hour",
-            "1-2 hours",
-            "3-4 hours",
-            "More than 4 hours"
-          ]
-        },
-        {
-          "surveyQuestion": "Which types of streaming apps do you use on your smart TV?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Video Streaming",
-            "Music Streaming",
-            "Live TV",
-            "Local Content Apps"
-          ]
-        },
-        {
-          "surveyQuestion": "Do you prefer using smart TV apps or external streaming devices?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Smart TV Apps",
-            "External Devices",
-            "Both Equally"
-          ]
-        },
-        {
-          "surveyQuestion": "Where do you primarily use your smart TV?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Living Room",
-            "Bedroom",
-            "Office",
-            "Other"
-          ]
-        },
-        {
-          "surveyQuestion": "Which smart TV features do you use most?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Streaming Apps",
-            "Voice Control",
-            "Screen Mirroring",
-            "Smart Home Integration",
-            "Gaming"
-          ]
-        },
-        {
-          "surveyQuestion": "Do you use your smart TV alone or with others?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Alone",
-            "With Family",
-            "With Friends",
-            "With Partner"
-          ]
-        }
-      ]
-    },
-    {
-      "surveyId": "CD23EF45GH",
-      "surveyCategory": "Mobile Applications",
-      "surveyPaid": true,
-      "surveyAmount": 55,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "How often do you download new mobile applications?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Daily",
-            "Weekly",
-            "Monthly",
-            "Rarely",
-            "Never"
-          ]
-        },
-        {
-          "surveyQuestion": "Which categories of mobile applications do you use most?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Social Media",
-            "Productivity",
-            "Gaming",
-            "Other"
-          ]
-        },
-        {
-          "surveyQuestion": "How satisfied are you with the performance of your mobile applications?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Satisfied",
-            "Satisfied",
-            "Neutral",
-            "Dissatisfied",
-            "Very Dissatisfied"
-          ]
-        },
-        {
-          "surveyQuestion": "What influences your decision to download a new mobile application?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "User Reviews",
-            "App Store Ratings",
-            "Recommendations",
-            "Advertisements"
-          ]
-        },
-        {
-          "surveyQuestion": "How likely are you to pay for premium app features?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Likely",
-            "Likely",
-            "Neutral",
-            "Unlikely",
-            "Very Unlikely"
-          ]
-        },
-        {
-          "surveyQuestion": "What improvements would you like to see in your favorite mobile applications?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        },
-        {
-          "surveyQuestion": "How do you discover new mobile applications?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "App Store",
-            "Social Media",
-            "Friends/Colleagues",
-            "Advertisements"
-          ]
-        }
-      ]
-    },
-    {
-      "surveyId": "IJ78KL90MN",
-      "surveyCategory": "Streaming Services",
-      "surveyPaid": true,
-      "surveyAmount": 70,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "How often do you use streaming services?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Daily",
-            "Weekly",
-            "Monthly",
-            "Rarely",
-            "Never"
-          ]
-        },
-        {
-          "surveyQuestion": "Which types of streaming services do you subscribe to?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Video Streaming",
-            "Music Streaming",
-            "Live TV",
-            "Other"
-          ]
-        },
-        {
-          "surveyQuestion": "How satisfied are you with the user interface of your streaming service?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Satisfied",
-            "Satisfied",
-            "Neutral",
-            "Dissatisfied",
-            "Very Dissatisfied"
-          ]
-        },
-        {
-          "surveyQuestion": "What type of content do you stream most often?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Movies",
-            "TV Shows",
-            "Documentaries",
-            "Live Events"
-          ]
-        },
-        {
-          "surveyQuestion": "How likely are you to recommend your favorite streaming service?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Likely",
-            "Likely",
-            "Neutral",
-            "Unlikely",
-            "Very Unlikely"
-          ]
-        },
-        {
-          "surveyQuestion": "What features do you value most in a streaming service?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Content Library",
-            "Streaming Quality",
-            "Price",
-            "Ease of Use"
-          ]
-        },
-        {
-          "surveyQuestion": "What improvements would you like to see in streaming services?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        },
-        {
-          "surveyQuestion": "How do you discover new content on streaming services?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Algorithm Recommendations",
-            "Social Media",
-            "Friends/Colleagues",
-            "Promotions"
-          ]
-        },
-        {
-          "surveyQuestion": "Which devices do you use for streaming content?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Smart TV",
-            "Smartphone",
-            "Laptop",
-            "Tablet"
-          ]
-        }
-      ]
-    },
-    {
-      "surveyId": "OP12QR34ST",
-      "surveyCategory": "Smart Home Devices",
-      "surveyPaid": true,
-      "surveyAmount": 91,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "How often do you purchase smart home devices?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Annually",
-            "Every 2-3 years",
-            "Every 5 years",
-            "Rarely",
-            "Never"
-          ]
-        },
-        {
-          "surveyQuestion": "Which smart home devices do you use most often?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Smart Thermostat",
-            "Smart Lighting",
-            "Smart Security System",
-            "Smart Speaker"
-          ]
-        },
-        {
-          "surveyQuestion": "How satisfied are you with the smart features of your home devices?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Satisfied",
-            "Satisfied",
-            "Neutral",
-            "Dissatisfied",
-            "Very Dissatisfied"
-          ]
-        },
-        {
-          "surveyQuestion": "What factors influence your purchase of smart home devices?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Price",
-            "Smart Features",
-            "Energy Efficiency",
-            "Compatibility"
-          ]
-        },
-        {
-          "surveyQuestion": "How likely are you to recommend your favorite smart home device?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Likely",
-            "Likely",
-            "Neutral",
-            "Unlikely",
-            "Very Unlikely"
-          ]
-        },
-        {
-          "surveyQuestion": "What improvements would you like to see in smart home devices?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        },
-        {
-          "surveyQuestion": "How do you learn about new smart home devices?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Tech Reviews",
-            "Social Media",
-            "Friends/Colleagues",
-            "Advertisements"
-          ]
-        }
-      ]
-    },
-    {
-      "surveyId": "UV56WX78YZ",
-      "surveyCategory": "Gaming Platforms",
-      "surveyPaid": true,
-      "surveyAmount": 75,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "How often do you play video games?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Daily",
-            "Weekly",
-            "Monthly",
-            "Rarely",
-            "Never"
-          ]
-        },
-        {
-          "surveyQuestion": "Which gaming platforms do you use most?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "PC",
-            "Console",
-            "Mobile",
-            "Cloud Gaming"
-          ]
-        },
-        {
-          "surveyQuestion": "How satisfied are you with your current gaming platform?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Satisfied",
-            "Satisfied",
-            "Neutral",
-            "Dissatisfied",
-            "Very Dissatisfied"
-          ]
-        },
-        {
-          "surveyQuestion": "What genres of games do you prefer?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Action",
-            "Strategy",
-            "RPG",
-            "Other"
-          ]
-        },
-        {
-          "surveyQuestion": "How likely are you to recommend your favorite game to others?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Likely",
-            "Likely",
-            "Neutral",
-            "Unlikely",
-            "Very Unlikely"
-          ]
-        },
-        {
-          "surveyQuestion": "What factors influence your game purchase decisions?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Price",
-            "Reviews",
-            "Gameplay",
-            "Graphics"
-          ]
-        },
-        {
-          "surveyQuestion": "What improvements would you like to see in gaming platforms?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        },
-        {
-          "surveyQuestion": "How do you discover new games?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Gaming Websites",
-            "Social Media",
-            "Friends/Colleagues",
-            "Advertisements"
-          ]
-        },
-        {
-          "surveyQuestion": "Which device do you prefer for gaming?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "PC",
-            "Console",
-            "Mobile",
-            "VR Headset"
-          ]
-        },
-        {
-          "surveyQuestion": "How often do you make in-game purchases?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Frequently",
-            "Occasionally",
-            "Rarely",
-            "Never"
-          ]
-        }
-      ]
-    },
-    {
-      "surveyId": "T88EP046T3",
-      "surveyCategory": "Social Media Platforms",
-      "surveyPaid": true,
-      "surveyAmount": 80,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "How many hours do you spend on social media platforms daily?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Less than 1 hour",
-            "1-2 hours",
-            "2-4 hours",
-            "More than 4 hours"
-          ]
-        },
-        {
-          "surveyQuestion": "Which social media platforms do you use regularly?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Social Networking",
-            "Photo Sharing",
-            "Microblogging",
-            "Video Sharing",
-            "Professional Networking",
-            "Community Forums",
-            "Messaging Apps",
-            "Visual Bookmarking"
-          ]
-        },
-        {
-          "surveyQuestion": "Do you think social media platforms enhance digital connectivity?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Yes",
-            "No",
-            "Not Sure"
-          ]
-        },
-        {
-          "surveyQuestion": "What do you primarily use social media platforms for?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Networking",
-            "Content Sharing",
-            "News Updates",
-            "Entertainment",
-            "Business Promotion",
-            "Social Interaction"
-          ]
-        },
-        {
-          "surveyQuestion": "What is your favorite feature of social media platforms and why?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        },
-        {
-          "surveyQuestion": "Have you ever experienced privacy issues on social media platforms?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Yes",
-            "No"
-          ]
-        },
-        {
-          "surveyQuestion": "How often do you engage with content on social media platforms?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Multiple Times a Day",
-            "Once a Day",
-            "A Few Times a Week",
-            "Rarely",
-            "Never"
-          ]
-        },
-        {
-          "surveyQuestion": "What type of content do you engage with most on social media platforms?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Videos",
-            "Photos",
-            "Articles",
-            "Memes",
-            "Live Streams",
-            "Posts"
-          ]
-        }
-      ]
-    },
-    {
-      "surveyId": "W48EP156T8",
-      "surveyCategory": "Home Internet Services",
-      "surveyPaid": true,
-      "surveyAmount": 88,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "How did you discover home internet digital services?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Social Media",
-            "Website",
-            "Friends/Colleagues",
-            "Advertisements"
-          ]
-        },
-        {
-          "surveyQuestion": "Rate your overall satisfaction with home internet digital services on a scale of 1-5",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5"
-          ]
-        },
-        {
-          "surveyQuestion": "How likely are you to recommend home internet digital services to others?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5",
-            "6",
-            "7",
-            "8",
-            "9",
-            "10"
-          ]
-        },
-        {
-          "surveyQuestion": "How long have you been using home internet online portals or apps?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Less than 6 months",
-            "6-12 months",
-            "1-2 years",
-            "More than 2 years"
-          ]
-        },
-        {
-          "surveyQuestion": "What issues have you faced with home internet digital services?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "App Crashes",
-            "Slow Response Times",
-            "Billing Errors",
-            "Customer Support"
-          ]
-        },
-        {
-          "surveyQuestion": "What improvements would you like to see in home internet digital platforms?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        },
-        {
-          "surveyQuestion": "How often do you experience issues with home internet online services?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Never",
-            "Rarely",
-            "Sometimes",
-            "Often",
-            "Always"
-          ]
-        },
-        {
-          "surveyQuestion": "Do you have additional feedback for home internet digital services?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        }
-      ]
-    },
-    {
-      "surveyId": "OEAGIFC92H",
-      "surveyCategory": "Beverage Services",
-      "surveyPaid": true,
-      "surveyAmount": 67,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "Which beverage-related digital services do you use (e.g., loyalty apps, online ordering)?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Mobile App",
-            "Loyalty Program",
-            "Online Ordering",
-            "Social Media",
-            "Website"
-          ]
-        },
-        {
-          "surveyQuestion": "Do you prefer using beverage digital platforms on mobile or desktop?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Mobile",
-            "Desktop"
-          ]
-        },
-        {
-          "surveyQuestion": "What is your favorite feature of beverage digital services?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        },
-        {
-          "surveyQuestion": "How do you engage with beverage loyalty programs digitally?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Mobile App",
-            "Website",
-            "QR Codes",
-            "Email",
-            "Not Engaged"
-          ]
-        },
-        {
-          "surveyQuestion": "Which digital promotions from beverage services have you participated in?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Online Contests",
-            "App Rewards",
-            "Social Media Campaigns",
-            "QR Code Offers",
-            "None"
-          ]
-        },
-        {
-          "surveyQuestion": "How do you prefer to interact with beverage digital customer support?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Live Chat",
-            "Email",
-            "Social Media"
-          ]
-        },
-        {
-          "surveyQuestion": "Which beverage digital campaigns have you found most engaging?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Social Media Ads",
-            "App-Based Promotions",
-            "Email Campaigns",
-            "Interactive Websites",
-            "None"
-          ]
-        }
-      ]
-    },
-    {
-      "surveyId": "T472SNCM16",
-      "surveyCategory": "Smart Home Integration",
-      "surveyPaid": true,
-      "surveyAmount": 44,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "When are you planning to explore smart home solutions?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Now",
-            "In 6 months",
-            "In a year",
-            "Over a year away"
-          ]
-        },
-        {
-          "surveyQuestion": "How confident are you in using smart home technology for your property?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Not Confident",
-            "Somewhat Confident",
-            "Very Confident"
-          ]
-        },
-        {
-          "surveyQuestion": "Where do you learn about smart home technologies before integrating them?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Online Forums",
-            "Tech Blogs",
-            "Social Media",
-            "Experts"
-          ]
-        },
-        {
-          "surveyQuestion": "What is your favorite smart home technology and why?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        },
-        {
-          "surveyQuestion": "What challenges do you anticipate with smart home integration?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Cost",
-            "Compatibility",
-            "Installation",
-            "Security",
-            "Learning Curve"
-          ]
-        }
-      ]
-    },
-    {
-      "surveyId": "ADL05KU9QX",
-      "surveyCategory": "Social Media Platforms",
-      "surveyPaid": true,
-      "surveyAmount": 43,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "How often do you use social media platforms?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Daily",
-            "Weekly",
-            "Rarely",
-            "Never"
-          ]
-        },
-        {
-          "surveyQuestion": "How long have you been using social media platforms?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Less than a year",
-            "1-3 years",
-            "4-6 years",
-            "More than 10 years"
-          ]
-        },
-        {
-          "surveyQuestion": "Which social media features do you use regularly?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Messaging",
-            "Video Content",
-            "Stories",
-            "Groups",
-            "Live Streaming"
-          ]
-        },
-        {
-          "surveyQuestion": "How satisfied are you with the overall experience of social media platforms?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Satisfied",
-            "Satisfied",
-            "Neutral",
-            "Dissatisfied",
-            "Very Dissatisfied"
-          ]
-        },
-        {
-          "surveyQuestion": "How often do you interact with content on social media platforms?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Multiple Times a Day",
-            "Once a Day",
-            "A Few Times a Week",
-            "Once a Week",
-            "Rarely"
-          ]
-        },
-        {
-          "surveyQuestion": "What types of content do you share on social media platforms?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Photos",
-            "Videos",
-            "Text Posts",
-            "Events"
-          ]
-        },
-        {
-          "surveyQuestion": "How concerned are you about data privacy on social media platforms?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Concerned",
-            "Neutral",
-            "Not Concerned",
-            "Not at All Concerned"
-          ]
-        }
-      ]
-    },
-    {
-      "surveyId": "9J68HYA1O4",
-      "surveyCategory": "Morning Tech Routine",
-      "surveyPaid": true,
-      "surveyAmount": 44,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "What time do you usually start using tech devices in the morning?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "5AM",
-            "6AM",
-            "7AM",
-            "8AM"
-          ]
-        },
-        {
-          "surveyQuestion": "Do you use fitness apps to start your day?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Yes",
-            "No"
-          ]
-        },
-        {
-          "surveyQuestion": "Which apps do you use to plan your morning routine?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Calendar Apps",
-            "Task Managers",
-            "News Apps",
-            "Fitness Trackers",
-            "Other"
-          ]
-        },
-        {
-          "surveyQuestion": "How do you use tech to commute to work or school?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Navigation Apps",
-            "Ride-Hailing Apps",
-            "Public Transport Apps",
-            "Smart Vehicle",
-            "None"
-          ]
-        },
-        {
-          "surveyQuestion": "Do you check your smartphone immediately upon waking?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Yes",
-            "No"
-          ]
-        },
-        {
-          "surveyQuestion": "Which tech-related activities do you engage in to start your day?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Checking Emails",
-            "Social Media",
-            "News Apps",
-            "Smart Home Control",
-            "Fitness Tracking"
-          ]
-        },
-        {
-          "surveyQuestion": "What is your favorite tech tool for starting your day?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        }
-      ]
-    },
-    {
-      "surveyId": "IO9CA1TH4M",
-      "surveyCategory": "Cooking Apps",
-      "surveyPaid": true,
-      "surveyAmount": 52,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "How often do you use cooking or recipe apps?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Daily",
-            "A Few Times a Week",
-            "Once a Week",
-            "Rarely",
-            "Never"
-          ]
-        },
-        {
-          "surveyQuestion": "Which types of cooking apps do you use for recipes?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Recipe Apps",
-            "Meal Planning Apps",
-            "Cooking Tutorials",
-            "Community Recipe Platforms"
-          ]
-        },
-        {
-          "surveyQuestion": "Do you use apps to track dietary restrictions?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Vegetarian",
-            "Vegan",
-            "Gluten-Free",
-            "Keto",
-            "Paleo",
-            "None"
-          ]
-        },
-        {
-          "surveyQuestion": "How confident are you in using cooking apps to prepare meals?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Confident",
-            "Somewhat Confident",
-            "Neutral",
-            "Not Very Confident",
-            "Not Confident at All"
-          ]
-        },
-        {
-          "surveyQuestion": "Which features of cooking apps do you use?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Recipe Search",
-            "Meal Planning",
-            "Instruction Videos",
-            "Ingredient Scanner",
-            "Shopping List Generator",
-            "Nutritional Info",
-            "Community Recipes",
-            "Voice Guidance",
-            "Diet Filters"
-          ]
-        },
-        {
-          "surveyQuestion": "Which smart kitchen tools do you use with cooking apps?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Smart Scale",
-            "Smart Oven",
-            "Smart Thermometer",
-            "Smart Blender",
-            "Smart Fridge",
-            "None"
-          ]
-        },
-        {
-          "surveyQuestion": "What is your favorite feature in a cooking app?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        }
-      ]
-    },
-    {
-      "surveyId": "OP90QR12ST",
-      "surveyCategory": "Clothing Retail Apps",
-      "surveyPaid": true,
-      "surveyAmount": 40,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "How often do you use online platforms to purchase clothing?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Weekly",
-            "Monthly",
-            "Every Few Months",
-            "Rarely",
-            "Never"
-          ]
-        },
-        {
-          "surveyQuestion": "Which types of clothing retail apps or websites do you use?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Sportswear Retail",
-            "Fashion Retail",
-            "General Clothing Stores",
-            "Other"
-          ]
-        },
-        {
-          "surveyQuestion": "How satisfied are you with the user experience of clothing retail apps?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Satisfied",
-            "Satisfied",
-            "Neutral",
-            "Dissatisfied",
-            "Very Dissatisfied"
-          ]
-        },
-        {
-          "surveyQuestion": "What factors influence your choice of clothing retail apps?",
-          "surveyType": 3,
-          "surveyAnswers": [
-            "Price",
-            "User Interface",
-            "Product Variety",
-            "Other"
-          ]
-        },
-        {
-          "surveyQuestion": "How likely are you to recommend your favorite clothing retail app?",
-          "surveyType": 1,
-          "surveyAnswers": [
-            "Very Likely",
-            "Likely",
-            "Neutral",
-            "Unlikely",
-            "Very Unlikely"
-          ]
-        },
-        {
-          "surveyQuestion": "What improvements would you like in clothing retail apps?",
-          "surveyType": 2,
-          "surveyAnswers": []
-        }
-      ]
-    },
-    {
-      "surveyId": "UV34WX56YZ",
-      "surveyCategory": "Tech Gadgets",
-      "surveyPaid": true,
-      "surveyAmount": 90,
-      "surveyQuestions": [
-        {
-          "surveyQuestion": "How often do
+   "surveyTag":"Surveys Available Today",
+   "surveys":[
+      {
+        "surveyId": "1",
+        "surveyCategory": "MobiEarn",
+        "surveyPaid": false,
+        "surveyAmount": 70,
+        "surveyQuestions": [
+          {
+            "surveyQuestion": "How did you hear about us?",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Youtube",
+              "Twitter",
+              "Instagram",
+              "Facebook",
+              "Friend",
+              "Our Website"
+            ]
+          },
+          {
+            "surveyQuestion": "We partner with thousand of businesses and brands to help you earn. These brands rely on your answers to advance their work thats why its important to write great answers",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "I understand",
+              "Okay"
+            ]
+          },
+          {
+            "surveyQuestion": "Flexy allows you to earn money from every survey. You will receive your payment when you submit your survey.",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Looks Good",
+              "I understand"
+            ]
+          },
+          {
+            "surveyQuestion": "Researchers on our platform sometimes look for people with specific experience. As a result you may be disqualified from certain surveys",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Looks Good",
+              "I understand"
+            ]
+          },
+          {
+            "surveyQuestion": "Every day, you will have access to one survey. You can upgrade you account from your profile if you need more surveys. This survey is free and you can take another one",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Looks Good",
+              "I understand"
+            ]
+          },
+          {
+            "surveyQuestion": "Once you collect enough earnings, you can submit withdrawal for us to process and pay you",
+            "surveyType": 2,
+            "surveyAnswers": []
+          },
+          {
+            "surveyQuestion": "Have friends? We will pay you Ksh 30 for every survey you friend completes",
+            "surveyType": 1,
+            "surveyAnswers": [
+              "Looks Good",
+              "I understand"
+            ]
+          }
+        ]
+      },
+      {
+         "surveyId":"KE001",
+         "surveyCategory":"Safaricom M-PESA",
+         "surveyPaid":true,
+         "surveyAmount":75,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"How frequently do you use M-PESA for transactions?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Multiple times a day",
+                  "Daily",
+                  "Weekly",
+                  "Monthly",
+                  "Rarely"
+               ]
+            },
+            {
+               "surveyQuestion":"Which M-PESA services do you use most often?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Money Transfer",
+                  "Bill Payments",
+                  "Airtime Purchase",
+                  "Lipa na M-PESA",
+                  "Savings and Loans"
+               ]
+            },
+            {
+               "surveyQuestion":"What is the primary benefit you enjoy from using M-PESA?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the ease of accessing M-PESA services on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend M-PESA to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            },
+            {
+               "surveyQuestion":"Have you ever faced challenges with M-PESA transactions?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Yes",
+                  "No"
+               ]
+            },
+            {
+               "surveyQuestion":"What improvements would you suggest for M-PESA?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE002",
+         "surveyCategory":"Equity Bank",
+         "surveyPaid":false,
+         "surveyAmount":50,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"Which Equity Bank services do you currently use?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Savings Account",
+                  "Loans",
+                  "Mobile Banking",
+                  "Insurance",
+                  "Investment Services"
+               ]
+            },
+            {
+               "surveyQuestion":"How satisfied are you with Equity Bank's customer service?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Satisfied",
+                  "Satisfied",
+                  "Neutral",
+                  "Dissatisfied",
+                  "Very Dissatisfied"
+               ]
+            },
+            {
+               "surveyQuestion":"What motivates you to bank with Equity Bank?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"How often do you use Equity Bank's mobile app, Eazzy Banking?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Daily",
+                  "Weekly",
+                  "Monthly",
+                  "Rarely",
+                  "Never"
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the accessibility of Equity Bank branches or agents on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"What new financial product would you like Equity Bank to offer?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE003",
+         "surveyCategory":"Naivas Supermarket",
+         "surveyPaid":true,
+         "surveyAmount":65,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"How often do you shop at Naivas Supermarket?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Daily",
+                  "Weekly",
+                  "Bi-weekly",
+                  "Monthly",
+                  "Rarely"
+               ]
+            },
+            {
+               "surveyQuestion":"Which product categories do you purchase most at Naivas?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Groceries",
+                  "Personal Care",
+                  "Household Items",
+                  "Electronics",
+                  "Clothing"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you value most about shopping at Naivas?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the quality of fresh produce at Naivas on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Naivas to friends or family?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            },
+            {
+               "surveyQuestion":"How satisfied are you with Naivas' loyalty program?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Satisfied",
+                  "Satisfied",
+                  "Neutral",
+                  "Dissatisfied",
+                  "Very Dissatisfied"
+               ]
+            },
+            {
+               "surveyQuestion":"What improvements would you like to see in Naivas stores?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE004",
+         "surveyCategory":"Kenya Airways",
+         "surveyPaid":true,
+         "surveyAmount":80,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"How often do you fly with Kenya Airways?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Monthly",
+                  "Quarterly",
+                  "Annually",
+                  "Rarely",
+                  "Never"
+               ]
+            },
+            {
+               "surveyQuestion":"Which class of service do you usually book with Kenya Airways?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Economy",
+                  "Premium Economy",
+                  "Business Class"
+               ]
+            },
+            {
+               "surveyQuestion":"What is your favorite aspect of flying with Kenya Airways?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the in-flight entertainment on Kenya Airways on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Kenya Airways to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            },
+            {
+               "surveyQuestion":"How satisfied are you with Kenya Airways' baggage handling?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Satisfied",
+                  "Satisfied",
+                  "Neutral",
+                  "Dissatisfied",
+                  "Very Dissatisfied"
+               ]
+            },
+            {
+               "surveyQuestion":"What new destinations would you like Kenya Airways to add?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE005",
+         "surveyCategory":"Brookside Dairy",
+         "surveyPaid":false,
+         "surveyAmount":45,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"Which Brookside Dairy products do you purchase regularly?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Milk",
+                  "Yoghurt",
+                  "Cheese",
+                  "Butter",
+                  "Cream"
+               ]
+            },
+            {
+               "surveyQuestion":"How often do you consume Brookside Dairy products?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Daily",
+                  "Weekly",
+                  "Monthly",
+                  "Rarely",
+                  "Never"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you like most about Brookside Dairy products?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the taste of Brookside Dairy products on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Brookside Dairy to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE006",
+         "surveyCategory":"Jumia Kenya",
+         "surveyPaid":true,
+         "surveyAmount":70,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"How often do you shop on Jumia Kenya?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Weekly",
+                  "Monthly",
+                  "Every Few Months",
+                  "Rarely",
+                  "Never"
+               ]
+            },
+            {
+               "surveyQuestion":"Which product categories do you buy most on Jumia Kenya?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Electronics",
+                  "Fashion",
+                  "Home & Living",
+                  "Groceries",
+                  "Health & Beauty"
+               ]
+            },
+            {
+               "surveyQuestion":"What is your favorite feature of the Jumia Kenya platform?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the delivery speed of Jumia Kenya on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Jumia Kenya to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            },
+            {
+               "surveyQuestion":"Have you ever used Jumia Kenya's return or refund services?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Yes",
+                  "No"
+               ]
+            },
+            {
+               "surveyQuestion":"What improvements would you suggest for Jumia Kenya?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE007",
+         "surveyCategory":"KCB Bank",
+         "surveyPaid":true,
+         "surveyAmount":68,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"Which KCB Bank services do you use?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Savings Account",
+                  "Current Account",
+                  "Loans",
+                  "Mobile Banking",
+                  "Credit Cards"
+               ]
+            },
+            {
+               "surveyQuestion":"How satisfied are you with KCB Bank's online banking platform?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Satisfied",
+                  "Satisfied",
+                  "Neutral",
+                  "Dissatisfied",
+                  "Very Dissatisfied"
+               ]
+            },
+            {
+               "surveyQuestion":"What is the most convenient feature of KCB Bank's services?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"How often do you visit a KCB Bank branch?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Weekly",
+                  "Monthly",
+                  "Quarterly",
+                  "Rarely",
+                  "Never"
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the speed of service at KCB Bank branches on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"What new banking service would you like KCB Bank to offer?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend KCB Bank to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE008",
+         "surveyCategory":"Twiga Foods",
+         "surveyPaid":true,
+         "surveyAmount":62,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"How often do you purchase fresh produce from Twiga Foods?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Daily",
+                  "Weekly",
+                  "Bi-weekly",
+                  "Monthly",
+                  "Rarely"
+               ]
+            },
+            {
+               "surveyQuestion":"Which products do you buy most from Twiga Foods?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Fruits",
+                  "Vegetables",
+                  "Grains",
+                  "Dairy",
+                  "Other"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you like most about Twiga Foods' delivery service?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the freshness of Twiga Foods' produce on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Twiga Foods to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            },
+            {
+               "surveyQuestion":"How satisfied are you with Twiga Foods' pricing?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Satisfied",
+                  "Satisfied",
+                  "Neutral",
+                  "Dissatisfied",
+                  "Very Dissatisfied"
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE009",
+         "surveyCategory":"Co-operative Bank",
+         "surveyPaid":false,
+         "surveyAmount":50,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"Which Co-operative Bank services do you use?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Savings Account",
+                  "Loans",
+                  "Mobile Banking",
+                  "Sacco Services",
+                  "Insurance"
+               ]
+            },
+            {
+               "surveyQuestion":"How satisfied are you with Co-operative Bank's mobile banking app?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Satisfied",
+                  "Satisfied",
+                  "Neutral",
+                  "Dissatisfied",
+                  "Very Dissatisfied"
+               ]
+            },
+            {
+               "surveyQuestion":"What is your primary reason for choosing Co-operative Bank?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the customer service at Co-operative Bank branches on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Co-operative Bank to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE010",
+         "surveyCategory":"Zuku",
+         "surveyPaid":true,
+         "surveyAmount":72,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"Which Zuku services do you subscribe to?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Internet",
+                  "TV",
+                  "Voice",
+                  "Bundle"
+               ]
+            },
+            {
+               "surveyQuestion":"How satisfied are you with Zuku's internet speed?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Satisfied",
+                  "Satisfied",
+                  "Neutral",
+                  "Dissatisfied",
+                  "Very Dissatisfied"
+               ]
+            },
+            {
+               "surveyQuestion":"What is your favorite Zuku TV channel or package?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"How often do you experience service interruptions with Zuku?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Never",
+                  "Rarely",
+                  "Sometimes",
+                  "Often",
+                  "Always"
+               ]
+            },
+            {
+               "surveyQuestion":"Rate Zuku's customer support on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"What improvements would you like to see in Zuku's services?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Zuku to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE011",
+         "surveyCategory":"Java House",
+         "surveyPaid":true,
+         "surveyAmount":60,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"How often do you visit Java House?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Daily",
+                  "Weekly",
+                  "Monthly",
+                  "Rarely",
+                  "Never"
+               ]
+            },
+            {
+               "surveyQuestion":"Which menu items do you order most at Java House?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Coffee",
+                  "Meals",
+                  "Desserts",
+                  "Juices",
+                  "Smoothies"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you enjoy most about the Java House experience?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the quality of service at Java House on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Java House to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            },
+            {
+               "surveyQuestion":"What new menu item would you like Java House to introduce?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE012",
+         "surveyCategory":"Kipepeo Clothing",
+         "surveyPaid":true,
+         "surveyAmount":58,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"How often do you purchase clothing from Kipepeo?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Monthly",
+                  "Quarterly",
+                  "Annually",
+                  "Rarely",
+                  "Never"
+               ]
+            },
+            {
+               "surveyQuestion":"Which types of clothing do you buy from Kipepeo?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Casual Wear",
+                  "Formal Wear",
+                  "Traditional Attire",
+                  "Accessories"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you like most about Kipepeo's clothing designs?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the quality of Kipepeo clothing on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Kipepeo to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            },
+            {
+               "surveyQuestion":"What new clothing styles would you like Kipepeo to offer?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE013",
+         "surveyCategory":"KPLC",
+         "surveyPaid":true,
+         "surveyAmount":66,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"How reliable is KPLC's electricity supply in your area?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Reliable",
+                  "Reliable",
+                  "Neutral",
+                  "Unreliable",
+                  "Very Unreliable"
+               ]
+            },
+            {
+               "surveyQuestion":"Which KPLC services do you interact with most?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Electricity Supply",
+                  "Billing",
+                  "Customer Support",
+                  "New Connections"
+               ]
+            },
+            {
+               "surveyQuestion":"What challenges have you faced with KPLC services?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the ease of paying KPLC bills on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend KPLC services to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            },
+            {
+               "surveyQuestion":"How satisfied are you with KPLC's response to outages?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Satisfied",
+                  "Satisfied",
+                  "Neutral",
+                  "Dissatisfied",
+                  "Very Dissatisfied"
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE014",
+         "surveyCategory":"Bidco Africa",
+         "surveyPaid":false,
+         "surveyAmount":48,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"Which Bidco Africa products do you use?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Cooking Oil",
+                  "Margarine",
+                  "Soaps",
+                  "Detergents",
+                  "Personal Care"
+               ]
+            },
+            {
+               "surveyQuestion":"How often do you purchase Bidco products?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Weekly",
+                  "Monthly",
+                  "Quarterly",
+                  "Rarely",
+                  "Never"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you like most about Bidco products?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the quality of Bidco products on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Bidco products to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE015",
+         "surveyCategory":"Safaricom Home Fibre",
+         "surveyPaid":true,
+         "surveyAmount":78,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"Which Safaricom Home Fibre package do you use?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Bronze (10mbps)",
+                  "Silver (20mbps)",
+                  "Gold (40mbps)",
+                  "Diamond (100mbps)"
+               ]
+            },
+            {
+               "surveyQuestion":"How satisfied are you with the internet speed of Safaricom Home Fibre?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Satisfied",
+                  "Satisfied",
+                  "Neutral",
+                  "Dissatisfied",
+                  "Very Dissatisfied"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you primarily use Safaricom Home Fibre for?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Streaming",
+                  "Work from Home",
+                  "Gaming",
+                  "Browsing",
+                  "Education"
+               ]
+            },
+            {
+               "surveyQuestion":"How often do you experience connectivity issues with Safaricom Home Fibre?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Never",
+                  "Rarely",
+                  "Sometimes",
+                  "Often",
+                  "Always"
+               ]
+            },
+            {
+               "surveyQuestion":"Rate Safaricom Home Fibre's customer support on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"What improvements would you suggest for Safaricom Home Fibre?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Safaricom Home Fibre to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE016",
+         "surveyCategory":"Artcaffe",
+         "surveyPaid":true,
+         "surveyAmount":64,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"How often do you visit Artcaffe?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Daily",
+                  "Weekly",
+                  "Monthly",
+                  "Rarely",
+                  "Never"
+               ]
+            },
+            {
+               "surveyQuestion":"Which Artcaffe menu items do you enjoy most?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Coffee",
+                  "Pastries",
+                  "Meals",
+                  "Desserts",
+                  "Beverages"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you like most about the Artcaffe ambiance?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the cleanliness of Artcaffe outlets on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Artcaffe to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            },
+            {
+               "surveyQuestion":"What new menu item would you like Artcaffe to introduce?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE017",
+         "surveyCategory":"Carrefour Kenya",
+         "surveyPaid":true,
+         "surveyAmount":67,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"How often do you shop at Carrefour Kenya?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Daily",
+                  "Weekly",
+                  "Bi-weekly",
+                  "Monthly",
+                  "Rarely"
+               ]
+            },
+            {
+               "surveyQuestion":"Which product categories do you buy most at Carrefour?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Groceries",
+                  "Electronics",
+                  "Clothing",
+                  "Household Items",
+                  "Personal Care"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you like most about shopping at Carrefour?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the variety of products at Carrefour on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Carrefour to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            },
+            {
+               "surveyQuestion":"How satisfied are you with Carrefour's pricing?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Satisfied",
+                  "Satisfied",
+                  "Neutral",
+                  "Dissatisfied",
+                  "Very Dissatisfied"
+               ]
+            },
+            {
+               "surveyQuestion":"What improvements would you suggest for Carrefour Kenya?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE018",
+         "surveyCategory":"Keroche Breweries",
+         "surveyPaid":false,
+         "surveyAmount":46,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"Which Keroche Breweries products do you consume?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Summit Lager",
+                  "Summit Malt",
+                  "Vienna Ice",
+                  "Other"
+               ]
+            },
+            {
+               "surveyQuestion":"How often do you purchase Keroche products?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Weekly",
+                  "Monthly",
+                  "Occasionally",
+                  "Rarely",
+                  "Never"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you like most about Keroche Breweries products?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the taste of Keroche products on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Keroche Breweries to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE019",
+         "surveyCategory":"Safaricom PLC",
+         "surveyPaid":true,
+         "surveyAmount":74,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"Which Safaricom mobile services do you use?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Voice Calls",
+                  "SMS",
+                  "Mobile Data",
+                  "Bundles",
+                  "Safaricom Home Fibre"
+               ]
+            },
+            {
+               "surveyQuestion":"How satisfied are you with Safaricom's network coverage?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Satisfied",
+                  "Satisfied",
+                  "Neutral",
+                  "Dissatisfied",
+                  "Very Dissatisfied"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you like most about Safaricom's mobile services?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"How often do you purchase Safaricom bundles?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Daily",
+                  "Weekly",
+                  "Monthly",
+                  "Rarely",
+                  "Never"
+               ]
+            },
+            {
+               "surveyQuestion":"Rate Safaricom's customer care on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"What new mobile service would you like Safaricom to introduce?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Safaricom to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE020",
+         "surveyCategory":"Chandaria Industries",
+         "surveyPaid":false,
+         "surveyAmount":42,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"Which Chandaria Industries products do you use?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Tissue Paper",
+                  "Toilet Paper",
+                  "Sanitary Pads",
+                  "Packaging Materials"
+               ]
+            },
+            {
+               "surveyQuestion":"How often do you purchase Chandaria products?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Weekly",
+                  "Monthly",
+                  "Quarterly",
+                  "Rarely",
+                  "Never"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you like most about Chandaria products?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the quality of Chandaria products on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Chandaria products to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE021",
+         "surveyCategory":"Eldoret Water and Sanitation Company (ELDOWAS)",
+         "surveyPaid":true,
+         "surveyAmount":63,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"How satisfied are you with ELDOWAS water supply reliability?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Satisfied",
+                  "Satisfied",
+                  "Neutral",
+                  "Dissatisfied",
+                  "Very Dissatisfied"
+               ]
+            },
+            {
+               "surveyQuestion":"What water-related services do you use from ELDOWAS?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Domestic Water Supply",
+                  "Sewerage Services",
+                  "Billing",
+                  "Customer Support"
+               ]
+            },
+            {
+               "surveyQuestion":"What challenges have you faced with ELDOWAS services?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the quality of water supplied by ELDOWAS on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend ELDOWAS to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            },
+            {
+               "surveyQuestion":"What improvements would you suggest for ELDOWAS?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE022",
+         "surveyCategory":"Kenchic",
+         "surveyPaid":true,
+         "surveyAmount":61,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"How often do you purchase Kenchic products?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Weekly",
+                  "Bi-weekly",
+                  "Monthly",
+                  "Rarely",
+                  "Never"
+               ]
+            },
+            {
+               "surveyQuestion":"Which Kenchic products do you buy?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Fresh Chicken",
+                  "Processed Chicken",
+                  "Eggs",
+                  "Fast Food"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you like most about Kenchic products?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the quality of Kenchic products on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Kenchic to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            },
+            {
+               "surveyQuestion":"What new product would you like Kenchic to introduce?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE023",
+         "surveyCategory":"Airtel Kenya",
+         "surveyPaid":true,
+         "surveyAmount":69,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"Which Airtel Kenya services do you use?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Voice Calls",
+                  "SMS",
+                  "Mobile Data",
+                  "Airtel Money",
+                  "Bundles"
+               ]
+            },
+            {
+               "surveyQuestion":"How satisfied are you with Airtel's network reliability?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Satisfied",
+                  "Satisfied",
+                  "Neutral",
+                  "Dissatisfied",
+                  "Very Dissatisfied"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you like most about Airtel Kenya's services?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"How often do you purchase Airtel bundles?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Daily",
+                  "Weekly",
+                  "Monthly",
+                  "Rarely",
+                  "Never"
+               ]
+            },
+            {
+               "surveyQuestion":"Rate Airtel Kenya's customer care on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"What new service would you like Airtel Kenya to offer?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Airtel Kenya to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE024",
+         "surveyCategory":"Nation Media Group",
+         "surveyPaid":true,
+         "surveyAmount":71,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"Which Nation Media Group platforms do you use?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Daily Nation Newspaper",
+                  "NTV",
+                  "Nation.Africa",
+                  "Citizen TV",
+                  "Radio"
+               ]
+            },
+            {
+               "surveyQuestion":"How often do you consume Nation Media Group content?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Daily",
+                  "Weekly",
+                  "Monthly",
+                  "Rarely",
+                  "Never"
+               ]
+            },
+            {
+               "surveyQuestion":"What type of content do you enjoy most from Nation Media Group?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the quality of journalism at Nation Media Group on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Nation Media Group to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            },
+            {
+               "surveyQuestion":"What new media platform would you like Nation Media Group to launch?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"How satisfied are you with Nation Media Group's digital platforms?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Satisfied",
+                  "Satisfied",
+                  "Neutral",
+                  "Dissatisfied",
+                  "Very Dissatisfied"
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE025",
+         "surveyCategory":"Glovo Kenya",
+         "surveyPaid":true,
+         "surveyAmount":66,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"How often do you use Glovo for deliveries?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Daily",
+                  "Weekly",
+                  "Monthly",
+                  "Rarely",
+                  "Never"
+               ]
+            },
+            {
+               "surveyQuestion":"What types of items do you order most on Glovo?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Food",
+                  "Groceries",
+                  "Pharmacy Items",
+                  "Other"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you like most about Glovo's delivery service?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the delivery speed of Glovo on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Glovo to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            },
+            {
+               "surveyQuestion":"What improvements would you suggest for Glovo Kenya?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE026",
+         "surveyCategory":"Mara Moja Transport",
+         "surveyPaid":false,
+         "surveyAmount":44,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"How often do you travel with Mara Moja Transport?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Weekly",
+                  "Monthly",
+                  "Quarterly",
+                  "Rarely",
+                  "Never"
+               ]
+            },
+            {
+               "surveyQuestion":"What routes do you use Mara Moja Transport for?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the comfort of Mara Moja buses on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How satisfied are you with Mara Moja's punctuality?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Satisfied",
+                  "Satisfied",
+                  "Neutral",
+                  "Dissatisfied",
+                  "Very Dissatisfied"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Mara Moja Transport to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE027",
+         "surveyCategory":"Tusker Beer (EABL)",
+         "surveyPaid":true,
+         "surveyAmount":68,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"How often do you consume Tusker Beer?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Daily",
+                  "Weekly",
+                  "Monthly",
+                  "Rarely",
+                  "Never"
+               ]
+            },
+            {
+               "surveyQuestion":"Which Tusker variants do you prefer?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Tusker Lager",
+                  "Tusker Malt",
+                  "Tusker Lite",
+                  "Tusker Cider"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you like most about Tusker Beer?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the taste of Tusker Beer on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Tusker Beer to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            },
+            {
+               "surveyQuestion":"What new Tusker variant would you like to see?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE028",
+         "surveyCategory":"Quickmart",
+         "surveyPaid":true,
+         "surveyAmount":65,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"How often do you shop at Quickmart?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Daily",
+                  "Weekly",
+                  "Bi-weekly",
+                  "Monthly",
+                  "Rarely"
+               ]
+            },
+            {
+               "surveyQuestion":"Which product categories do you buy most at Quickmart?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Groceries",
+                  "Household Items",
+                  "Personal Care",
+                  "Beverages",
+                  "Snacks"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you like most about shopping at Quickmart?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the customer service at Quickmart on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Quickmart to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            },
+            {
+               "surveyQuestion":"What improvements would you suggest for Quickmart?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE029",
+         "surveyCategory":"Kenya Tea Development Agency (KTDA)",
+         "surveyPaid":false,
+         "surveyAmount":43,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"Which KTDA tea brands do you consume?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Ketepa",
+                  "Fahari ya Kenya",
+                  "Safari Gold",
+                  "Other"
+               ]
+            },
+            {
+               "surveyQuestion":"How often do you purchase KTDA tea products?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Weekly",
+                  "Monthly",
+                  "Quarterly",
+                  "Rarely",
+                  "Never"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you like most about KTDA tea?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the quality of KTDA tea on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend KTDA tea to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE030",
+         "surveyCategory":"Bolt Kenya",
+         "surveyPaid":true,
+         "surveyAmount":70,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"How often do you use Bolt for transportation?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Daily",
+                  "Weekly",
+                  "Monthly",
+                  "Rarely",
+                  "Never"
+               ]
+            },
+            {
+               "surveyQuestion":"Which Bolt services do you use?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Bolt Economy",
+                  "Bolt XL",
+                  "Bolt Business",
+                  "Bolt Go"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you like most about Bolt's ride-hailing service?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the affordability of Bolt rides on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Bolt to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            },
+            {
+               "surveyQuestion":"What improvements would you suggest for Bolt Kenya?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"How satisfied are you with Bolt's driver professionalism?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Satisfied",
+                  "Satisfied",
+                  "Neutral",
+                  "Dissatisfied",
+                  "Very Dissatisfied"
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE031",
+         "surveyCategory":"CIC Insurance Group",
+         "surveyPaid":false,
+         "surveyAmount":40,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"Which CIC Insurance products do you use?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Health Insurance",
+                  "Motor Insurance",
+                  "Life Insurance",
+                  "Home Insurance",
+                  "Business Insurance"
+               ]
+            },
+            {
+               "surveyQuestion":"How satisfied are you with CIC's claims process?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Satisfied",
+                  "Satisfied",
+                  "Neutral",
+                  "Dissatisfied",
+                  "Very Dissatisfied"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you value most about CIC Insurance?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate CIC's customer service on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend CIC Insurance to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE032",
+         "surveyCategory":"Kenya Power",
+         "surveyPaid":true,
+         "surveyAmount":65,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"How often do you experience power outages in your area?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Never",
+                  "Rarely",
+                  "Sometimes",
+                  "Often",
+                  "Always"
+               ]
+            },
+            {
+               "surveyQuestion":"Which Kenya Power services do you use?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Prepaid Electricity",
+                  "Postpaid Electricity",
+                  "New Connections",
+                  "Customer Support"
+               ]
+            },
+            {
+               "surveyQuestion":"What challenges do you face with Kenya Power services?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the ease of accessing Kenya Power's USSD service (*977#) on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Kenya Power to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            },
+            {
+               "surveyQuestion":"How satisfied are you with Kenya Power's billing accuracy?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Satisfied",
+                  "Satisfied",
+                  "Neutral",
+                  "Dissatisfied",
+                  "Very Dissatisfied"
+               ]
+            },
+            {
+               "surveyQuestion":"What improvements would you suggest for Kenya Power?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE033",
+         "surveyCategory":"Mabati Rolling Mills",
+         "surveyPaid":true,
+         "surveyAmount":60,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"Which Mabati Rolling Mills products have you used?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Roofing Sheets",
+                  "Pipes",
+                  "Ridges",
+                  "Gutters"
+               ]
+            },
+            {
+               "surveyQuestion":"How satisfied are you with the durability of Mabati products?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Satisfied",
+                  "Satisfied",
+                  "Neutral",
+                  "Dissatisfied",
+                  "Very Dissatisfied"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you like most about Mabati Rolling Mills products?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the quality of Mabati products on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Mabati Rolling Mills to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            },
+            {
+               "surveyQuestion":"What new product would you like Mabati Rolling Mills to offer?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE034",
+         "surveyCategory":"Kapa Oil Refineries",
+         "surveyPaid":false,
+         "surveyAmount":45,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"Which Kapa Oil products do you use?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Fresh Fri",
+                  "Rina",
+                  "Bahari Fry",
+                  "Kapa Cooking Oil"
+               ]
+            },
+            {
+               "surveyQuestion":"How often do you purchase Kapa Oil products?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Weekly",
+                  "Monthly",
+                  "Quarterly",
+                  "Rarely",
+                  "Never"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you like most about Kapa Oil products?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the quality of Kapa Oil products on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Kapa Oil to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE035",
+         "surveyCategory":"Centum Investment Company",
+         "surveyPaid":true,
+         "surveyAmount":68,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"Which Centum Investment services or products are you familiar with?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Real Estate",
+                  "Private Equity",
+                  "Financial Services",
+                  "Energy"
+               ]
+            },
+            {
+               "surveyQuestion":"How satisfied are you with Centum’s investment opportunities?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Satisfied",
+                  "Satisfied",
+                  "Neutral",
+                  "Dissatisfied",
+                  "Very Dissatisfied"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you value most about Centum’s offerings?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the transparency of Centum’s investment processes on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Centum to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            },
+            {
+               "surveyQuestion":"What new investment product would you like Centum to offer?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"How satisfied are you with Centum’s customer support?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Satisfied",
+                  "Satisfied",
+                  "Neutral",
+                  "Dissatisfied",
+                  "Very Dissatisfied"
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE036",
+         "surveyCategory":"Bamburi Cement",
+         "surveyPaid":true,
+         "surveyAmount":62,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"Which Bamburi Cement products do you use?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Nguvu Cement",
+                  "Tembo Cement",
+                  "Power Plus",
+                  "Concrete Mix"
+               ]
+            },
+            {
+               "surveyQuestion":"How satisfied are you with the quality of Bamburi Cement?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Satisfied",
+                  "Satisfied",
+                  "Neutral",
+                  "Dissatisfied",
+                  "Very Dissatisfied"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you like most about Bamburi Cement products?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the availability of Bamburi Cement in your area on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Bamburi Cement to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            },
+            {
+               "surveyQuestion":"What improvements would you suggest for Bamburi Cement?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE037",
+         "surveyCategory":"Safaricom Foundation",
+         "surveyPaid":true,
+         "surveyAmount":64,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"Which Safaricom Foundation initiatives are you aware of?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Education Programs",
+                  "Health Initiatives",
+                  "Economic Empowerment",
+                  "Environmental Conservation"
+               ]
+            },
+            {
+               "surveyQuestion":"How impactful do you find Safaricom Foundation’s community projects?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Impactful",
+                  "Impactful",
+                  "Neutral",
+                  "Somewhat Impactful",
+                  "Not Impactful"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you appreciate most about Safaricom Foundation’s work?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the visibility of Safaricom Foundation’s initiatives on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to support or recommend Safaricom Foundation’s initiatives?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            },
+            {
+               "surveyQuestion":"What new initiative would you like Safaricom Foundation to undertake?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE038",
+         "surveyCategory":"Eldoret Grain Millers",
+         "surveyPaid":false,
+         "surveyAmount":42,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"Which Eldoret Grain Millers products do you use?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Maize Flour",
+                  "Wheat Flour",
+                  "Porridge Flour",
+                  "Other"
+               ]
+            },
+            {
+               "surveyQuestion":"How often do you purchase Eldoret Grain Millers products?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Weekly",
+                  "Monthly",
+                  "Quarterly",
+                  "Rarely",
+                  "Never"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you like most about Eldoret Grain Millers products?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the quality of Eldoret Grain Millers products on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Eldoret Grain Millers to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE039",
+         "surveyCategory":"Kenya Commercial Bank (KCB) Foundation",
+         "surveyPaid":true,
+         "surveyAmount":66,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"Which KCB Foundation programs are you aware of?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "2jiajiri",
+                  "Education Scholarships",
+                  "Health Programs",
+                  "Environmental Initiatives"
+               ]
+            },
+            {
+               "surveyQuestion":"How impactful do you find KCB Foundation’s programs?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Impactful",
+                  "Impactful",
+                  "Neutral",
+                  "Somewhat Impactful",
+                  "Not Impactful"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you appreciate most about KCB Foundation’s initiatives?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the accessibility of KCB Foundation programs on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend KCB Foundation programs to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            },
+            {
+               "surveyQuestion":"What new program would you like KCB Foundation to introduce?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE040",
+         "surveyCategory":"Mombasa Cement",
+         "surveyPaid":true,
+         "surveyAmount":62,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"Which Mombasa Cement products do you use?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Nyumba Cement",
+                  "Simba Cement",
+                  "Concrete Mix",
+                  "Other"
+               ]
+            },
+            {
+               "surveyQuestion":"How satisfied are you with the strength of Mombasa Cement?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Satisfied",
+                  "Satisfied",
+                  "Neutral",
+                  "Dissatisfied",
+                  "Very Dissatisfied"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you like most about Mombasa Cement products?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the pricing of Mombasa Cement on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Mombasa Cement to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            },
+            {
+               "surveyQuestion":"What improvements would you suggest for Mombasa Cement?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE041",
+         "surveyCategory":"Athi River Mining (ARM) Cement",
+         "surveyPaid":true,
+         "surveyAmount":60,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"Which ARM Cement products do you use?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Rhino Cement",
+                  "Clinker",
+                  "Concrete Mix",
+                  "Other"
+               ]
+            },
+            {
+               "surveyQuestion":"How satisfied are you with ARM Cement’s quality?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Satisfied",
+                  "Satisfied",
+                  "Neutral",
+                  "Dissatisfied",
+                  "Very Dissatisfied"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you like most about ARM Cement products?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the availability of ARM Cement in your area on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend ARM Cement to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            },
+            {
+               "surveyQuestion":"What new product would you like ARM Cement to offer?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE042",
+         "surveyCategory":"Pwani Oil",
+         "surveyPaid":false,
+         "surveyAmount":43,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"Which Pwani Oil products do you use?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Soya Oil",
+                  "Sunflower Oil",
+                  "Palm Oil",
+                  "Soaps"
+               ]
+            },
+            {
+               "surveyQuestion":"How often do you purchase Pwani Oil products?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Weekly",
+                  "Monthly",
+                  "Quarterly",
+                  "Rarely",
+                  "Never"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you like most about Pwani Oil products?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the quality of Pwani Oil products on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Pwani Oil to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE043",
+         "surveyCategory":"Kenya Seed Company",
+         "surveyPaid":true,
+         "surveyAmount":65,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"Which Kenya Seed Company products do you use?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Maize Seeds",
+                  "Vegetable Seeds",
+                  "Pasture Seeds",
+                  "Other"
+               ]
+            },
+            {
+               "surveyQuestion":"How satisfied are you with the germination rate of Kenya Seed products?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Satisfied",
+                  "Satisfied",
+                  "Neutral",
+                  "Dissatisfied",
+                  "Very Dissatisfied"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you like most about Kenya Seed Company products?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the availability of Kenya Seed products in your area on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Kenya Seed Company to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            },
+            {
+               "surveyQuestion":"What new seed variety would you like Kenya Seed Company to introduce?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"How satisfied are you with Kenya Seed’s pricing?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Satisfied",
+                  "Satisfied",
+                  "Neutral",
+                  "Dissatisfied",
+                  "Very Dissatisfied"
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE044",
+         "surveyCategory":"Ndovu Paints",
+         "surveyPaid":true,
+         "surveyAmount":60,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"Which Ndovu Paints products do you use?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Emulsion Paints",
+                  "Gloss Paints",
+                  "Primers",
+                  "Industrial Coatings"
+               ]
+            },
+            {
+               "surveyQuestion":"How satisfied are you with the durability of Ndovu Paints?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Satisfied",
+                  "Satisfied",
+                  "Neutral",
+                  "Dissatisfied",
+                  "Very Dissatisfied"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you like most about Ndovu Paints products?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the color variety of Ndovu Paints on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Ndovu Paints to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            },
+            {
+               "surveyQuestion":"What new product would you like Ndovu Paints to offer?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE045",
+         "surveyCategory":"Kilimall Kenya",
+         "surveyPaid":true,
+         "surveyAmount":68,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"How often do you shop on Kilimall Kenya?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Weekly",
+                  "Monthly",
+                  "Every Few Months",
+                  "Rarely",
+                  "Never"
+               ]
+            },
+            {
+               "surveyQuestion":"Which product categories do you buy most on Kilimall?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Electronics",
+                  "Fashion",
+                  "Home Appliances",
+                  "Beauty Products",
+                  "Groceries"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you like most about shopping on Kilimall?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the delivery speed of Kilimall on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Kilimall to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            },
+            {
+               "surveyQuestion":"Have you used Kilimall’s customer support services?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Yes",
+                  "No"
+               ]
+            },
+            {
+               "surveyQuestion":"What improvements would you suggest for Kilimall?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE046",
+         "surveyCategory":"Unga Limited",
+         "surveyPaid":false,
+         "surveyAmount":44,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"Which Unga Limited products do you use?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Jogoo Maize Flour",
+                  "Ex Wheat Flour",
+                  "Baraka Flour",
+                  "Other"
+               ]
+            },
+            {
+               "surveyQuestion":"How often do you purchase Unga Limited products?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Weekly",
+                  "Monthly",
+                  "Quarterly",
+                  "Rarely",
+                  "Never"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you like most about Unga Limited products?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the quality of Unga Limited products on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Unga Limited to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE047",
+         "surveyCategory":"Kakuzi PLC",
+         "surveyPaid":true,
+         "surveyAmount":62,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"Which Kakuzi products do you consume?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Avocados",
+                  "Macadamia Nuts",
+                  "Blueberries",
+                  "Livestock Products"
+               ]
+            },
+            {
+               "surveyQuestion":"How satisfied are you with the quality of Kakuzi products?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Satisfied",
+                  "Satisfied",
+                  "Neutral",
+                  "Dissatisfied",
+                  "Very Dissatisfied"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you like most about Kakuzi products?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the availability of Kakuzi products in your area on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Kakuzi products to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            },
+            {
+               "surveyQuestion":"What new product would you like Kakuzi to introduce?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE048",
+         "surveyCategory":"Oserian Flowers",
+         "surveyPaid":true,
+         "surveyAmount":60,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"Which types of Oserian flowers do you purchase?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Roses",
+                  "Lilies",
+                  "Carnations",
+                  "Other"
+               ]
+            },
+            {
+               "surveyQuestion":"How satisfied are you with the freshness of Oserian flowers?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Satisfied",
+                  "Satisfied",
+                  "Neutral",
+                  "Dissatisfied",
+                  "Very Dissatisfied"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you like most about Oserian flowers?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the variety of Oserian flowers on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Oserian flowers to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            },
+            {
+               "surveyQuestion":"What new flower type would you like Oserian to offer?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE049",
+         "surveyCategory":"Twiga Chemical Industries",
+         "surveyPaid":true,
+         "surveyAmount":64,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"Which Twiga Chemical products do you use?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Pesticides",
+                  "Fertilizers",
+                  "Herbicides",
+                  "Fungicides"
+               ]
+            },
+            {
+               "surveyQuestion":"How satisfied are you with the effectiveness of Twiga Chemical products?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Satisfied",
+                  "Satisfied",
+                  "Neutral",
+                  "Dissatisfied",
+                  "Very Dissatisfied"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you like most about Twiga Chemical products?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the availability of Twiga Chemical products in your area on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to recommend Twiga Chemical to others?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            },
+            {
+               "surveyQuestion":"What new agricultural product would you like Twiga Chemical to offer?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            }
+         ]
+      },
+      {
+         "surveyId":"KE050",
+         "surveyCategory":"Base Titanium",
+         "surveyPaid":true,
+         "surveyAmount":62,
+         "surveyQuestions":[
+            {
+               "surveyQuestion":"Which Base Titanium community initiatives are you aware of?",
+               "surveyType":3,
+               "surveyAnswers":[
+                  "Education Programs",
+                  "Health Initiatives",
+                  "Agricultural Support",
+                  "Infrastructure Development"
+               ]
+            },
+            {
+               "surveyQuestion":"How impactful do you find Base Titanium’s community programs?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "Very Impactful",
+                  "Impactful",
+                  "Neutral",
+                  "Somewhat Impactful",
+                  "Not Impactful"
+               ]
+            },
+            {
+               "surveyQuestion":"What do you appreciate most about Base Titanium’s community work?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            },
+            {
+               "surveyQuestion":"Rate the visibility of Base Titanium’s initiatives on a scale of 1-5.",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5"
+               ]
+            },
+            {
+               "surveyQuestion":"How likely are you to support or recommend Base Titanium’s initiatives?",
+               "surveyType":1,
+               "surveyAnswers":[
+                  "1",
+                  "2",
+                  "3",
+                  "4",
+                  "5",
+                  "6",
+                  "7",
+                  "8",
+                  "9",
+                  "10"
+               ]
+            },
+            {
+               "surveyQuestion":"What new initiative would you like Base Titanium to undertake?",
+               "surveyType":2,
+               "surveyAnswers":[
+                  
+               ]
+            }
+         ]
+      }
+   ]
+}
