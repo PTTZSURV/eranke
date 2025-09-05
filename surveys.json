@@ -6,7 +6,7 @@
         "surveyId": "1",
         "surveyCategory": "MobiEarn",
         "surveyPaid": false,
-        "surveyAmount": 70,
+        "surveyAmount": 370,
         "surveyQuestions": [
           {
             "surveyQuestion": "How did you hear about us?",
