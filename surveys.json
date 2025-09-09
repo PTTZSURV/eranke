@@ -377,7 +377,7 @@
       {
          "surveyId":"KE005",
          "surveyCategory":"Brookside Dairy",
-         "surveyPaid": true,
+         "surveyPaid": false,
          "surveyAmount":45,
          "surveyQuestions":[
             {
@@ -893,7 +893,7 @@
       {
          "surveyId":"KE012",
          "surveyCategory":"Kipepeo Clothing",
-         "surveyPaid": true,
+         "surveyPaid": false,
          "surveyAmount":58,
          "surveyQuestions":[
             {
